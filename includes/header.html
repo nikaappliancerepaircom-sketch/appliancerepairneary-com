@@ -1,0 +1,165 @@
+<!-- Appliance Repair Near Me — Global Header -->
+<header class="site-header" role="banner">
+  <!-- Top Strip -->
+  <div class="header-topstrip">
+    <div class="header-topstrip-inner">
+      <span>&#128205; Serving All of Toronto &amp; GTA — Call <a href="tel:+14375241053">(437) 524-1053</a></span>
+      <span class="topstrip-hours">Mon–Sat 8am–8pm &nbsp;|&nbsp; Sun 9am–6pm</span>
+    </div>
+  </div>
+  <!-- Main Header Row -->
+  <div class="header-container">
+    <!-- Logo -->
+    <div class="header-logo">
+      <a href="/" aria-label="Appliance Repair Near Me — Home">
+        <div class="logo-text">
+          <span class="logo-name">Appliance Repair</span>
+          <span class="logo-tagline">Near Me &mdash; Toronto &amp; GTA</span>
+        </div>
+      </a>
+    </div>
+    <!-- Navigation -->
+    <nav class="header-nav" role="navigation" aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="/services" class="nav-link">Services</a></li>
+        <li><a href="/areas" class="nav-link">Areas</a></li>
+        <li><a href="/brands" class="nav-link">Brands</a></li>
+        <li><a href="/#faq" class="nav-link">FAQ</a></li>
+      </ul>
+    </nav>
+    <!-- Trust badge -->
+    <div class="header-trust" aria-label="Customer rating">
+      <div class="trust-stars">&#11088;&#11088;&#11088;&#11088;&#11088;</div>
+      <div class="trust-rating">4.9 <span class="trust-reviews">(5,200+ reviews)</span></div>
+    </div>
+    <!-- CTA -->
+    <div class="header-cta">
+      <a href="tel:+14375241053" class="cta-phone" aria-label="Call (437) 524-1053">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+        <span>(437) 524-1053</span>
+      </a>
+      <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="cta-book" target="_blank" rel="noopener" aria-label="Book a repair near you">
+        &#128205; Book Near Me
+      </a>
+    </div>
+    <!-- Hamburger -->
+    <button class="mobile-menu-btn" aria-label="Toggle mobile menu" aria-expanded="false" onclick="toggleHeaderMenu()">
+      <span class="menu-bar"></span>
+      <span class="menu-bar"></span>
+      <span class="menu-bar"></span>
+    </button>
+  </div>
+</header>
+
+<!-- Mobile bottom CTA -->
+<div class="mobile-bottom-cta" role="complementary" aria-label="Quick actions">
+  <a href="tel:+14375241053" class="mobile-cta-btn mobile-cta-call">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"/></svg>
+    <span>Call Now</span>
+  </a>
+  <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="mobile-cta-btn mobile-cta-book" target="_blank" rel="noopener">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M19 3h-1V1h-2v2H8V1H6v2H5c-1.11 0-1.99.9-1.99 2L3 19c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11zM7 10h5v5H7z"/></svg>
+    <span>Book Online</span>
+  </a>
+</div>
+
+<style>
+.header-topstrip {
+  background: #1565C0;
+  color: #fff;
+  font-size: 13px;
+  padding: 6px 24px;
+}
+.header-topstrip-inner {
+  max-width: 1160px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.header-topstrip a { color: #fff; font-weight: 600; text-decoration: none; }
+.header-topstrip a:hover { text-decoration: underline; }
+.topstrip-hours { font-size: 12px; opacity: .88; }
+.site-header { background: #fff; box-shadow: 0 2px 10px rgba(25,118,210,.1); position: sticky; top: 0; z-index: 1000; width: 100%; }
+.header-container { max-width: 1160px; margin: 0 auto; padding: 14px 24px; display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+.header-logo a { display: flex; align-items: center; gap: 10px; text-decoration: none; color: inherit; }
+.logo-text { display: flex; flex-direction: column; line-height: 1.2; }
+.logo-name { font-size: 20px; font-weight: 800; color: #1976D2; font-family: "Rubik", sans-serif; letter-spacing: -.2px; }
+.logo-tagline { font-size: 11px; font-weight: 500; color: #64748B; }
+.header-nav { flex: 1; display: flex; justify-content: center; }
+.nav-list { list-style: none; display: flex; gap: 28px; margin: 0; padding: 0; }
+.nav-link { text-decoration: none; color: #1E293B; font-weight: 500; font-size: 15px; transition: color .2s; white-space: nowrap; }
+.nav-link:hover { color: #1976D2; }
+.header-trust { display: flex; flex-direction: column; align-items: center; gap: 2px; padding: 0 16px; border-left: 1px solid #e0e8f0; border-right: 1px solid #e0e8f0; }
+.trust-stars { font-size: 13px; letter-spacing: 1px; }
+.trust-rating { font-size: 13px; font-weight: 700; color: #1E293B; white-space: nowrap; }
+.trust-reviews { font-size: 11px; font-weight: 400; color: #64748B; }
+.header-cta { display: flex; gap: 10px; }
+.cta-phone, .cta-book { display: inline-flex; align-items: center; gap: 8px; padding: 11px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 14px; transition: all .2s; white-space: nowrap; }
+.cta-phone { background: #27AE60; color: #fff; }
+.cta-phone:hover { background: #229954; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(39,174,96,.3); }
+.cta-book { background: #1976D2; color: #fff; }
+.cta-book:hover { background: #1565C0; transform: translateY(-2px); box-shadow: 0 4px 12px rgba(25,118,210,.3); }
+.mobile-menu-btn { display: none; flex-direction: column; gap: 5px; background: transparent; border: none; cursor: pointer; padding: 8px; }
+.menu-bar { width: 26px; height: 3px; background: #1E293B; border-radius: 2px; transition: all .3s; }
+.mobile-menu-btn[aria-expanded="true"] .menu-bar:nth-child(1) { transform: rotate(45deg) translateY(8px); }
+.mobile-menu-btn[aria-expanded="true"] .menu-bar:nth-child(2) { opacity: 0; }
+.mobile-menu-btn[aria-expanded="true"] .menu-bar:nth-child(3) { transform: rotate(-45deg) translateY(-8px); }
+.mobile-bottom-cta { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: #fff; box-shadow: 0 -2px 12px rgba(0,0,0,.1); z-index: 999; grid-template-columns: 1fr 1fr; gap: 10px; padding: 10px; }
+.mobile-cta-btn { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; padding: 12px; border-radius: 8px; text-decoration: none; font-weight: 600; font-size: 13px; color: #fff; transition: transform .2s; }
+.mobile-cta-call { background: #27AE60; }
+.mobile-cta-book { background: #1976D2; }
+.mobile-cta-btn:active { transform: scale(.95); }
+@media (max-width: 1100px) { .header-trust { display: none; } }
+@media (max-width: 900px) {
+  .header-nav { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 80px; margin-top: 104px; background: #fff; padding: 20px; box-shadow: 0 4px 20px rgba(0,0,0,.15); overflow-y: auto; z-index: 998; }
+  .header-nav.menu-open { display: block; }
+  .nav-list { flex-direction: column; gap: 0; }
+  .nav-list li { border-bottom: 1px solid #f0f0f0; }
+  .nav-link { display: block; padding: 16px 12px; font-size: 18px; }
+  .header-cta { display: none; }
+  .mobile-menu-btn { display: flex; }
+  .mobile-bottom-cta { display: grid; }
+  body { padding-bottom: 70px; }
+}
+@media (max-width: 600px) {
+  .header-container { padding: 10px 16px; }
+  .logo-name { font-size: 17px; }
+  .logo-tagline { font-size: 10px; }
+  .header-topstrip { display: none; }
+}
+</style>
+
+<script>
+function toggleHeaderMenu() {
+  var nav = document.querySelector('.header-nav');
+  var btn = document.querySelector('.mobile-menu-btn');
+  if (nav && btn) {
+    var isOpen = nav.classList.contains('menu-open');
+    if (isOpen) {
+      nav.classList.remove('menu-open');
+      btn.setAttribute('aria-expanded', 'false');
+      document.body.style.overflow = '';
+    } else {
+      nav.classList.add('menu-open');
+      btn.setAttribute('aria-expanded', 'true');
+      document.body.style.overflow = 'hidden';
+    }
+  }
+}
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.header-nav .nav-link').forEach(function(link) {
+    link.addEventListener('click', function() {
+      var nav = document.querySelector('.header-nav');
+      var btn = document.querySelector('.mobile-menu-btn');
+      if (nav && nav.classList.contains('menu-open')) {
+        nav.classList.remove('menu-open');
+        btn.setAttribute('aria-expanded', 'false');
+        document.body.style.overflow = '';
+      }
+    });
+  });
+});
+</script>
