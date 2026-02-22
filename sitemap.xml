@@ -7,6 +7,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://appliancerepairneary.com/areas</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://appliancerepairneary.com/book</loc>
     <lastmod>2026-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -14,6 +20,12 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/bosch-repair</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://appliancerepairneary.com/brands</loc>
     <lastmod>2026-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -500,6 +512,12 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/samsung-repair</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://appliancerepairneary.com/services</loc>
     <lastmod>2026-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
