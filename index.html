@@ -203,6 +203,19 @@
     .btn-green { display: inline-flex; align-items: center; gap: 8px; background: #27AE60; color: #fff; font-size: 15px; font-weight: 700; padding: 14px 28px; border-radius: var(--radius-md); border: none; cursor: pointer; transition: background .2s, transform .2s, box-shadow .2s; box-shadow: 0 4px 16px rgba(39,174,96,.3); white-space: nowrap; }
     .btn-green:hover { background: #229954; transform: translateY(-2px); box-shadow: 0 6px 24px rgba(39,174,96,.4); }
 
+    /* ANSWER CAPSULE */
+    .answer-capsule {
+      background: #F0FDF4;
+      border-left: 4px solid #16A34A;
+      padding: 12px 16px;
+      border-radius: 6px;
+      font-size: 0.875rem;
+      margin-bottom: 1.5rem;
+      line-height: 1.5;
+    }
+    .answer-capsule p { margin: 0; }
+    .answer-capsule a { color: #16A34A; }
+
     /* HERO */
     .hero { position: relative; background: var(--white); min-height: 90vh; display: flex; align-items: center; overflow: hidden; }
     .hero::before { content: ""; position: absolute; top: 0; left: 0; width: 360px; height: 5px; background: linear-gradient(90deg, var(--blue-dark), var(--blue-light), transparent); border-radius: 0 3px 3px 0; }
@@ -407,9 +420,11 @@
           <span class="accent">Near You</span> in<br>
           Toronto &amp; GTA
         </h1>
+        <div class="answer-capsule" role="note" aria-label="Quick Answer">
+          <p><strong>Looking for appliance repair near you in Toronto?</strong> Call <a href="tel:+14375241053">(437) 524-1053</a> — our nearest certified technician reaches your neighbourhood within 2–4 hours. Same-day service across all GTA, Mon–Sat 8am–8pm · Sun 9am–6pm. 90-day warranty included.</p>
+        </div>
         <p class="hero-desc">
-          Same-day service in your neighbourhood. Fridge, washer, dryer, dishwasher, oven &amp; stove repair.
-          4.9&#9733; rated, 90-day warranty. <strong>We come to you.</strong>
+          We dispatch from the neighbourhood closest to your address — not from a central warehouse across the city. Our GPS-tracked technicians are stationed throughout Toronto, Scarborough, North York, Mississauga, Brampton, and every corner of the GTA. When you call, our system finds the closest available tech to your street and sends them your way, typically arriving within 2&#8211;4 hours. Fridge, washer, dryer, dishwasher, oven &amp; stove — <strong>we know your streets, and we come to you.</strong>
         </p>
         <div class="hero-cta">
           <a href="tel:+14375241053" class="btn-green">&#128222;&nbsp; Call (437) 524-1053</a>
@@ -491,50 +506,50 @@
 <section class="services-section" id="services">
   <div class="container">
     <div class="section-header">
-      <span class="section-label">Appliances We Fix Near You</span>
-      <h2 class="section-title">Appliance Repair Services Near Me</h2>
-      <p class="section-subtitle">From fridges to ovens — we repair all household appliances near you across Toronto and the GTA.</p>
+      <span class="section-label">Nearest Tech to You</span>
+      <h2 class="section-title">Every Appliance Repaired by the Closest Tech to Your Door</h2>
+      <p class="section-subtitle">Our dispatch routes the technician who is geographically nearest to your address. That means shorter wait times, faster fixes, and a local tech who already knows the appliance stock in your neighbourhood.</p>
     </div>
     <div class="services-grid">
       <div class="service-card reveal">
         <span class="service-icon">&#129398;</span>
         <div class="service-name">Refrigerator Repair Near Me</div>
-        <p class="service-desc">Fridge not cooling, ice maker broken, water dispenser issues, compressor problems — fast diagnosis and same-day fix near you.</p>
+        <p class="service-desc">Fridge not cooling? Our nearest Scarborough or North York tech can be at your door in 2 hours — no long waits, no call centres. We diagnose compressor failures, ice maker faults, and thermostat issues on site, carrying Samsung, LG, and Whirlpool parts on board so your kitchen is cold again by tonight.</p>
         <span class="service-tag">Same Day</span>
         <a href="/services/refrigerator-repair" class="service-link">Learn more &rarr;</a>
       </div>
       <div class="service-card reveal" style="transition-delay:.06s">
         <span class="service-icon">&#129703;</span>
         <div class="service-name">Washer Repair Near Me</div>
-        <p class="service-desc">Not spinning, leaking, won't drain, error codes, noisy — all washing machine brands serviced near you in the GTA.</p>
+        <p class="service-desc">Washer won't spin? We dispatch from the closest tech to your Mississauga or Brampton address — typically 2&#8211;4 hours same day. Drum bearing swaps, drain pump replacements, and error-code resets for every brand. No middlemen: the tech who answers your call is the one who knocks on your door.</p>
         <span class="service-tag">All Brands</span>
         <a href="/services/washer-repair" class="service-link">Learn more &rarr;</a>
       </div>
       <div class="service-card reveal" style="transition-delay:.12s">
         <span class="service-icon">&#128168;</span>
         <div class="service-name">Dryer Repair Near Me</div>
-        <p class="service-desc">Not heating, takes too long, tumbling issues, belt and thermal fuse repairs — gas and electric dryers repaired near you.</p>
+        <p class="service-desc">Dryer running cold or taking forever? Our Etobicoke and Vaughan techs handle gas and electric units — thermal fuses, heating elements, drum belts — all on the first visit. We route from the nearest available van so you are not stuck hauling wet laundry to a laundromat across town.</p>
         <span class="service-tag">Gas &amp; Electric</span>
         <a href="/services/dryer-repair" class="service-link">Learn more &rarr;</a>
       </div>
       <div class="service-card reveal" style="transition-delay:.18s">
         <span class="service-icon">&#127869;</span>
         <div class="service-name">Dishwasher Repair Near Me</div>
-        <p class="service-desc">Not cleaning, water pooling, door latch broken, pump and motor issues — dishwasher repair near you, same-day available.</p>
+        <p class="service-desc">Water pooling at the bottom or dishes coming out dirty? A certified tech near your Richmond Hill or Markham home will arrive same-day. We clear blocked pumps, replace spray arms, and fix door latches for Bosch, KitchenAid, Whirlpool, and more — parts stocked on every van.</p>
         <span class="service-tag">90-Day Warranty</span>
         <a href="/services/dishwasher-repair" class="service-link">Learn more &rarr;</a>
       </div>
       <div class="service-card reveal" style="transition-delay:.24s">
         <span class="service-icon">&#128293;</span>
         <div class="service-name">Oven &amp; Stove Repair Near Me</div>
-        <p class="service-desc">Burner not lighting, uneven heating, igniter problems, self-clean failure — oven and stove repair near you in the GTA.</p>
+        <p class="service-desc">Burner won't ignite or oven heating unevenly? Our GTA-wide dispatch means a qualified tech reaches your Oakville, Burlington, or downtown Toronto kitchen fast. We service gas igniters, electric elements, control boards, and self-clean failures — no second trip needed in most cases.</p>
         <span class="service-tag">Gas &amp; Electric</span>
         <a href="/services/oven-repair" class="service-link">Learn more &rarr;</a>
       </div>
       <div class="service-card reveal" style="transition-delay:.30s">
         <span class="service-icon">&#10052;</span>
         <div class="service-name">Freezer Repair Near Me</div>
-        <p class="service-desc">Not freezing, frost buildup, temperature swings, door seal replacement — chest and upright freezers repaired near you.</p>
+        <p class="service-desc">Freezer thawing or building excess frost? Time matters — every hour costs you groceries. That is why we station techs across Pickering, Ajax, Whitby, and Oshawa in Durham Region so help is close by. Chest and upright freezers, all brands, sealed-system certified repairs with 90-day warranty.</p>
         <span class="service-tag">Same Day</span>
         <a href="/services/freezer-repair" class="service-link">Learn more &rarr;</a>
       </div>
@@ -548,25 +563,25 @@
 <section class="hiw-section" id="how-it-works">
   <div class="container">
     <div class="section-header">
-      <span class="section-label">How It Works</span>
-      <h2 class="section-title">3 Steps to Appliance Repair Near You</h2>
-      <p class="section-subtitle">We have made getting appliance repair near you as easy as possible — no hassle, no confusion.</p>
+      <span class="section-label">How Proximity Dispatch Works</span>
+      <h2 class="section-title">3 Steps from Your Call to Your Nearest Technician</h2>
+      <p class="section-subtitle">We match you with the tech who is physically closest to your address — not just whoever is next on a list. Here is how it works.</p>
     </div>
     <div class="hiw-steps">
       <div class="hiw-step reveal">
         <div class="hiw-step-num">1</div>
-        <h3 class="hiw-step-title">Select Your Area</h3>
-        <p class="hiw-step-desc">Tell us your city or neighbourhood in the GTA. We confirm same-day availability near you and find the closest certified technician to your address.</p>
+        <h3 class="hiw-step-title">Tell Us Your Address</h3>
+        <p class="hiw-step-desc">Share your street address or postal code so our dispatch system can pinpoint the closest available technician to your neighbourhood. Whether you are in a Willowdale condo, a Brampton townhome, or a detached house in Scarborough, we locate the nearest tech instantly.</p>
       </div>
       <div class="hiw-step reveal" style="transition-delay:.1s">
         <div class="hiw-step-num">2</div>
-        <h3 class="hiw-step-title">Book Online or Call</h3>
-        <p class="hiw-step-desc">Use our online booking form or call <a href="tel:+14375241053" style="color:var(--blue-mid);font-weight:700;">(437) 524-1053</a>. Choose a time that works — morning, afternoon, or evening slots available.</p>
+        <h3 class="hiw-step-title">We Find the Nearest Tech</h3>
+        <p class="hiw-step-desc">Our GPS-based routing matches you with the technician who is physically closest to your area — not just whoever is next in line. Call <a href="tel:+14375241053" style="color:var(--blue-mid);font-weight:700;">(437) 524-1053</a> or book online and we confirm your time slot within minutes. Morning, afternoon, and evening windows available.</p>
       </div>
       <div class="hiw-step reveal" style="transition-delay:.2s">
         <div class="hiw-step-num">3</div>
-        <h3 class="hiw-step-title">We Come to You</h3>
-        <p class="hiw-step-desc">Our technician arrives at your door, fully equipped with tools and common parts. Most repairs done on the first visit. 90-day warranty included.</p>
+        <h3 class="hiw-step-title">Your Local Tech Arrives</h3>
+        <p class="hiw-step-desc">A certified technician drives from nearby — not from across the city. They arrive with a fully stocked van carrying parts for Samsung, LG, Whirlpool, Bosch, and more. Most repairs are completed on the first visit, backed by our 90-day parts and labour warranty.</p>
       </div>
     </div>
   </div>
@@ -578,89 +593,89 @@
 <section class="coverage-section" id="areas">
   <div class="container">
     <div class="section-header">
-      <span class="section-label">Service Coverage</span>
-      <h2 class="section-title">Appliance Repair Near You Across the GTA</h2>
-      <p class="section-subtitle">We have certified technicians stationed across the Greater Toronto Area. Select your city to see availability near you.</p>
+      <span class="section-label">Neighbourhood-Level Coverage</span>
+      <h2 class="section-title">Technicians Stationed Across Every GTA Neighbourhood</h2>
+      <p class="section-subtitle">We do not operate from one central shop. Our certified techs live and work throughout the GTA so there is always someone close to your door. Typical arrival: 2&#8211;4 hours from your call.</p>
     </div>
     <div class="coverage-grid">
       <a href="/areas/toronto" class="coverage-card reveal">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Toronto</span>
-        <span class="coverage-card-sub">Downtown &amp; All Wards</span>
+        <span class="coverage-card-sub">Downtown condos, Midtown semis, East End &mdash; 1&#8211;3 hr arrival</span>
       </a>
       <a href="/areas/scarborough" class="coverage-card reveal" style="transition-delay:.04s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Scarborough</span>
-        <span class="coverage-card-sub">East Toronto</span>
+        <span class="coverage-card-sub">Agincourt, Rouge, Malvern detached homes &mdash; 2 hr avg</span>
       </a>
       <a href="/areas/north-york" class="coverage-card reveal" style="transition-delay:.08s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">North York</span>
-        <span class="coverage-card-sub">Willowdale &amp; Area</span>
+        <span class="coverage-card-sub">Willowdale condos, Bayview Village, Don Mills &mdash; 1&#8211;2 hr</span>
       </a>
       <a href="/areas/etobicoke" class="coverage-card reveal" style="transition-delay:.12s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Etobicoke</span>
-        <span class="coverage-card-sub">West Toronto</span>
+        <span class="coverage-card-sub">Humber Bay, Mimico, Rexdale &mdash; 2 hr avg</span>
       </a>
       <a href="/areas/mississauga" class="coverage-card reveal" style="transition-delay:.16s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Mississauga</span>
-        <span class="coverage-card-sub">Peel Region</span>
+        <span class="coverage-card-sub">Square One condos, Erin Mills townhomes &mdash; 2&#8211;3 hr</span>
       </a>
       <a href="/areas/brampton" class="coverage-card reveal" style="transition-delay:.20s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Brampton</span>
-        <span class="coverage-card-sub">Peel Region</span>
+        <span class="coverage-card-sub">New detached builds, Mount Pleasant, Springdale &mdash; 2&#8211;4 hr</span>
       </a>
       <a href="/areas/vaughan" class="coverage-card reveal" style="transition-delay:.24s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Vaughan</span>
-        <span class="coverage-card-sub">York Region</span>
+        <span class="coverage-card-sub">Woodbridge, Kleinburg, Maple estates &mdash; 2&#8211;3 hr</span>
       </a>
       <a href="/areas/richmond-hill" class="coverage-card reveal" style="transition-delay:.28s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Richmond Hill</span>
-        <span class="coverage-card-sub">York Region</span>
+        <span class="coverage-card-sub">Oak Ridges, Observatory, Bayview Hill &mdash; 2&#8211;3 hr</span>
       </a>
       <a href="/areas/markham" class="coverage-card reveal" style="transition-delay:.32s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Markham</span>
-        <span class="coverage-card-sub">York Region</span>
+        <span class="coverage-card-sub">Unionville, Cornell, Berczy Village &mdash; 2&#8211;3 hr</span>
       </a>
       <a href="/areas/oakville" class="coverage-card reveal" style="transition-delay:.36s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Oakville</span>
-        <span class="coverage-card-sub">Halton Region</span>
+        <span class="coverage-card-sub">Bronte, Glen Abbey, Lakeshore &mdash; 2&#8211;4 hr</span>
       </a>
       <a href="/areas/burlington" class="coverage-card reveal" style="transition-delay:.40s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Burlington</span>
-        <span class="coverage-card-sub">Halton Region</span>
+        <span class="coverage-card-sub">Alton Village, Tyandaga, Plains Rd &mdash; 3&#8211;4 hr</span>
       </a>
       <a href="/areas/pickering" class="coverage-card reveal" style="transition-delay:.44s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Pickering</span>
-        <span class="coverage-card-sub">Durham Region</span>
+        <span class="coverage-card-sub">Liverpool Rd, Dunbarton, Rouge Park &mdash; 2&#8211;3 hr</span>
       </a>
       <a href="/areas/ajax" class="coverage-card reveal" style="transition-delay:.48s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Ajax</span>
-        <span class="coverage-card-sub">Durham Region</span>
+        <span class="coverage-card-sub">Salem, Westney Heights &mdash; 2&#8211;4 hr</span>
       </a>
       <a href="/areas/whitby" class="coverage-card reveal" style="transition-delay:.52s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Whitby</span>
-        <span class="coverage-card-sub">Durham Region</span>
+        <span class="coverage-card-sub">Brooklin, Whitby Shores, downtown &mdash; 3&#8211;4 hr</span>
       </a>
       <a href="/areas/oshawa" class="coverage-card reveal" style="transition-delay:.56s">
         <span class="coverage-card-icon">&#128205;</span>
         <span class="coverage-card-name">Oshawa</span>
-        <span class="coverage-card-sub">Durham Region</span>
+        <span class="coverage-card-sub">Taunton, Windfields, Simcoe corridor &mdash; 3&#8211;4 hr</span>
       </a>
     </div>
     <p class="coverage-note reveal">
-      Don't see your city? <a href="tel:+14375241053">Call (437) 524-1053</a> — we likely cover your area.
+      Don't see your neighbourhood? <a href="tel:+14375241053">Call (437) 524-1053</a> — we likely have a tech near you already.
     </p>
   </div>
 </section>
@@ -671,9 +686,9 @@
 <section class="brands-section" id="brands">
   <div class="container">
     <div class="section-header">
-      <span class="section-label">Brands We Repair Near You</span>
-      <h2 class="section-title">We Fix All Major Appliance Brands</h2>
-      <p class="section-subtitle">Our certified technicians are factory-trained on all leading manufacturers. Samsung, LG, Whirlpool and more — repaired near you.</p>
+      <span class="section-label">Every Brand, Every Neighbourhood</span>
+      <h2 class="section-title">Factory-Trained Techs Near You for Every Major Brand</h2>
+      <p class="section-subtitle">Our vans carry brand-specific diagnostic tools and common parts for Samsung, LG, Whirlpool, Bosch, and more. Wherever you are in the GTA, a tech with the right parts is already nearby.</p>
     </div>
     <div class="brands-grid">
       <a href="/brands/samsung" class="brand-chip brand-samsung reveal">Samsung</a>
@@ -696,9 +711,9 @@
 <section class="reviews-section" id="reviews">
   <div class="container">
     <div class="section-header">
-      <span class="section-label">Customer Reviews</span>
-      <h2 class="section-title">What Neighbours Are Saying</h2>
-      <p class="section-subtitle">Over 5,200 happy customers across the GTA trust us for fast appliance repair near them.</p>
+      <span class="section-label">Reviews from Your Neighbours</span>
+      <h2 class="section-title">GTA Homeowners Who Got the Nearest Tech</h2>
+      <p class="section-subtitle">Over 5,200 families across Toronto, Scarborough, Mississauga, Brampton, and beyond trusted our proximity-first dispatch. Here is what they say about the speed.</p>
     </div>
     <div class="reviews-grid">
       <div class="review-card reveal">
@@ -888,9 +903,9 @@
 <section class="final-cta-section">
   <div class="container">
     <div class="final-cta-card reveal">
-      <div class="final-cta-label">Appliance Repair Near You — Available Today</div>
-      <h2 class="final-cta-title">Ready for Same-Day Repair Near You?</h2>
-      <p class="final-cta-subtitle">Call now and we will find the nearest certified technician to your address — same-day dispatch across all of Toronto and the GTA.</p>
+      <div class="final-cta-label">Your Nearest Technician Is Standing By</div>
+      <h2 class="final-cta-title">Get the Closest Tech to Your Door — Today</h2>
+      <p class="final-cta-subtitle">One call and our system locates the certified technician who is nearest to your address right now. Same-day dispatch across every Toronto and GTA neighbourhood — no call centres, no long waits.</p>
       <a href="tel:+14375241053" class="final-cta-phone">(437) 524-1053</a>
       <div class="final-cta-btns">
         <a href="tel:+14375241053" class="btn-green">&#128222;&nbsp; Call Now — It's Free</a>
