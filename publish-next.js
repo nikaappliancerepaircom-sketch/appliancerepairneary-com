@@ -70,12 +70,20 @@ async function main() {
   const displayDate = formatDate(date);
   console.log('Publishing: ' + file + '\n  Title: ' + h1 + '\n  Date: ' + displayDate + '\n  URL: ' + url);
   if (dryRun) { console.log('[DRY RUN] No changes made.'); return; }
-  fs.copyFileSync(srcPath, destPath);
+  // Rewrite dates to today's actual date (avoid future/past date mismatch)
+  const today = new Date();
+  const todayISO = today.toISOString().split('T')[0];
+  const todayDisplay = today.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Toronto' });
+  const updatedHtml = html
+    .replace(/"datePublished"\s*:\s*"[^"]+"/g, '"datePublished":"' + todayISO + '"')
+    .replace(/"dateModified"\s*:\s*"[^"]+"/g, '"dateModified":"' + todayISO + '"')
+    .replace(/Published\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s*\d{4}/g, 'Published ' + todayDisplay);
+  fs.writeFileSync(destPath, updatedHtml);
   fs.unlinkSync(srcPath);
   if (fs.existsSync(BLOG_INDEX)) {
     let indexHtml = fs.readFileSync(BLOG_INDEX, 'utf8');
     const svgArrow = '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>';
-    const card = '\n        <!-- Auto-published ' + date + ' -->\n        <article class="post-card">\n          <div class="post-card-stripe"></div>\n          <div class="post-card-header">\n            <div class="post-tag">' + tag + '</div>\n            <h2><a href="/blog/' + slug + '">' + h1 + '</a></h2>\n          </div>\n          <div class="post-card-body">\n            <p class="post-excerpt">' + desc + '</p>\n          </div>\n          <div class="post-card-footer">\n            <span class="post-date">' + displayDate + '</span>\n            <a href="/blog/' + slug + '" class="read-more">Read More ' + svgArrow + '</a>\n          </div>\n        </article>\n\n        <!-- Post 1 -->';
+    const card = '\n        <!-- Auto-published ' + todayISO + ' -->\n        <article class="post-card">\n          <div class="post-card-stripe"></div>\n          <div class="post-card-header">\n            <div class="post-tag">' + tag + '</div>\n            <h2><a href="/blog/' + slug + '">' + h1 + '</a></h2>\n          </div>\n          <div class="post-card-body">\n            <p class="post-excerpt">' + desc + '</p>\n          </div>\n          <div class="post-card-footer">\n            <span class="post-date">' + todayDisplay + '</span>\n            <a href="/blog/' + slug + '" class="read-more">Read More ' + svgArrow + '</a>\n          </div>\n        </article>\n\n        <!-- Post 1 -->';
     if (indexHtml.includes('<!-- Post 1 -->')) {
       fs.writeFileSync(BLOG_INDEX, indexHtml.replace('<!-- Post 1 -->', card));
       console.log('  v Added card to blog/index.html');
