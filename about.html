@@ -177,7 +177,8 @@
     .team-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 22px; }
     .team-card { background: var(--white); border: 1px solid var(--gray-200); border-radius: var(--radius-lg); padding: 28px 22px; text-align: center; box-shadow: var(--shadow-sm); transition: transform .25s, box-shadow .25s; }
     .team-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-md); }
-    .team-avatar { width: 72px; height: 72px; border-radius: 50%; background: linear-gradient(135deg, var(--blue-light), var(--blue-mid)); color: var(--white); font-family: "Rubik", sans-serif; font-size: 22px; font-weight: 800; display: flex; align-items: center; justify-content: center; margin: 0 auto 14px; }
+    .team-avatar { width: 88px; height: 88px; border-radius: 50%; background: linear-gradient(135deg, var(--blue-light), var(--blue-mid)); display: flex; align-items: center; justify-content: center; margin: 0 auto 14px; overflow: hidden; }
+    .team-avatar img { width: 100%; height: 100%; object-fit: cover; object-position: center top; border-radius: 50%; }
     .team-name { font-family: "Rubik", sans-serif; font-size: 17px; font-weight: 700; color: var(--navy); margin-bottom: 4px; }
     .team-role { font-size: 12px; font-weight: 700; color: var(--blue-mid); background: var(--blue-bg); padding: 3px 10px; border-radius: 100px; display: inline-block; margin-bottom: 10px; }
     .team-bio { font-size: 13px; color: var(--gray-600); line-height: 1.6; }
@@ -372,7 +373,7 @@
     </div>
     <div class="team-grid">
       <div class="team-card reveal">
-        <div class="team-avatar">AM</div>
+        <div class="team-avatar"><img src="/img/team-neary-alex.jpg" alt="Alex M. - Lead Technician" loading="lazy" /></div>
         <div class="team-name">Alex M.</div>
         <div class="team-role">Lead Technician</div>
         <p class="team-bio">
@@ -381,7 +382,7 @@
         <div class="team-cert">Certified Appliance Technician &middot; 12 yrs exp.</div>
       </div>
       <div class="team-card reveal" style="transition-delay:.08s">
-        <div class="team-avatar" style="background: linear-gradient(135deg, #81C784, #388E3C);">MS</div>
+        <div class="team-avatar"><img src="/img/team-neary-maria.jpg" alt="Maria S. - Senior Technician" loading="lazy" /></div>
         <div class="team-name">Maria S.</div>
         <div class="team-role">Senior Technician</div>
         <p class="team-bio">
@@ -390,7 +391,7 @@
         <div class="team-cert">Factory-Trained Bosch Specialist &middot; 9 yrs exp.</div>
       </div>
       <div class="team-card reveal" style="transition-delay:.16s">
-        <div class="team-avatar" style="background: linear-gradient(135deg, #FFB74D, #F57C00);">DK</div>
+        <div class="team-avatar"><img src="/img/team-neary-david.jpg" alt="David K. - Appliance Technician" loading="lazy" /></div>
         <div class="team-name">David K.</div>
         <div class="team-role">Appliance Technician</div>
         <p class="team-bio">
@@ -399,7 +400,7 @@
         <div class="team-cert">Gas Appliance Certified &middot; 7 yrs exp.</div>
       </div>
       <div class="team-card reveal" style="transition-delay:.24s">
-        <div class="team-avatar" style="background: linear-gradient(135deg, #CE93D8, #7B1FA2);">NP</div>
+        <div class="team-avatar"><img src="/img/team-neary-nina.jpg" alt="Nina P. - Appliance Technician" loading="lazy" /></div>
         <div class="team-name">Nina P.</div>
         <div class="team-role">Appliance Technician</div>
         <p class="team-bio">
