@@ -7,20 +7,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/areas</loc>
     <lastmod>2025-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/beaumont</loc>
-    <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -61,34 +49,10 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/cochrane</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/contact</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/devon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dishwasher-installation-bayview-village</loc>
@@ -283,12 +247,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-ajax</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,12 +254,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-bayview-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-beaumont</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -349,25 +301,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-chinatown</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-cochrane</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -386,12 +320,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-davisville-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-devon</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -439,12 +367,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-greektown</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -452,12 +374,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-high-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-high-river</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -481,12 +397,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-lawrence-park</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -494,12 +404,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-leaside</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-leduc</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -571,12 +475,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-oshawa</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -637,37 +535,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dishwasher-repair-st-lawrence</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dishwasher-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -745,12 +613,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dryer-repair-ajax</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -758,12 +620,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dryer-repair-bayview-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-beaumont</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -811,25 +667,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dryer-repair-chinatown</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-cochrane</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -848,12 +686,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dryer-repair-davisville-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-devon</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -901,12 +733,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dryer-repair-greektown</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -914,12 +740,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dryer-repair-high-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-high-river</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -943,12 +763,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dryer-repair-lawrence-park</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -956,12 +770,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/dryer-repair-leaside</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-leduc</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1033,12 +841,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dryer-repair-oshawa</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1099,37 +901,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/dryer-repair-st-lawrence</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/dryer-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1219,28 +991,10 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/freezer-not-working-near-me</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-beaumont</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://appliancerepairneary.com/freezer-repair-calgary</loc>
@@ -1249,91 +1003,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-cochrane</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-devon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/freezer-repair-edmonton</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-high-river</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-leduc</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/freezer-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -1351,12 +1021,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/fridge-repair-ajax</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1364,12 +1028,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/fridge-repair-bayview-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-beaumont</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1417,25 +1075,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/fridge-repair-chinatown</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-cochrane</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1454,12 +1094,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/fridge-repair-davisville-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-devon</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1507,12 +1141,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/fridge-repair-greektown</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1520,12 +1148,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/fridge-repair-high-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-high-river</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1549,12 +1171,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/fridge-repair-lawrence-park</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -1562,12 +1178,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/fridge-repair-leaside</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-leduc</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1639,12 +1249,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/fridge-repair-oshawa</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1705,37 +1309,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/fridge-repair-st-lawrence</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/fridge-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2047,12 +1621,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/high-river</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/</loc>
     <lastmod>2025-10-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2117,18 +1685,6 @@
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/leduc</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://appliancerepairneary.com/lg-dishwasher-repair</loc>
@@ -2215,109 +1771,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-beaumont</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/microwave-repair-calgary</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-cochrane</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-devon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/microwave-repair-edmonton</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-high-river</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-leduc</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/microwave-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -2353,22 +1813,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/oven-not-heating-near-me</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://appliancerepairneary.com/oven-repair-ajax</loc>
@@ -2378,12 +1826,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/oven-repair-bayview-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-beaumont</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2431,25 +1873,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/oven-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/oven-repair-chinatown</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-cochrane</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2468,12 +1892,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/oven-repair-davisville-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-devon</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2521,12 +1939,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/oven-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/oven-repair-greektown</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2534,12 +1946,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/oven-repair-high-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-high-river</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2563,12 +1969,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/oven-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/oven-repair-lawrence-park</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -2576,12 +1976,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/oven-repair-leaside</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-leduc</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2653,12 +2047,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/oven-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/oven-repair-oshawa</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -2719,37 +2107,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/oven-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/oven-repair-st-lawrence</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/oven-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2833,109 +2191,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/range-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-beaumont</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/range-repair-calgary</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/range-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-cochrane</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-devon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/range-repair-edmonton</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-high-river</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-leduc</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/range-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -2989,36 +2251,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/stove-repair-ajax</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -3026,12 +2258,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/stove-repair-bayview-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-beaumont</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3079,25 +2305,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/stove-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/stove-repair-chinatown</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-cochrane</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3116,12 +2324,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/stove-repair-davisville-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-devon</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3169,12 +2371,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/stove-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/stove-repair-greektown</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -3182,12 +2378,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/stove-repair-high-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-high-river</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3211,12 +2401,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/stove-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/stove-repair-lawrence-park</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -3224,12 +2408,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/stove-repair-leaside</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-leduc</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3301,12 +2479,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/stove-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/stove-repair-oshawa</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -3367,37 +2539,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/stove-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/stove-repair-st-lawrence</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/stove-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -3469,12 +2611,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/strathmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/washer-dryer-repair-near-me</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -3493,12 +2629,6 @@
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/washer-repair-airdrie</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/washer-repair-ajax</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -3506,12 +2636,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/washer-repair-bayview-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-beaumont</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -3559,25 +2683,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/washer-repair-canmore</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-chestermere</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/washer-repair-chinatown</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-cochrane</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -3596,12 +2702,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/washer-repair-davisville-village</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-devon</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -3649,12 +2749,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/washer-repair-fort-saskatchewan</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/washer-repair-greektown</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -3662,12 +2756,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/washer-repair-high-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-high-river</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -3691,12 +2779,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/washer-repair-langdon</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/washer-repair-lawrence-park</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -3704,12 +2786,6 @@
   </url>
   <url>
     <loc>https://appliancerepairneary.com/washer-repair-leaside</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-leduc</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -3781,12 +2857,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/washer-repair-okotoks</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/washer-repair-oshawa</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -3847,37 +2917,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://appliancerepairneary.com/washer-repair-sherwood-park</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-spruce-grove</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-st-albert</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://appliancerepairneary.com/washer-repair-st-lawrence</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-stony-plain</loc>
-    <lastmod>2026-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://appliancerepairneary.com/washer-repair-strathmore</loc>
     <lastmod>2026-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
