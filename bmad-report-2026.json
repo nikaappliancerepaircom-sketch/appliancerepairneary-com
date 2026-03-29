@@ -1,11 +1,11 @@
 {
-  "generated": "2026-03-29T10:21:24.824Z",
+  "generated": "2026-03-29T10:26:41.607Z",
   "version": "BMAD-2026",
   "site": "appliancerepairneary.com",
   "config": "word_count_target: 600-1200w | keyword_density: spam_check_only",
   "grandTotal": 730,
-  "grandPassed": 697,
-  "passRate": "95%",
+  "grandPassed": 702,
+  "passRate": "96%",
   "issueFrequency": {
     "Meta desc exists": 1,
     "LocalBusiness schema": 3,
@@ -31,9 +31,9 @@
     "Pricing visible": 10,
     "Warranty/guarantee mentioned": 1,
     "FAQ visible on page": 3,
-    "Brand names mentioned": 45,
-    "Specific symptoms/parts": 157,
-    "Booking iframe": 19,
+    "Brand names mentioned": 22,
+    "Specific symptoms/parts": 148,
+    "Booking iframe": 1,
     "Internal links 8+": 30,
     "Lazy loading": 54,
     "Keyword \"airdrie\" density 3.14% — above 2% spam risk": 1,
@@ -324,9 +324,9 @@
     "Keyword \"strathmore\" density 3.09% — above 2% spam risk": 1,
     "Keyword \"whirlpool\" density 4.84% — above 2% spam risk": 1,
     "Keyword \"whirlpool\" density 4.82% — above 2% spam risk": 1,
-    "Keyword \"appliance\" density 2.26% — above 2% spam risk": 1,
+    "Keyword \"appliance\" density 2.25% — above 2% spam risk": 1,
     "Answer capsule": 16,
-    "Blog word count 1200+": 24,
+    "Blog word count 1200+": 23,
     "Keyword \"appliance\" density 3.19% — above 2% spam risk": 1,
     "Keyword \"appliance\" density 2.44% — above 2% spam risk": 1,
     "Keyword \"appliance\" density 2.52% — above 2% spam risk": 1,
@@ -340,11 +340,11 @@
     "Keyword \"appliance\" density 2.89% — above 2% spam risk": 1,
     "Keyword \"dishwasher\" density 2.87% — above 2% spam risk": 1,
     "Keyword \"dishwasher\" density 4.19% — above 2% spam risk": 1,
-    "Keyword \"dryer\" density 4.20% — above 2% spam risk": 1,
+    "Keyword \"dryer\" density 4.12% — above 2% spam risk": 1,
     "Keyword \"fridge\" density 3.42% — above 2% spam risk": 1,
     "Keyword \"fridge\" density 3.61% — above 2% spam risk": 1,
-    "Keyword \"oven\" density 4.94% — above 2% spam risk": 1,
-    "Keyword \"same-day\" density 3.73% — above 2% spam risk": 1
+    "Keyword \"oven\" density 4.83% — above 2% spam risk": 1,
+    "Keyword \"same-day\" density 3.67% — above 2% spam risk": 1
   },
   "folders": {
     "root": {
@@ -439,14 +439,14 @@
     },
     "blog": {
       "count": 52,
-      "avgScore": 82,
-      "passed": 23,
-      "avgWords": 1201,
+      "avgScore": 85,
+      "passed": 28,
+      "avgWords": 1216,
       "worst": [
         {
           "file": "oven-repair-near-me-toronto.html",
-          "score": 67,
-          "words": 851,
+          "score": 70,
+          "words": 870,
           "issues": [],
           "warnings": [
             "Title 45-65 chars",
@@ -455,26 +455,8 @@
             "OG tags",
             "Blog word count 900+",
             "Blog word count 1200+",
-            "Keyword \"oven\" density 4.94% — above 2% spam risk",
+            "Keyword \"oven\" density 4.83% — above 2% spam risk",
             "Keyword density <2% (spam check)",
-            "Brand names mentioned (3+)",
-            "Specific symptoms/parts (3+)",
-            "Internal links 8+",
-            "Lazy loading"
-          ]
-        },
-        {
-          "file": "same-day-appliance-repair-toronto.html",
-          "score": 73,
-          "words": 914,
-          "issues": [],
-          "warnings": [
-            "Title 45-65 chars",
-            "Robots meta index",
-            "Service schema",
-            "OG tags",
-            "Blog word count 1200+",
-            "Brand names mentioned (3+)",
             "Specific symptoms/parts (3+)",
             "Internal links 8+",
             "Lazy loading"
