@@ -1,0 +1,4475 @@
+{
+  "generated": "2026-03-29T09:42:55.872Z",
+  "site": "appliancerepairneary.com",
+  "totalPages": 601,
+  "avgScore": 92,
+  "passed": 507,
+  "failed": 94,
+  "issueFrequency": {
+    "Meta description exists": 1,
+    "LocalBusiness schema": 3,
+    "Phone 5+ mentions": 2,
+    "Phone mentions": 2,
+    "Word count 400+": 1,
+    "Tel": 1
+  },
+  "warningFrequency": {
+    "Title length 50-60 chars": 16,
+    "Title length": 6,
+    "Meta description 130-165 chars": 267,
+    "H2 count 4-15": 21,
+    "FAQPage schema": 123,
+    "Service schema": 37,
+    "OG description": 1,
+    "Phone 8+ mentions": 3,
+    "Word count 700+": 32,
+    "Word count 1200+": 173,
+    "Internal links 8+": 4,
+    "Internal links 15+": 5,
+    "Images 3+": 585,
+    "Lazy loading used": 2,
+    "CTA elements 3+": 1,
+    "Booking form/iframe": 1,
+    "Answer capsule (phone in 1st para)": 370,
+    "FAQ visible on page": 2,
+    "Robots meta index,follow": 122,
+    "AggregateRating in schema": 3,
+    "Pricing info present": 3,
+    "Warranty mentioned": 1,
+    "Preconnect hints": 120,
+    "Same-day/urgency signal": 1
+  },
+  "lowWordCountPages": [
+    {
+      "file": "404.html",
+      "words": 41
+    },
+    {
+      "file": "lg-repair-calgary.html",
+      "words": 477
+    },
+    {
+      "file": "frigidaire-repair-calgary.html",
+      "words": 479
+    },
+    {
+      "file": "kitchenaid-repair-calgary.html",
+      "words": 479
+    },
+    {
+      "file": "lg-repair-edmonton.html",
+      "words": 479
+    },
+    {
+      "file": "electrolux-repair-calgary.html",
+      "words": 480
+    },
+    {
+      "file": "ge-repair-calgary.html",
+      "words": 480
+    },
+    {
+      "file": "frigidaire-repair-edmonton.html",
+      "words": 481
+    },
+    {
+      "file": "kenmore-repair-calgary.html",
+      "words": 481
+    },
+    {
+      "file": "kitchenaid-repair-edmonton.html",
+      "words": 481
+    },
+    {
+      "file": "electrolux-repair-edmonton.html",
+      "words": 482
+    },
+    {
+      "file": "ge-repair-edmonton.html",
+      "words": 482
+    },
+    {
+      "file": "kenmore-repair-edmonton.html",
+      "words": 483
+    },
+    {
+      "file": "maytag-repair-calgary.html",
+      "words": 483
+    },
+    {
+      "file": "maytag-repair-edmonton.html",
+      "words": 485
+    },
+    {
+      "file": "areas.html",
+      "words": 513
+    },
+    {
+      "file": "book.html",
+      "words": 559
+    },
+    {
+      "file": "frigidaire-fridge-repair.html",
+      "words": 575
+    },
+    {
+      "file": "kitchenaid-fridge-repair.html",
+      "words": 589
+    },
+    {
+      "file": "ge-fridge-repair.html",
+      "words": 592
+    },
+    {
+      "file": "whirlpool-fridge-repair.html",
+      "words": 598
+    },
+    {
+      "file": "lg-fridge-repair.html",
+      "words": 601
+    },
+    {
+      "file": "samsung-fridge-repair.html",
+      "words": 605
+    },
+    {
+      "file": "brands.html",
+      "words": 606
+    },
+    {
+      "file": "services.html",
+      "words": 631
+    },
+    {
+      "file": "maytag-fridge-repair.html",
+      "words": 650
+    },
+    {
+      "file": "service-template.html",
+      "words": 654
+    },
+    {
+      "file": "samsung-dishwasher-repair.html",
+      "words": 655
+    },
+    {
+      "file": "miele-fridge-repair.html",
+      "words": 660
+    },
+    {
+      "file": "maytag-dishwasher-repair.html",
+      "words": 662
+    },
+    {
+      "file": "miele-dishwasher-repair.html",
+      "words": 667
+    },
+    {
+      "file": "lg-dishwasher-repair.html",
+      "words": 673
+    }
+  ],
+  "worstPages": [
+    {
+      "file": "404.html",
+      "score": 32,
+      "issues": [
+        "Meta description exists",
+        "LocalBusiness schema",
+        "Phone 5+ mentions",
+        "Phone mentions: 3",
+        "Word count 400+"
+      ],
+      "warnings": [
+        "Title length 50-60 chars",
+        "Title length: 42 chars",
+        "Meta description 130-165 chars",
+        "H2 count 4-15",
+        "FAQPage schema",
+        "Service schema",
+        "OG description",
+        "Phone 8+ mentions",
+        "Word count 700+",
+        "Word count 1200+",
+        "Internal links 8+",
+        "Internal links 15+",
+        "Images 3+",
+        "Lazy loading used",
+        "CTA elements 3+",
+        "Booking form/iframe",
+        "Answer capsule (phone in 1st para)",
+        "FAQ visible on page",
+        "Robots meta index,follow",
+        "AggregateRating in schema",
+        "Pricing info present",
+        "Warranty mentioned"
+      ]
+    },
+    {
+      "file": "for-businesses.html",
+      "score": 65,
+      "issues": [
+        "LocalBusiness schema",
+        "Phone 5+ mentions",
+        "Phone mentions: 0",
+        "Tel: link (click-to-call)"
+      ],
+      "warnings": [
+        "Meta description 130-165 chars",
+        "FAQPage schema",
+        "Service schema",
+        "Phone 8+ mentions",
+        "Images 3+",
+        "Lazy loading used",
+        "Answer capsule (phone in 1st para)",
+        "FAQ visible on page",
+        "AggregateRating in schema",
+        "Same-day/urgency signal"
+      ]
+    },
+    {
+      "file": "service-template.html",
+      "score": 65,
+      "issues": [
+        "LocalBusiness schema"
+      ],
+      "warnings": [
+        "Title length 50-60 chars",
+        "Title length: 14 chars",
+        "Meta description 130-165 chars",
+        "FAQPage schema",
+        "Service schema",
+        "Word count 700+",
+        "Word count 1200+",
+        "Internal links 8+",
+        "Internal links 15+",
+        "Images 3+",
+        "Answer capsule (phone in 1st para)",
+        "Robots meta index,follow",
+        "AggregateRating in schema"
+      ]
+    }
+  ],
+  "allResults": [
+    {
+      "file": "404.html",
+      "score": 32,
+      "words": 41,
+      "issues": [
+        "Meta description exists",
+        "LocalBusiness schema",
+        "Phone 5+ mentions",
+        "Phone mentions: 3",
+        "Word count 400+"
+      ],
+      "warnings": 22
+    },
+    {
+      "file": "about.html",
+      "score": 100,
+      "words": 1402,
+      "issues": [],
+      "warnings": 0
+    },
+    {
+      "file": "airdrie.html",
+      "score": 92,
+      "words": 1256,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "areas.html",
+      "score": 92,
+      "words": 513,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "beaumont.html",
+      "score": 89,
+      "words": 1286,
+      "issues": [],
+      "warnings": 4
+    },
+    {
+      "file": "book.html",
+      "score": 86,
+      "words": 559,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "bosch-repair-calgary.html",
+      "score": 86,
+      "words": 919,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "bosch-repair-edmonton.html",
+      "score": 86,
+      "words": 929,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "bosch-repair.html",
+      "score": 92,
+      "words": 975,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "brands.html",
+      "score": 89,
+      "words": 606,
+      "issues": [],
+      "warnings": 4
+    },
+    {
+      "file": "calgary.html",
+      "score": 92,
+      "words": 1326,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "canmore.html",
+      "score": 86,
+      "words": 899,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "chestermere.html",
+      "score": 84,
+      "words": 892,
+      "issues": [],
+      "warnings": 7
+    },
+    {
+      "file": "cochrane.html",
+      "score": 84,
+      "words": 895,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "contact.html",
+      "score": 84,
+      "words": 846,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "devon.html",
+      "score": 89,
+      "words": 895,
+      "issues": [],
+      "warnings": 4
+    },
+    {
+      "file": "dishwasher-installation-bayview-village.html",
+      "score": 95,
+      "words": 1599,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-installation-birchcliff.html",
+      "score": 92,
+      "words": 1531,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-brampton.html",
+      "score": 92,
+      "words": 1561,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-cabbagetown.html",
+      "score": 92,
+      "words": 1539,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-danforth-village.html",
+      "score": 95,
+      "words": 1597,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-installation-davisville-village.html",
+      "score": 95,
+      "words": 1581,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-installation-don-mills.html",
+      "score": 92,
+      "words": 1610,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-etobicoke.html",
+      "score": 92,
+      "words": 1568,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-forest-hill.html",
+      "score": 92,
+      "words": 1588,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-humber-valley.html",
+      "score": 95,
+      "words": 1598,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-installation-islington-village.html",
+      "score": 95,
+      "words": 1634,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-installation-lawrence-park.html",
+      "score": 95,
+      "words": 1577,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-installation-leaside.html",
+      "score": 92,
+      "words": 1557,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-leslieville.html",
+      "score": 92,
+      "words": 1544,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-liberty-village.html",
+      "score": 95,
+      "words": 1543,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-installation-markham.html",
+      "score": 92,
+      "words": 1521,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-mississauga.html",
+      "score": 92,
+      "words": 1601,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-north-york.html",
+      "score": 92,
+      "words": 1662,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-oakville.html",
+      "score": 92,
+      "words": 1566,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-parkdale.html",
+      "score": 92,
+      "words": 1547,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-richmond-hill.html",
+      "score": 95,
+      "words": 1604,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-installation-riverdale.html",
+      "score": 92,
+      "words": 1542,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-rosedale.html",
+      "score": 92,
+      "words": 1535,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-scarborough-village.html",
+      "score": 92,
+      "words": 1629,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-scarborough.html",
+      "score": 92,
+      "words": 1592,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-the-annex.html",
+      "score": 92,
+      "words": 1625,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-the-junction.html",
+      "score": 92,
+      "words": 1623,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-toronto.html",
+      "score": 92,
+      "words": 1572,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-vaughan.html",
+      "score": 92,
+      "words": 1598,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation-willowdale.html",
+      "score": 92,
+      "words": 1279,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-installation.html",
+      "score": 92,
+      "words": 2370,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-not-draining-near-me.html",
+      "score": 97,
+      "words": 2259,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-airdrie.html",
+      "score": 92,
+      "words": 963,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-ajax.html",
+      "score": 97,
+      "words": 4047,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-bayview-village.html",
+      "score": 92,
+      "words": 1445,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-beaumont.html",
+      "score": 92,
+      "words": 947,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-birchcliff.html",
+      "score": 95,
+      "words": 2060,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-bloor-west-village.html",
+      "score": 84,
+      "words": 1490,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-bradford.html",
+      "score": 95,
+      "words": 4406,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-brampton.html",
+      "score": 97,
+      "words": 4078,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-burlington.html",
+      "score": 97,
+      "words": 4031,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-cabbagetown.html",
+      "score": 95,
+      "words": 2079,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-calgary.html",
+      "score": 92,
+      "words": 1029,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-canmore.html",
+      "score": 92,
+      "words": 961,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-chestermere.html",
+      "score": 92,
+      "words": 948,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-chinatown.html",
+      "score": 86,
+      "words": 1437,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dishwasher-repair-cochrane.html",
+      "score": 92,
+      "words": 958,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-corso-italia.html",
+      "score": 84,
+      "words": 1499,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-danforth-village.html",
+      "score": 92,
+      "words": 1505,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-davisville-village.html",
+      "score": 92,
+      "words": 2130,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-devon.html",
+      "score": 92,
+      "words": 961,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-don-mills.html",
+      "score": 95,
+      "words": 1504,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-dufferin-grove.html",
+      "score": 84,
+      "words": 1488,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-east-york.html",
+      "score": 86,
+      "words": 1449,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dishwasher-repair-edmonton.html",
+      "score": 92,
+      "words": 961,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-etobicoke-village.html",
+      "score": 84,
+      "words": 1521,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-etobicoke.html",
+      "score": 97,
+      "words": 4105,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-forest-hill.html",
+      "score": 95,
+      "words": 1503,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-fort-saskatchewan.html",
+      "score": 92,
+      "words": 1009,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-greektown.html",
+      "score": 86,
+      "words": 1434,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dishwasher-repair-high-park.html",
+      "score": 86,
+      "words": 1457,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dishwasher-repair-high-river.html",
+      "score": 92,
+      "words": 1019,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-humber-valley.html",
+      "score": 95,
+      "words": 2126,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-islington-village.html",
+      "score": 92,
+      "words": 2129,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-king-west.html",
+      "score": 84,
+      "words": 1479,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-langdon.html",
+      "score": 92,
+      "words": 938,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-lawrence-park.html",
+      "score": 95,
+      "words": 2091,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-leaside.html",
+      "score": 95,
+      "words": 2049,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-leduc.html",
+      "score": 92,
+      "words": 945,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-leslieville.html",
+      "score": 95,
+      "words": 1431,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-liberty-village.html",
+      "score": 92,
+      "words": 1469,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-little-italy.html",
+      "score": 86,
+      "words": 1453,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dishwasher-repair-little-portugal.html",
+      "score": 84,
+      "words": 1454,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-markham.html",
+      "score": 97,
+      "words": 4032,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-midtown.html",
+      "score": 86,
+      "words": 1420,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dishwasher-repair-mississauga.html",
+      "score": 97,
+      "words": 4030,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-near-me.html",
+      "score": 97,
+      "words": 3668,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-newmarket.html",
+      "score": 97,
+      "words": 4124,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-north-york.html",
+      "score": 97,
+      "words": 4224,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-oakville.html",
+      "score": 97,
+      "words": 4105,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-okotoks.html",
+      "score": 92,
+      "words": 954,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-oshawa.html",
+      "score": 97,
+      "words": 4113,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-ossington.html",
+      "score": 84,
+      "words": 1517,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-parkdale.html",
+      "score": 95,
+      "words": 2046,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-pickering.html",
+      "score": 97,
+      "words": 4053,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "dishwasher-repair-richmond-hill.html",
+      "score": 95,
+      "words": 4031,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-riverdale.html",
+      "score": 95,
+      "words": 1419,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-roncesvalles.html",
+      "score": 84,
+      "words": 1500,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-rosedale.html",
+      "score": 95,
+      "words": 1426,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-scarborough-village.html",
+      "score": 92,
+      "words": 2130,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-scarborough.html",
+      "score": 95,
+      "words": 3937,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-sherwood-park.html",
+      "score": 92,
+      "words": 1006,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-spruce-grove.html",
+      "score": 92,
+      "words": 1014,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-st-albert.html",
+      "score": 92,
+      "words": 1004,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-st-lawrence.html",
+      "score": 84,
+      "words": 1561,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-stony-plain.html",
+      "score": 92,
+      "words": 1003,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-strathmore.html",
+      "score": 92,
+      "words": 944,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dishwasher-repair-swansea.html",
+      "score": 86,
+      "words": 1442,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dishwasher-repair-the-annex.html",
+      "score": 95,
+      "words": 1482,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-the-beaches.html",
+      "score": 86,
+      "words": 1433,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dishwasher-repair-the-junction.html",
+      "score": 95,
+      "words": 2112,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-thorncliffe-park.html",
+      "score": 84,
+      "words": 1561,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-toronto.html",
+      "score": 95,
+      "words": 4103,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-trinity-bellwoods.html",
+      "score": 84,
+      "words": 1466,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dishwasher-repair-vaughan.html",
+      "score": 95,
+      "words": 4050,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-whitby.html",
+      "score": 95,
+      "words": 3984,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-willowdale.html",
+      "score": 95,
+      "words": 1371,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dishwasher-repair-wychwood.html",
+      "score": 84,
+      "words": 1444,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-not-heating-near-me.html",
+      "score": 92,
+      "words": 2211,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-airdrie.html",
+      "score": 92,
+      "words": 990,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-ajax.html",
+      "score": 95,
+      "words": 3287,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-bayview-village.html",
+      "score": 95,
+      "words": 1390,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-beaumont.html",
+      "score": 92,
+      "words": 983,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-birchcliff.html",
+      "score": 95,
+      "words": 1958,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-bloor-west-village.html",
+      "score": 84,
+      "words": 1449,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-bradford.html",
+      "score": 92,
+      "words": 3735,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-brampton.html",
+      "score": 95,
+      "words": 3343,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-burlington.html",
+      "score": 95,
+      "words": 3321,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-cabbagetown.html",
+      "score": 95,
+      "words": 1988,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-calgary.html",
+      "score": 92,
+      "words": 1021,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-canmore.html",
+      "score": 92,
+      "words": 942,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-chestermere.html",
+      "score": 92,
+      "words": 927,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-chinatown.html",
+      "score": 86,
+      "words": 1391,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dryer-repair-cochrane.html",
+      "score": 92,
+      "words": 941,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-corso-italia.html",
+      "score": 84,
+      "words": 1441,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-danforth-village.html",
+      "score": 95,
+      "words": 1468,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-davisville-village.html",
+      "score": 95,
+      "words": 2035,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-devon.html",
+      "score": 92,
+      "words": 956,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-don-mills.html",
+      "score": 95,
+      "words": 1470,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-dufferin-grove.html",
+      "score": 84,
+      "words": 1436,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-east-york.html",
+      "score": 86,
+      "words": 1406,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dryer-repair-edmonton.html",
+      "score": 92,
+      "words": 1017,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-etobicoke-village.html",
+      "score": 84,
+      "words": 1434,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-etobicoke.html",
+      "score": 95,
+      "words": 3392,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-forest-hill.html",
+      "score": 95,
+      "words": 1437,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-fort-saskatchewan.html",
+      "score": 92,
+      "words": 1011,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-greektown.html",
+      "score": 86,
+      "words": 1401,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dryer-repair-high-park.html",
+      "score": 86,
+      "words": 1505,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dryer-repair-high-river.html",
+      "score": 92,
+      "words": 1052,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-humber-valley.html",
+      "score": 95,
+      "words": 2119,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-islington-village.html",
+      "score": 95,
+      "words": 2071,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-king-west.html",
+      "score": 84,
+      "words": 1468,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-langdon.html",
+      "score": 92,
+      "words": 976,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-lawrence-park.html",
+      "score": 95,
+      "words": 2071,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-leaside.html",
+      "score": 95,
+      "words": 1971,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-leduc.html",
+      "score": 92,
+      "words": 963,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-leslieville.html",
+      "score": 95,
+      "words": 1427,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-liberty-village.html",
+      "score": 95,
+      "words": 1435,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-little-italy.html",
+      "score": 86,
+      "words": 1441,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dryer-repair-little-portugal.html",
+      "score": 84,
+      "words": 1464,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-markham.html",
+      "score": 95,
+      "words": 3369,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-midtown.html",
+      "score": 86,
+      "words": 1375,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dryer-repair-mississauga.html",
+      "score": 95,
+      "words": 3376,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-near-me.html",
+      "score": 95,
+      "words": 3621,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-newmarket.html",
+      "score": 95,
+      "words": 4244,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-north-york.html",
+      "score": 95,
+      "words": 3453,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-oakville.html",
+      "score": 95,
+      "words": 3340,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-okotoks.html",
+      "score": 92,
+      "words": 932,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-oshawa.html",
+      "score": 95,
+      "words": 3315,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-ossington.html",
+      "score": 84,
+      "words": 1394,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-parkdale.html",
+      "score": 95,
+      "words": 1981,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-pickering.html",
+      "score": 95,
+      "words": 3344,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-richmond-hill.html",
+      "score": 95,
+      "words": 3446,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-riverdale.html",
+      "score": 95,
+      "words": 1429,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-roncesvalles.html",
+      "score": 84,
+      "words": 1378,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-rosedale.html",
+      "score": 95,
+      "words": 1413,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-scarborough-village.html",
+      "score": 92,
+      "words": 2109,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-scarborough.html",
+      "score": 95,
+      "words": 3451,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-sherwood-park.html",
+      "score": 92,
+      "words": 1056,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-spruce-grove.html",
+      "score": 92,
+      "words": 1074,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-st-albert.html",
+      "score": 92,
+      "words": 1058,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-st-lawrence.html",
+      "score": 84,
+      "words": 1481,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-stony-plain.html",
+      "score": 92,
+      "words": 1061,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-strathmore.html",
+      "score": 92,
+      "words": 930,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "dryer-repair-swansea.html",
+      "score": 86,
+      "words": 1383,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dryer-repair-the-annex.html",
+      "score": 95,
+      "words": 1442,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-the-beaches.html",
+      "score": 86,
+      "words": 1424,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "dryer-repair-the-junction.html",
+      "score": 95,
+      "words": 2021,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-thorncliffe-park.html",
+      "score": 84,
+      "words": 1370,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-toronto.html",
+      "score": 95,
+      "words": 3355,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-trinity-bellwoods.html",
+      "score": 84,
+      "words": 1452,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "dryer-repair-vaughan.html",
+      "score": 95,
+      "words": 3392,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-whitby.html",
+      "score": 95,
+      "words": 3393,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-willowdale.html",
+      "score": 95,
+      "words": 1442,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "dryer-repair-wychwood.html",
+      "score": 84,
+      "words": 1409,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "edmonton.html",
+      "score": 84,
+      "words": 876,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "electrolux-repair-calgary.html",
+      "score": 84,
+      "words": 480,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "electrolux-repair-edmonton.html",
+      "score": 84,
+      "words": 482,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "for-businesses.html",
+      "score": 65,
+      "words": 1284,
+      "issues": [
+        "LocalBusiness schema",
+        "Phone 5+ mentions",
+        "Phone mentions: 0",
+        "Tel: link (click-to-call)"
+      ],
+      "warnings": 10
+    },
+    {
+      "file": "fort-saskatchewan.html",
+      "score": 84,
+      "words": 858,
+      "issues": [],
+      "warnings": 7
+    },
+    {
+      "file": "freezer-not-working-near-me.html",
+      "score": 95,
+      "words": 2132,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "freezer-repair-airdrie.html",
+      "score": 92,
+      "words": 907,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-beaumont.html",
+      "score": 92,
+      "words": 887,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-calgary.html",
+      "score": 92,
+      "words": 912,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-canmore.html",
+      "score": 92,
+      "words": 904,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-chestermere.html",
+      "score": 92,
+      "words": 889,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-cochrane.html",
+      "score": 92,
+      "words": 897,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-devon.html",
+      "score": 92,
+      "words": 894,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-edmonton.html",
+      "score": 92,
+      "words": 894,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-fort-saskatchewan.html",
+      "score": 92,
+      "words": 938,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-high-river.html",
+      "score": 92,
+      "words": 948,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-langdon.html",
+      "score": 92,
+      "words": 879,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-leduc.html",
+      "score": 92,
+      "words": 879,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-okotoks.html",
+      "score": 92,
+      "words": 897,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-sherwood-park.html",
+      "score": 92,
+      "words": 941,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-spruce-grove.html",
+      "score": 92,
+      "words": 943,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-st-albert.html",
+      "score": 92,
+      "words": 937,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-stony-plain.html",
+      "score": 92,
+      "words": 934,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "freezer-repair-strathmore.html",
+      "score": 92,
+      "words": 882,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-leaking-near-me.html",
+      "score": 95,
+      "words": 2122,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-not-cooling-near-me.html",
+      "score": 92,
+      "words": 2171,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-airdrie.html",
+      "score": 92,
+      "words": 1008,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-ajax.html",
+      "score": 97,
+      "words": 4041,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-bayview-village.html",
+      "score": 97,
+      "words": 1510,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-beaumont.html",
+      "score": 92,
+      "words": 1006,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-birchcliff.html",
+      "score": 97,
+      "words": 2067,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-bloor-west-village.html",
+      "score": 84,
+      "words": 1809,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-bradford.html",
+      "score": 95,
+      "words": 4006,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "fridge-repair-brampton.html",
+      "score": 97,
+      "words": 4134,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-burlington.html",
+      "score": 97,
+      "words": 3996,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-cabbagetown.html",
+      "score": 97,
+      "words": 2098,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-calgary.html",
+      "score": 92,
+      "words": 1012,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-canmore.html",
+      "score": 92,
+      "words": 1027,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-chestermere.html",
+      "score": 92,
+      "words": 969,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-chinatown.html",
+      "score": 86,
+      "words": 1704,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "fridge-repair-cochrane.html",
+      "score": 92,
+      "words": 999,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-corso-italia.html",
+      "score": 84,
+      "words": 1797,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-danforth-village.html",
+      "score": 97,
+      "words": 1531,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-davisville-village.html",
+      "score": 97,
+      "words": 2097,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-devon.html",
+      "score": 92,
+      "words": 982,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-don-mills.html",
+      "score": 97,
+      "words": 1524,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-dufferin-grove.html",
+      "score": 84,
+      "words": 1732,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-east-york.html",
+      "score": 86,
+      "words": 1788,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "fridge-repair-edmonton.html",
+      "score": 92,
+      "words": 993,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-etobicoke-village.html",
+      "score": 84,
+      "words": 1746,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-etobicoke.html",
+      "score": 97,
+      "words": 4031,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-forest-hill.html",
+      "score": 97,
+      "words": 1507,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-fort-saskatchewan.html",
+      "score": 92,
+      "words": 984,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-greektown.html",
+      "score": 86,
+      "words": 1692,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "fridge-repair-high-park.html",
+      "score": 86,
+      "words": 1779,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "fridge-repair-high-river.html",
+      "score": 92,
+      "words": 1025,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-humber-valley.html",
+      "score": 97,
+      "words": 2098,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-islington-village.html",
+      "score": 97,
+      "words": 2085,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-king-west.html",
+      "score": 84,
+      "words": 1746,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-langdon.html",
+      "score": 92,
+      "words": 950,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-lawrence-park.html",
+      "score": 97,
+      "words": 2050,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-leaside.html",
+      "score": 97,
+      "words": 2005,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-leduc.html",
+      "score": 92,
+      "words": 974,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-leslieville.html",
+      "score": 97,
+      "words": 1477,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-liberty-village.html",
+      "score": 97,
+      "words": 1517,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-little-italy.html",
+      "score": 86,
+      "words": 1787,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "fridge-repair-little-portugal.html",
+      "score": 84,
+      "words": 1745,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-markham.html",
+      "score": 97,
+      "words": 4037,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-midtown.html",
+      "score": 86,
+      "words": 1771,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "fridge-repair-mississauga.html",
+      "score": 97,
+      "words": 4153,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-near-me.html",
+      "score": 95,
+      "words": 3636,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "fridge-repair-newmarket.html",
+      "score": 97,
+      "words": 3879,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-north-york.html",
+      "score": 97,
+      "words": 4183,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-oakville.html",
+      "score": 97,
+      "words": 4050,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-okotoks.html",
+      "score": 92,
+      "words": 987,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-oshawa.html",
+      "score": 97,
+      "words": 4000,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-ossington.html",
+      "score": 84,
+      "words": 1415,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-parkdale.html",
+      "score": 97,
+      "words": 2036,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-pickering.html",
+      "score": 97,
+      "words": 3948,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-richmond-hill.html",
+      "score": 97,
+      "words": 4127,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-riverdale.html",
+      "score": 97,
+      "words": 1461,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-roncesvalles.html",
+      "score": 84,
+      "words": 1462,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-rosedale.html",
+      "score": 97,
+      "words": 1534,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-scarborough-village.html",
+      "score": 95,
+      "words": 2160,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "fridge-repair-scarborough.html",
+      "score": 97,
+      "words": 4080,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-sherwood-park.html",
+      "score": 92,
+      "words": 1074,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-spruce-grove.html",
+      "score": 92,
+      "words": 1046,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-st-albert.html",
+      "score": 92,
+      "words": 1019,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-st-lawrence.html",
+      "score": 84,
+      "words": 1469,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-stony-plain.html",
+      "score": 92,
+      "words": 1022,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-strathmore.html",
+      "score": 92,
+      "words": 975,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "fridge-repair-swansea.html",
+      "score": 86,
+      "words": 1761,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "fridge-repair-the-annex.html",
+      "score": 97,
+      "words": 1518,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-the-beaches.html",
+      "score": 86,
+      "words": 1788,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "fridge-repair-the-junction.html",
+      "score": 97,
+      "words": 2109,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-thorncliffe-park.html",
+      "score": 84,
+      "words": 1453,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-toronto.html",
+      "score": 97,
+      "words": 4128,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-trinity-bellwoods.html",
+      "score": 84,
+      "words": 1451,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "fridge-repair-vaughan.html",
+      "score": 97,
+      "words": 4055,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-whitby.html",
+      "score": 97,
+      "words": 3975,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-willowdale.html",
+      "score": 97,
+      "words": 1446,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "fridge-repair-wychwood.html",
+      "score": 84,
+      "words": 1443,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "frigidaire-dishwasher-repair.html",
+      "score": 95,
+      "words": 717,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "frigidaire-fridge-repair.html",
+      "score": 92,
+      "words": 575,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "frigidaire-repair-calgary.html",
+      "score": 84,
+      "words": 479,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "frigidaire-repair-edmonton.html",
+      "score": 84,
+      "words": 481,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "frigidaire-repair-toronto.html",
+      "score": 95,
+      "words": 934,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "frigidaire-repair.html",
+      "score": 92,
+      "words": 910,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "frigidaire-washer-repair.html",
+      "score": 95,
+      "words": 809,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-appliance-repair-etobicoke.html",
+      "score": 95,
+      "words": 1527,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-appliance-repair-mississauga.html",
+      "score": 95,
+      "words": 1540,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-appliance-repair-north-york.html",
+      "score": 95,
+      "words": 1599,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-appliance-repair-scarborough-village.html",
+      "score": 92,
+      "words": 1440,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "gas-appliance-repair-scarborough.html",
+      "score": 95,
+      "words": 1532,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-appliance-repair-toronto.html",
+      "score": 95,
+      "words": 1491,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-appliance-repair.html",
+      "score": 92,
+      "words": 1421,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "gas-dryer-repair-mississauga.html",
+      "score": 95,
+      "words": 1627,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-dryer-repair-north-york.html",
+      "score": 95,
+      "words": 1314,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-dryer-repair-toronto.html",
+      "score": 95,
+      "words": 1581,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-dryer-repair-willowdale.html",
+      "score": 92,
+      "words": 1126,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "gas-dryer-repair.html",
+      "score": 92,
+      "words": 1446,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "gas-oven-repair-forest-hill.html",
+      "score": 95,
+      "words": 1389,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-oven-repair-mississauga.html",
+      "score": 95,
+      "words": 1623,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-oven-repair-rosedale.html",
+      "score": 95,
+      "words": 1400,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-oven-repair-toronto.html",
+      "score": 95,
+      "words": 1574,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-oven-repair.html",
+      "score": 92,
+      "words": 1387,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "gas-stove-repair-danforth-village.html",
+      "score": 95,
+      "words": 1526,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-stove-repair-forest-hill.html",
+      "score": 95,
+      "words": 1477,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-stove-repair-leaside.html",
+      "score": 95,
+      "words": 1490,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-stove-repair-mississauga.html",
+      "score": 95,
+      "words": 1582,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-stove-repair-north-york.html",
+      "score": 95,
+      "words": 1605,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-stove-repair-rosedale.html",
+      "score": 95,
+      "words": 1467,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-stove-repair-toronto.html",
+      "score": 95,
+      "words": 1530,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-stove-repair-willowdale.html",
+      "score": 95,
+      "words": 1231,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "gas-stove-repair.html",
+      "score": 92,
+      "words": 1342,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "ge-dishwasher-repair.html",
+      "score": 95,
+      "words": 746,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "ge-fridge-repair.html",
+      "score": 92,
+      "words": 592,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "ge-repair-calgary.html",
+      "score": 84,
+      "words": 480,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "ge-repair-edmonton.html",
+      "score": 84,
+      "words": 482,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "ge-repair-toronto.html",
+      "score": 95,
+      "words": 951,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "ge-repair.html",
+      "score": 92,
+      "words": 969,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "ge-washer-repair.html",
+      "score": 95,
+      "words": 839,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "high-river.html",
+      "score": 84,
+      "words": 863,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "index.html",
+      "score": 100,
+      "words": 2772,
+      "issues": [],
+      "warnings": 0
+    },
+    {
+      "file": "kenmore-repair-calgary.html",
+      "score": 84,
+      "words": 481,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "kenmore-repair-edmonton.html",
+      "score": 84,
+      "words": 483,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "kenmore-repair.html",
+      "score": 95,
+      "words": 1260,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "kitchenaid-dishwasher-repair.html",
+      "score": 95,
+      "words": 709,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "kitchenaid-fridge-repair.html",
+      "score": 92,
+      "words": 589,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "kitchenaid-repair-calgary.html",
+      "score": 84,
+      "words": 479,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "kitchenaid-repair-edmonton.html",
+      "score": 84,
+      "words": 481,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "kitchenaid-repair-toronto.html",
+      "score": 95,
+      "words": 951,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "kitchenaid-repair.html",
+      "score": 95,
+      "words": 1324,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "kitchenaid-washer-repair.html",
+      "score": 95,
+      "words": 876,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "langdon.html",
+      "score": 86,
+      "words": 828,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "leduc.html",
+      "score": 89,
+      "words": 826,
+      "issues": [],
+      "warnings": 4
+    },
+    {
+      "file": "lg-dishwasher-repair.html",
+      "score": 92,
+      "words": 673,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "lg-fridge-repair.html",
+      "score": 92,
+      "words": 601,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "lg-repair-calgary.html",
+      "score": 84,
+      "words": 477,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "lg-repair-edmonton.html",
+      "score": 84,
+      "words": 479,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "lg-repair-toronto.html",
+      "score": 95,
+      "words": 947,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "lg-repair.html",
+      "score": 92,
+      "words": 961,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "lg-washer-repair.html",
+      "score": 95,
+      "words": 891,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "maytag-dishwasher-repair.html",
+      "score": 92,
+      "words": 662,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "maytag-fridge-repair.html",
+      "score": 92,
+      "words": 650,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "maytag-repair-calgary.html",
+      "score": 84,
+      "words": 483,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "maytag-repair-edmonton.html",
+      "score": 84,
+      "words": 485,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "maytag-repair-toronto.html",
+      "score": 95,
+      "words": 959,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "maytag-repair.html",
+      "score": 95,
+      "words": 1215,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "maytag-washer-repair.html",
+      "score": 95,
+      "words": 862,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "microwave-repair-airdrie.html",
+      "score": 92,
+      "words": 899,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-beaumont.html",
+      "score": 92,
+      "words": 879,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-calgary.html",
+      "score": 92,
+      "words": 904,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-canmore.html",
+      "score": 92,
+      "words": 896,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-chestermere.html",
+      "score": 92,
+      "words": 881,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-cochrane.html",
+      "score": 92,
+      "words": 889,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-devon.html",
+      "score": 92,
+      "words": 886,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-edmonton.html",
+      "score": 92,
+      "words": 886,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-fort-saskatchewan.html",
+      "score": 92,
+      "words": 930,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-high-river.html",
+      "score": 92,
+      "words": 940,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-langdon.html",
+      "score": 92,
+      "words": 871,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-leduc.html",
+      "score": 92,
+      "words": 871,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-okotoks.html",
+      "score": 92,
+      "words": 889,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-sherwood-park.html",
+      "score": 92,
+      "words": 933,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-spruce-grove.html",
+      "score": 92,
+      "words": 935,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-st-albert.html",
+      "score": 92,
+      "words": 929,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-stony-plain.html",
+      "score": 92,
+      "words": 926,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "microwave-repair-strathmore.html",
+      "score": 92,
+      "words": 874,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "miele-dishwasher-repair.html",
+      "score": 92,
+      "words": 667,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "miele-fridge-repair.html",
+      "score": 92,
+      "words": 660,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "miele-repair-toronto.html",
+      "score": 95,
+      "words": 958,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "miele-repair.html",
+      "score": 92,
+      "words": 808,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "miele-washer-repair.html",
+      "score": 95,
+      "words": 923,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "okotoks.html",
+      "score": 86,
+      "words": 831,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-not-heating-near-me.html",
+      "score": 95,
+      "words": 2097,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-airdrie.html",
+      "score": 92,
+      "words": 909,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "oven-repair-ajax.html",
+      "score": 95,
+      "words": 4275,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-bayview-village.html",
+      "score": 95,
+      "words": 1459,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-birchcliff.html",
+      "score": 95,
+      "words": 1954,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-bloor-west-village.html",
+      "score": 84,
+      "words": 1481,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-bradford.html",
+      "score": 92,
+      "words": 4384,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "oven-repair-brampton.html",
+      "score": 95,
+      "words": 4294,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-burlington.html",
+      "score": 95,
+      "words": 4224,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-cabbagetown.html",
+      "score": 95,
+      "words": 2021,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-calgary.html",
+      "score": 92,
+      "words": 1162,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "oven-repair-chinatown.html",
+      "score": 86,
+      "words": 1396,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-repair-corso-italia.html",
+      "score": 84,
+      "words": 1461,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-danforth-village.html",
+      "score": 95,
+      "words": 1442,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-davisville-village.html",
+      "score": 95,
+      "words": 1990,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-don-mills.html",
+      "score": 95,
+      "words": 1420,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-dufferin-grove.html",
+      "score": 84,
+      "words": 1428,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-east-york.html",
+      "score": 86,
+      "words": 1398,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-repair-edmonton.html",
+      "score": 92,
+      "words": 1172,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "oven-repair-etobicoke-village.html",
+      "score": 84,
+      "words": 1478,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-etobicoke.html",
+      "score": 95,
+      "words": 4260,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-forest-hill.html",
+      "score": 95,
+      "words": 1511,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-greektown.html",
+      "score": 86,
+      "words": 1417,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-repair-high-park.html",
+      "score": 86,
+      "words": 1495,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-repair-humber-valley.html",
+      "score": 95,
+      "words": 2035,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-islington-village.html",
+      "score": 95,
+      "words": 2115,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-king-west.html",
+      "score": 84,
+      "words": 1488,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-lawrence-park.html",
+      "score": 95,
+      "words": 2074,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-leaside.html",
+      "score": 95,
+      "words": 2040,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-leslieville.html",
+      "score": 95,
+      "words": 1460,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-liberty-village.html",
+      "score": 95,
+      "words": 1539,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-little-italy.html",
+      "score": 86,
+      "words": 1494,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-repair-little-portugal.html",
+      "score": 84,
+      "words": 1511,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-markham.html",
+      "score": 95,
+      "words": 4252,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-midtown.html",
+      "score": 86,
+      "words": 1455,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-repair-mississauga.html",
+      "score": 95,
+      "words": 4272,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-near-me.html",
+      "score": 95,
+      "words": 3792,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-newmarket.html",
+      "score": 95,
+      "words": 4458,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-north-york.html",
+      "score": 95,
+      "words": 4427,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-oakville.html",
+      "score": 95,
+      "words": 4215,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-oshawa.html",
+      "score": 95,
+      "words": 4195,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-ossington.html",
+      "score": 84,
+      "words": 1444,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-parkdale.html",
+      "score": 95,
+      "words": 1965,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-pickering.html",
+      "score": 95,
+      "words": 4204,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-richmond-hill.html",
+      "score": 95,
+      "words": 4345,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-riverdale.html",
+      "score": 95,
+      "words": 1456,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-roncesvalles.html",
+      "score": 84,
+      "words": 1470,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-rosedale.html",
+      "score": 95,
+      "words": 1440,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-scarborough-village.html",
+      "score": 92,
+      "words": 2085,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "oven-repair-scarborough.html",
+      "score": 95,
+      "words": 4278,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-st-lawrence.html",
+      "score": 84,
+      "words": 1526,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-swansea.html",
+      "score": 86,
+      "words": 1381,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-repair-the-annex.html",
+      "score": 95,
+      "words": 1440,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-the-beaches.html",
+      "score": 86,
+      "words": 1393,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "oven-repair-the-junction.html",
+      "score": 95,
+      "words": 1979,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-thorncliffe-park.html",
+      "score": 84,
+      "words": 1419,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-toronto.html",
+      "score": 95,
+      "words": 4267,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-trinity-bellwoods.html",
+      "score": 84,
+      "words": 1431,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "oven-repair-vaughan.html",
+      "score": 95,
+      "words": 4151,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-whitby.html",
+      "score": 95,
+      "words": 4178,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-willowdale.html",
+      "score": 95,
+      "words": 1434,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "oven-repair-wychwood.html",
+      "score": 84,
+      "words": 1412,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "pricing.html",
+      "score": 92,
+      "words": 1320,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "privacy.html",
+      "score": 86,
+      "words": 866,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "range-repair-calgary.html",
+      "score": 95,
+      "words": 1419,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "range-repair-edmonton.html",
+      "score": 95,
+      "words": 1420,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "samsung-dishwasher-repair.html",
+      "score": 92,
+      "words": 655,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "samsung-fridge-repair.html",
+      "score": 92,
+      "words": 605,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "samsung-repair-calgary.html",
+      "score": 86,
+      "words": 916,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "samsung-repair-edmonton.html",
+      "score": 86,
+      "words": 926,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "samsung-repair-toronto.html",
+      "score": 95,
+      "words": 946,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "samsung-repair.html",
+      "score": 92,
+      "words": 1039,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "samsung-washer-repair.html",
+      "score": 95,
+      "words": 865,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "service-template.html",
+      "score": 65,
+      "words": 654,
+      "issues": [
+        "LocalBusiness schema"
+      ],
+      "warnings": 13
+    },
+    {
+      "file": "services.html",
+      "score": 92,
+      "words": 631,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-ajax.html",
+      "score": 95,
+      "words": 4403,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-bayview-village.html",
+      "score": 95,
+      "words": 1545,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-birchcliff.html",
+      "score": 95,
+      "words": 1554,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-bloor-west-village.html",
+      "score": 84,
+      "words": 1417,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-bradford.html",
+      "score": 92,
+      "words": 3727,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-brampton.html",
+      "score": 92,
+      "words": 4278,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-burlington.html",
+      "score": 95,
+      "words": 4178,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-cabbagetown.html",
+      "score": 95,
+      "words": 1554,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-calgary.html",
+      "score": 92,
+      "words": 1104,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-chinatown.html",
+      "score": 86,
+      "words": 1350,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-corso-italia.html",
+      "score": 84,
+      "words": 1380,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-danforth-village.html",
+      "score": 95,
+      "words": 1582,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-davisville-village.html",
+      "score": 95,
+      "words": 1587,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-don-mills.html",
+      "score": 95,
+      "words": 1580,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-dufferin-grove.html",
+      "score": 84,
+      "words": 1384,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-east-york.html",
+      "score": 86,
+      "words": 1373,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-edmonton.html",
+      "score": 92,
+      "words": 1150,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-etobicoke-village.html",
+      "score": 84,
+      "words": 1394,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-etobicoke.html",
+      "score": 92,
+      "words": 4339,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-forest-hill.html",
+      "score": 95,
+      "words": 1591,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-greektown.html",
+      "score": 86,
+      "words": 1350,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-high-park.html",
+      "score": 86,
+      "words": 1389,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-humber-valley.html",
+      "score": 95,
+      "words": 1580,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-islington-village.html",
+      "score": 95,
+      "words": 1561,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-king-west.html",
+      "score": 84,
+      "words": 1351,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-lawrence-park.html",
+      "score": 95,
+      "words": 1557,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-leaside.html",
+      "score": 95,
+      "words": 1527,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-leslieville.html",
+      "score": 95,
+      "words": 1530,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-liberty-village.html",
+      "score": 95,
+      "words": 1557,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-little-italy.html",
+      "score": 86,
+      "words": 1358,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-little-portugal.html",
+      "score": 84,
+      "words": 1353,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-markham.html",
+      "score": 92,
+      "words": 4194,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-midtown.html",
+      "score": 86,
+      "words": 1356,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-mississauga.html",
+      "score": 92,
+      "words": 4255,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-near-me.html",
+      "score": 95,
+      "words": 3924,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-newmarket.html",
+      "score": 95,
+      "words": 4022,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-north-york.html",
+      "score": 92,
+      "words": 4434,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-oakville.html",
+      "score": 92,
+      "words": 4285,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-oshawa.html",
+      "score": 95,
+      "words": 4245,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-ossington.html",
+      "score": 84,
+      "words": 1417,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-parkdale.html",
+      "score": 95,
+      "words": 1547,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-pickering.html",
+      "score": 95,
+      "words": 4226,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-richmond-hill.html",
+      "score": 92,
+      "words": 4362,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-riverdale.html",
+      "score": 95,
+      "words": 1578,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-roncesvalles.html",
+      "score": 86,
+      "words": 1428,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-rosedale.html",
+      "score": 95,
+      "words": 1574,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-scarborough-village.html",
+      "score": 92,
+      "words": 1567,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-scarborough.html",
+      "score": 92,
+      "words": 4384,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-st-lawrence.html",
+      "score": 84,
+      "words": 1463,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-swansea.html",
+      "score": 86,
+      "words": 1346,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-the-annex.html",
+      "score": 95,
+      "words": 1641,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-the-beaches.html",
+      "score": 86,
+      "words": 1409,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "stove-repair-the-junction.html",
+      "score": 95,
+      "words": 1679,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-thorncliffe-park.html",
+      "score": 84,
+      "words": 1472,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-toronto.html",
+      "score": 92,
+      "words": 4400,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-trinity-bellwoods.html",
+      "score": 84,
+      "words": 1424,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "stove-repair-vaughan.html",
+      "score": 92,
+      "words": 4286,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "stove-repair-whitby.html",
+      "score": 95,
+      "words": 4257,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-willowdale.html",
+      "score": 95,
+      "words": 1667,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "stove-repair-wychwood.html",
+      "score": 84,
+      "words": 1399,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "toronto.html",
+      "score": 92,
+      "words": 1470,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "washer-dryer-repair-near-me.html",
+      "score": 95,
+      "words": 4054,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-making-noise-near-me.html",
+      "score": 95,
+      "words": 2124,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "washer-not-draining-near-me.html",
+      "score": 95,
+      "words": 2145,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-ajax.html",
+      "score": 95,
+      "words": 4698,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-bayview-village.html",
+      "score": 95,
+      "words": 1547,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-birchcliff.html",
+      "score": 97,
+      "words": 2043,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-bloor-west-village.html",
+      "score": 84,
+      "words": 1571,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-bradford.html",
+      "score": 95,
+      "words": 4398,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-brampton.html",
+      "score": 92,
+      "words": 4679,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "washer-repair-burlington.html",
+      "score": 97,
+      "words": 4636,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-cabbagetown.html",
+      "score": 97,
+      "words": 2036,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-calgary.html",
+      "score": 95,
+      "words": 1281,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-chinatown.html",
+      "score": 86,
+      "words": 1500,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "washer-repair-corso-italia.html",
+      "score": 84,
+      "words": 1558,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-danforth-village.html",
+      "score": 97,
+      "words": 1564,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-davisville-village.html",
+      "score": 95,
+      "words": 2058,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-don-mills.html",
+      "score": 97,
+      "words": 1564,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-dufferin-grove.html",
+      "score": 84,
+      "words": 1545,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-east-york.html",
+      "score": 86,
+      "words": 1511,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "washer-repair-edmonton.html",
+      "score": 95,
+      "words": 1209,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-etobicoke-village.html",
+      "score": 84,
+      "words": 1492,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-etobicoke.html",
+      "score": 95,
+      "words": 4650,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-forest-hill.html",
+      "score": 97,
+      "words": 1490,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-greektown.html",
+      "score": 86,
+      "words": 1443,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "washer-repair-high-park.html",
+      "score": 86,
+      "words": 1500,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "washer-repair-humber-valley.html",
+      "score": 97,
+      "words": 2002,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-islington-village.html",
+      "score": 97,
+      "words": 1985,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-king-west.html",
+      "score": 84,
+      "words": 1475,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-lawrence-park.html",
+      "score": 97,
+      "words": 1960,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-leaside.html",
+      "score": 97,
+      "words": 1919,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-leslieville.html",
+      "score": 97,
+      "words": 1399,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-liberty-village.html",
+      "score": 97,
+      "words": 1429,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-little-italy.html",
+      "score": 86,
+      "words": 1463,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "washer-repair-little-portugal.html",
+      "score": 84,
+      "words": 1531,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-markham.html",
+      "score": 95,
+      "words": 4541,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-midtown.html",
+      "score": 86,
+      "words": 1461,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "washer-repair-mississauga.html",
+      "score": 95,
+      "words": 4653,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-near-me.html",
+      "score": 95,
+      "words": 4034,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-newmarket.html",
+      "score": 97,
+      "words": 4442,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-north-york.html",
+      "score": 95,
+      "words": 4756,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-oakville.html",
+      "score": 95,
+      "words": 4543,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-oshawa.html",
+      "score": 97,
+      "words": 4547,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-ossington.html",
+      "score": 84,
+      "words": 1455,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-parkdale.html",
+      "score": 97,
+      "words": 1921,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-pickering.html",
+      "score": 97,
+      "words": 4576,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-richmond-hill.html",
+      "score": 95,
+      "words": 4657,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-riverdale.html",
+      "score": 97,
+      "words": 1449,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-roncesvalles.html",
+      "score": 84,
+      "words": 1453,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-rosedale.html",
+      "score": 97,
+      "words": 1436,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-scarborough-village.html",
+      "score": 92,
+      "words": 1999,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "washer-repair-scarborough.html",
+      "score": 92,
+      "words": 4645,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "washer-repair-st-lawrence.html",
+      "score": 84,
+      "words": 1531,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-swansea.html",
+      "score": 86,
+      "words": 1450,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "washer-repair-the-annex.html",
+      "score": 97,
+      "words": 1462,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-the-beaches.html",
+      "score": 86,
+      "words": 1446,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "washer-repair-the-junction.html",
+      "score": 97,
+      "words": 1973,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-thorncliffe-park.html",
+      "score": 84,
+      "words": 1475,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-toronto.html",
+      "score": 95,
+      "words": 4595,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-trinity-bellwoods.html",
+      "score": 84,
+      "words": 1465,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "washer-repair-vaughan.html",
+      "score": 95,
+      "words": 4544,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "washer-repair-whitby.html",
+      "score": 97,
+      "words": 4542,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-willowdale.html",
+      "score": 97,
+      "words": 1294,
+      "issues": [],
+      "warnings": 1
+    },
+    {
+      "file": "washer-repair-wychwood.html",
+      "score": 84,
+      "words": 1454,
+      "issues": [],
+      "warnings": 6
+    },
+    {
+      "file": "whirlpool-dishwasher-repair.html",
+      "score": 95,
+      "words": 756,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "whirlpool-fridge-repair.html",
+      "score": 92,
+      "words": 598,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "whirlpool-repair-calgary.html",
+      "score": 86,
+      "words": 920,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "whirlpool-repair-edmonton.html",
+      "score": 86,
+      "words": 930,
+      "issues": [],
+      "warnings": 5
+    },
+    {
+      "file": "whirlpool-repair-toronto.html",
+      "score": 95,
+      "words": 964,
+      "issues": [],
+      "warnings": 2
+    },
+    {
+      "file": "whirlpool-repair.html",
+      "score": 92,
+      "words": 963,
+      "issues": [],
+      "warnings": 3
+    },
+    {
+      "file": "whirlpool-washer-repair.html",
+      "score": 95,
+      "words": 884,
+      "issues": [],
+      "warnings": 2
+    }
+  ]
+}
