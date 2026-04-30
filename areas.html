@@ -120,6 +120,7 @@
       .card-link { padding: 16px 18px; }
     }
   </style>
+<!-- SCHEMA-ENRICH-v1 -->
 </head>
 <body>
 
@@ -348,21 +349,39 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
         "addressRegion": "Ontario",
         "addressCountry": "CA"
       },
-      "openingHours": ["Mo-Sa 08:00-20:00", "Su 09:00-18:00"],
+      "openingHours": [
+        "Mo-Sa 08:00-20:00",
+        "Su 09:00-18:00"
+      ],
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "4.9",
         "reviewCount": "3800"
       },
       "areaServed": "Toronto, Scarborough, North York, Etobicoke, Mississauga, Brampton, Vaughan, Richmond Hill, Markham, Oakville, Burlington, Pickering, Ajax, Whitby, Oshawa",
-      "priceRange": "$$"
+      "priceRange": "$$",
+      "founder": {
+        "@type": "Person",
+        "name": "Mike"
+      },
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 6
+      }
     },
     {
       "@type": "Service",
       "name": "Appliance Repair — GTA Service Areas",
-      "provider": {"@type": "LocalBusiness", "name": "Appliance Repair Neary"},
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Appliance Repair Neary"
+      },
       "areaServed": "Greater Toronto Area",
-      "offers": {"@type": "Offer", "priceRange": "$120–$400", "description": "Same-day appliance repair across Toronto and GTA. 90-day warranty."}
+      "offers": {
+        "@type": "Offer",
+        "priceRange": "$120–$400",
+        "description": "Same-day appliance repair across Toronto and GTA. 90-day warranty."
+      }
     },
     {
       "@type": "FAQPage",
@@ -370,17 +389,26 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
         {
           "@type": "Question",
           "name": "Which cities do you serve for appliance repair?",
-          "acceptedAnswer": {"@type": "Answer", "text": "We serve all 15+ cities across the GTA: Toronto, Scarborough, North York, Etobicoke, Mississauga, Brampton, Vaughan, Richmond Hill, Markham, Oakville, Burlington, Pickering, Ajax, Whitby, and Oshawa."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We serve all 15+ cities across the GTA: Toronto, Scarborough, North York, Etobicoke, Mississauga, Brampton, Vaughan, Richmond Hill, Markham, Oakville, Burlington, Pickering, Ajax, Whitby, and Oshawa."
+          }
         },
         {
           "@type": "Question",
           "name": "How quickly can a technician arrive at my home?",
-          "acceptedAnswer": {"@type": "Answer", "text": "In most GTA cities, we offer same-day service. Call before noon and our nearest technician is typically dispatched within 1-3 hours."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In most GTA cities, we offer same-day service. Call before noon and our nearest technician is typically dispatched within 1-3 hours."
+          }
         },
         {
           "@type": "Question",
           "name": "How much does appliance repair cost in the GTA?",
-          "acceptedAnswer": {"@type": "Answer", "text": "Typical appliance repair costs range from $120-$400 depending on the appliance, brand, and fault. The diagnostic fee is waived when you proceed with the repair."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Typical appliance repair costs range from $120-$400 depending on the appliance, brand, and fault. The diagnostic fee is waived when you proceed with the repair."
+          }
         }
       ]
     }

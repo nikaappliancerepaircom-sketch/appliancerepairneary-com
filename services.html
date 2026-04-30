@@ -28,50 +28,104 @@
 
   <!-- Schema: LocalBusiness + Service -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "LocalBusiness",
-        "name": "Appliance Repair Neary",
-        "telephone": "+14375241053",
-        "url": "https://appliancerepairneary.com",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Toronto",
-          "addressRegion": "Ontario",
-          "addressCountry": "CA"
-        },
-        "openingHours": ["Mo-Sa 08:00-20:00", "Su 09:00-18:00"],
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "reviewCount": "3800"
-        },
-        "priceRange": "$$"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LocalBusiness",
+      "name": "Appliance Repair Neary",
+      "telephone": "+14375241053",
+      "url": "https://appliancerepairneary.com",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Toronto",
+        "addressRegion": "Ontario",
+        "addressCountry": "CA"
       },
-      {
-        "@type": "Service",
-        "name": "Household Appliance Repair — Toronto &amp; GTA",
-        "provider": {"@type": "LocalBusiness", "name": "Appliance Repair Neary"},
-        "areaServed": "Greater Toronto Area",
-        "hasOfferCatalog": {
-          "@type": "OfferCatalog",
-          "name": "Appliance Repair Services",
-          "itemListElement": [
-            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Refrigerator Repair"}},
-            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Washer Repair"}},
-            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Dryer Repair"}},
-            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Dishwasher Repair"}},
-            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Oven Repair"}},
-            {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Stove Repair"}}
-          ]
-        },
-        "offers": {"@type": "Offer", "priceRange": "$120–$400", "description": "Same-day appliance repair across Toronto and GTA. 90-day warranty."}
+      "openingHours": [
+        "Mo-Sa 08:00-20:00",
+        "Su 09:00-18:00"
+      ],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "3800"
+      },
+      "priceRange": "$$",
+      "founder": {
+        "@type": "Person",
+        "name": "Mike"
+      },
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 6
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "Service",
+      "name": "Household Appliance Repair — Toronto &amp; GTA",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Appliance Repair Neary"
+      },
+      "areaServed": "Greater Toronto Area",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Appliance Repair Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Refrigerator Repair"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Washer Repair"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Dryer Repair"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Dishwasher Repair"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Oven Repair"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Stove Repair"
+            }
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceRange": "$120–$400",
+        "description": "Same-day appliance repair across Toronto and GTA. 90-day warranty."
+      }
+    }
+  ]
+}
+</script>
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
@@ -168,6 +222,7 @@
       .card-link { padding: 18px 20px; }
     }
   </style>
+<!-- SCHEMA-ENRICH-v1 -->
 </head>
 <body>
 

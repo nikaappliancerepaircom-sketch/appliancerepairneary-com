@@ -28,38 +28,83 @@
 
   <!-- Schema: LocalBusiness -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "name": "Appliance Repair Neary",
-    "telephone": "+14375241053",
-    "priceRange": "$$",
-    "url": "https://appliancerepairneary.com",
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Toronto",
-      "addressRegion": "Ontario",
-      "addressCountry": "CA"
-    },
-    "areaServed": {
-      "@type": "City",
-      "name": "Toronto"
-    },
-    "openingHours": ["Mo-Sa 08:00-20:00", "Su 09:00-18:00"],
-    "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.9", "reviewCount": "3800"},
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Appliance Repair Services",
-      "itemListElement": [
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Refrigerator Repair"}},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Washer Repair"}},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Dryer Repair"}},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Dishwasher Repair"}},
-        {"@type": "Offer", "itemOffered": {"@type": "Service", "name": "Oven Repair"}}
-      ]
-    }
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Appliance Repair Neary",
+  "telephone": "+14375241053",
+  "priceRange": "$$",
+  "url": "https://appliancerepairneary.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Toronto",
+    "addressRegion": "Ontario",
+    "addressCountry": "CA"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "Toronto"
+  },
+  "openingHours": [
+    "Mo-Sa 08:00-20:00",
+    "Su 09:00-18:00"
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "3800"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Appliance Repair Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Refrigerator Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Washer Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Dryer Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Dishwasher Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Oven Repair"
+        }
+      }
+    ]
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Mike"
+  },
+  "numberOfEmployees": {
+    "@type": "QuantitativeValue",
+    "value": 6
   }
-  </script>
+}
+</script>
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
@@ -147,6 +192,7 @@
       .page-hero { padding: 36px 0 32px; }
     }
   </style>
+<!-- SCHEMA-ENRICH-v1 -->
 </head>
 <body>
 
