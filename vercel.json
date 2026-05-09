@@ -133,126 +133,6 @@
       "destination": "/kitchenaid-repair"
     },
     {
-      "source": "/locations/toronto",
-      "destination": "/fridge-repair-toronto"
-    },
-    {
-      "source": "/locations/scarborough",
-      "destination": "/fridge-repair-scarborough"
-    },
-    {
-      "source": "/locations/north-york",
-      "destination": "/fridge-repair-north-york"
-    },
-    {
-      "source": "/locations/etobicoke",
-      "destination": "/fridge-repair-etobicoke"
-    },
-    {
-      "source": "/locations/mississauga",
-      "destination": "/fridge-repair-mississauga"
-    },
-    {
-      "source": "/locations/brampton",
-      "destination": "/fridge-repair-brampton"
-    },
-    {
-      "source": "/locations/vaughan",
-      "destination": "/fridge-repair-vaughan"
-    },
-    {
-      "source": "/locations/richmond-hill",
-      "destination": "/fridge-repair-richmond-hill"
-    },
-    {
-      "source": "/locations/markham",
-      "destination": "/fridge-repair-markham"
-    },
-    {
-      "source": "/locations/oakville",
-      "destination": "/fridge-repair-oakville"
-    },
-    {
-      "source": "/locations/burlington",
-      "destination": "/fridge-repair-burlington"
-    },
-    {
-      "source": "/locations/pickering",
-      "destination": "/fridge-repair-pickering"
-    },
-    {
-      "source": "/locations/ajax",
-      "destination": "/fridge-repair-ajax"
-    },
-    {
-      "source": "/locations/whitby",
-      "destination": "/fridge-repair-whitby"
-    },
-    {
-      "source": "/locations/oshawa",
-      "destination": "/fridge-repair-oshawa"
-    },
-    {
-      "source": "/areas/toronto",
-      "destination": "/fridge-repair-toronto"
-    },
-    {
-      "source": "/areas/scarborough",
-      "destination": "/fridge-repair-scarborough"
-    },
-    {
-      "source": "/areas/north-york",
-      "destination": "/fridge-repair-north-york"
-    },
-    {
-      "source": "/areas/etobicoke",
-      "destination": "/fridge-repair-etobicoke"
-    },
-    {
-      "source": "/areas/mississauga",
-      "destination": "/fridge-repair-mississauga"
-    },
-    {
-      "source": "/areas/brampton",
-      "destination": "/fridge-repair-brampton"
-    },
-    {
-      "source": "/areas/vaughan",
-      "destination": "/fridge-repair-vaughan"
-    },
-    {
-      "source": "/areas/richmond-hill",
-      "destination": "/fridge-repair-richmond-hill"
-    },
-    {
-      "source": "/areas/markham",
-      "destination": "/fridge-repair-markham"
-    },
-    {
-      "source": "/areas/oakville",
-      "destination": "/fridge-repair-oakville"
-    },
-    {
-      "source": "/areas/burlington",
-      "destination": "/fridge-repair-burlington"
-    },
-    {
-      "source": "/areas/pickering",
-      "destination": "/fridge-repair-pickering"
-    },
-    {
-      "source": "/areas/ajax",
-      "destination": "/fridge-repair-ajax"
-    },
-    {
-      "source": "/areas/whitby",
-      "destination": "/fridge-repair-whitby"
-    },
-    {
-      "source": "/areas/oshawa",
-      "destination": "/fridge-repair-oshawa"
-    },
-    {
       "source": "/blog",
       "destination": "/blog/index"
     }
@@ -260,13 +140,2033 @@
   "redirects": [
     {
       "source": "/:path*",
-      "has": [{ "type": "host", "value": "www.appliancerepairneary.com" }],
+      "has": [
+        {
+          "type": "host",
+          "value": "www.appliancerepairneary.com"
+        }
+      ],
       "destination": "https://appliancerepairneary.com/:path*",
       "permanent": true
     },
     {
       "source": "/home",
       "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-bayview-village",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-bayview-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-birchcliff",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-birchcliff",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-brampton",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-brampton",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-cabbagetown",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-cabbagetown",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-danforth-village",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-danforth-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-davisville-village",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-davisville-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-don-mills",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-don-mills",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-etobicoke",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-etobicoke",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-forest-hill",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-humber-valley",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-humber-valley",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-islington-village",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-islington-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-lawrence-park",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-lawrence-park",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-leaside",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-leaside",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-leslieville",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-leslieville",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-liberty-village",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-liberty-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-markham",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-markham",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-mississauga",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-north-york",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-oakville",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-oakville",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-parkdale",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-parkdale",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-richmond-hill",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-richmond-hill",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-riverdale",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-riverdale",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-rosedale",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-scarborough-village",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-scarborough-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-scarborough",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-scarborough",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-the-annex",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-the-annex",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-the-junction",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-the-junction",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-toronto",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-vaughan",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-vaughan",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-willowdale",
+      "destination": "https://nappliancerepair.com/dishwasher-installation-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-ajax",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-ajax",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-bayview-village",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-bayview-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-birchcliff",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-birchcliff",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-bloor-west-village",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-bloor-west-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-bradford",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-bradford",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-brampton",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-brampton",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-burlington",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-burlington",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-cabbagetown",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-cabbagetown",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-chinatown",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-chinatown",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-corso-italia",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-corso-italia",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-danforth-village",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-danforth-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-davisville-village",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-davisville-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-don-mills",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-don-mills",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-dufferin-grove",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-dufferin-grove",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-east-york",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-east-york",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-etobicoke-village",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-etobicoke-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-etobicoke",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-etobicoke",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-forest-hill",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-greektown",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-greektown",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-high-park",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-high-park",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-humber-valley",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-humber-valley",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-islington-village",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-islington-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-king-west",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-king-west",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-lawrence-park",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-lawrence-park",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-leaside",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-leaside",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-leslieville",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-leslieville",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-liberty-village",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-liberty-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-little-italy",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-little-italy",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-little-portugal",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-little-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-markham",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-markham",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-midtown",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-midtown",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-mississauga",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-newmarket",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-newmarket",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-north-york",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-oakville",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-oakville",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-oshawa",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-oshawa",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-ossington",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-ossington",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-parkdale",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-parkdale",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-pickering",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-pickering",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-richmond-hill",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-richmond-hill",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-riverdale",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-riverdale",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-roncesvalles",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-roncesvalles",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-rosedale",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-scarborough-village",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-scarborough-village",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-scarborough",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-scarborough",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-st-lawrence",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-st-lawrence",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-swansea",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-swansea",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-the-annex",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-the-annex",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-the-beaches",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-the-beaches",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-the-junction",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-the-junction",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-thorncliffe-park",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-thorncliffe-park",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-toronto",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-trinity-bellwoods",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-trinity-bellwoods",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-vaughan",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-vaughan",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-whitby",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-whitby",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-willowdale",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-wychwood",
+      "destination": "https://nappliancerepair.com/dishwasher-repair-wychwood",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-ajax",
+      "destination": "https://nappliancerepair.com/dryer-repair-ajax",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-bayview-village",
+      "destination": "https://nappliancerepair.com/dryer-repair-bayview-village",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-birchcliff",
+      "destination": "https://nappliancerepair.com/dryer-repair-birchcliff",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-bloor-west-village",
+      "destination": "https://nappliancerepair.com/dryer-repair-bloor-west-village",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-bradford",
+      "destination": "https://nappliancerepair.com/dryer-repair-bradford",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-brampton",
+      "destination": "https://nappliancerepair.com/dryer-repair-brampton",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-burlington",
+      "destination": "https://nappliancerepair.com/dryer-repair-burlington",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-cabbagetown",
+      "destination": "https://nappliancerepair.com/dryer-repair-cabbagetown",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-chinatown",
+      "destination": "https://nappliancerepair.com/dryer-repair-chinatown",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-corso-italia",
+      "destination": "https://nappliancerepair.com/dryer-repair-corso-italia",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-danforth-village",
+      "destination": "https://nappliancerepair.com/dryer-repair-danforth-village",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-davisville-village",
+      "destination": "https://nappliancerepair.com/dryer-repair-davisville-village",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-don-mills",
+      "destination": "https://nappliancerepair.com/dryer-repair-don-mills",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-dufferin-grove",
+      "destination": "https://nappliancerepair.com/dryer-repair-dufferin-grove",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-east-york",
+      "destination": "https://nappliancerepair.com/dryer-repair-east-york",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-etobicoke-village",
+      "destination": "https://nappliancerepair.com/dryer-repair-etobicoke-village",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-etobicoke",
+      "destination": "https://nappliancerepair.com/dryer-repair-etobicoke",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-forest-hill",
+      "destination": "https://nappliancerepair.com/dryer-repair-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-greektown",
+      "destination": "https://nappliancerepair.com/dryer-repair-greektown",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-high-park",
+      "destination": "https://nappliancerepair.com/dryer-repair-high-park",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-humber-valley",
+      "destination": "https://nappliancerepair.com/dryer-repair-humber-valley",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-islington-village",
+      "destination": "https://nappliancerepair.com/dryer-repair-islington-village",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-king-west",
+      "destination": "https://nappliancerepair.com/dryer-repair-king-west",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-lawrence-park",
+      "destination": "https://nappliancerepair.com/dryer-repair-lawrence-park",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-leaside",
+      "destination": "https://nappliancerepair.com/dryer-repair-leaside",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-leslieville",
+      "destination": "https://nappliancerepair.com/dryer-repair-leslieville",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-liberty-village",
+      "destination": "https://nappliancerepair.com/dryer-repair-liberty-village",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-little-italy",
+      "destination": "https://nappliancerepair.com/dryer-repair-little-italy",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-little-portugal",
+      "destination": "https://nappliancerepair.com/dryer-repair-little-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-markham",
+      "destination": "https://nappliancerepair.com/dryer-repair-markham",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-midtown",
+      "destination": "https://nappliancerepair.com/dryer-repair-midtown",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-mississauga",
+      "destination": "https://nappliancerepair.com/dryer-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-newmarket",
+      "destination": "https://nappliancerepair.com/dryer-repair-newmarket",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-north-york",
+      "destination": "https://nappliancerepair.com/dryer-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-oakville",
+      "destination": "https://nappliancerepair.com/dryer-repair-oakville",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-oshawa",
+      "destination": "https://nappliancerepair.com/dryer-repair-oshawa",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-ossington",
+      "destination": "https://nappliancerepair.com/dryer-repair-ossington",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-parkdale",
+      "destination": "https://nappliancerepair.com/dryer-repair-parkdale",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-pickering",
+      "destination": "https://nappliancerepair.com/dryer-repair-pickering",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-richmond-hill",
+      "destination": "https://nappliancerepair.com/dryer-repair-richmond-hill",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-riverdale",
+      "destination": "https://nappliancerepair.com/dryer-repair-riverdale",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-roncesvalles",
+      "destination": "https://nappliancerepair.com/dryer-repair-roncesvalles",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-rosedale",
+      "destination": "https://nappliancerepair.com/dryer-repair-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-scarborough-village",
+      "destination": "https://nappliancerepair.com/dryer-repair-scarborough-village",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-scarborough",
+      "destination": "https://nappliancerepair.com/dryer-repair-scarborough",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-st-lawrence",
+      "destination": "https://nappliancerepair.com/dryer-repair-st-lawrence",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-swansea",
+      "destination": "https://nappliancerepair.com/dryer-repair-swansea",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-the-annex",
+      "destination": "https://nappliancerepair.com/dryer-repair-the-annex",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-the-beaches",
+      "destination": "https://nappliancerepair.com/dryer-repair-the-beaches",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-the-junction",
+      "destination": "https://nappliancerepair.com/dryer-repair-the-junction",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-thorncliffe-park",
+      "destination": "https://nappliancerepair.com/dryer-repair-thorncliffe-park",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-toronto",
+      "destination": "https://nappliancerepair.com/dryer-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-trinity-bellwoods",
+      "destination": "https://nappliancerepair.com/dryer-repair-trinity-bellwoods",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-vaughan",
+      "destination": "https://nappliancerepair.com/dryer-repair-vaughan",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-whitby",
+      "destination": "https://nappliancerepair.com/dryer-repair-whitby",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-willowdale",
+      "destination": "https://nappliancerepair.com/dryer-repair-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-wychwood",
+      "destination": "https://nappliancerepair.com/dryer-repair-wychwood",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-ajax",
+      "destination": "https://nappliancerepair.com/fridge-repair-ajax",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-bayview-village",
+      "destination": "https://nappliancerepair.com/fridge-repair-bayview-village",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-birchcliff",
+      "destination": "https://nappliancerepair.com/fridge-repair-birchcliff",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-bloor-west-village",
+      "destination": "https://nappliancerepair.com/fridge-repair-bloor-west-village",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-bradford",
+      "destination": "https://nappliancerepair.com/fridge-repair-bradford",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-brampton",
+      "destination": "https://nappliancerepair.com/fridge-repair-brampton",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-burlington",
+      "destination": "https://nappliancerepair.com/fridge-repair-burlington",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-cabbagetown",
+      "destination": "https://nappliancerepair.com/fridge-repair-cabbagetown",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-chinatown",
+      "destination": "https://nappliancerepair.com/fridge-repair-chinatown",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-corso-italia",
+      "destination": "https://nappliancerepair.com/fridge-repair-corso-italia",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-danforth-village",
+      "destination": "https://nappliancerepair.com/fridge-repair-danforth-village",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-davisville-village",
+      "destination": "https://nappliancerepair.com/fridge-repair-davisville-village",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-don-mills",
+      "destination": "https://nappliancerepair.com/fridge-repair-don-mills",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-dufferin-grove",
+      "destination": "https://nappliancerepair.com/fridge-repair-dufferin-grove",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-east-york",
+      "destination": "https://nappliancerepair.com/fridge-repair-east-york",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-etobicoke-village",
+      "destination": "https://nappliancerepair.com/fridge-repair-etobicoke-village",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-etobicoke",
+      "destination": "https://nappliancerepair.com/fridge-repair-etobicoke",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-forest-hill",
+      "destination": "https://nappliancerepair.com/fridge-repair-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-greektown",
+      "destination": "https://nappliancerepair.com/fridge-repair-greektown",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-high-park",
+      "destination": "https://nappliancerepair.com/fridge-repair-high-park",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-humber-valley",
+      "destination": "https://nappliancerepair.com/fridge-repair-humber-valley",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-islington-village",
+      "destination": "https://nappliancerepair.com/fridge-repair-islington-village",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-king-west",
+      "destination": "https://nappliancerepair.com/fridge-repair-king-west",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-lawrence-park",
+      "destination": "https://nappliancerepair.com/fridge-repair-lawrence-park",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-leaside",
+      "destination": "https://nappliancerepair.com/fridge-repair-leaside",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-leslieville",
+      "destination": "https://nappliancerepair.com/fridge-repair-leslieville",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-liberty-village",
+      "destination": "https://nappliancerepair.com/fridge-repair-liberty-village",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-little-italy",
+      "destination": "https://nappliancerepair.com/fridge-repair-little-italy",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-little-portugal",
+      "destination": "https://nappliancerepair.com/fridge-repair-little-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-markham",
+      "destination": "https://nappliancerepair.com/fridge-repair-markham",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-midtown",
+      "destination": "https://nappliancerepair.com/fridge-repair-midtown",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-mississauga",
+      "destination": "https://nappliancerepair.com/fridge-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-newmarket",
+      "destination": "https://nappliancerepair.com/fridge-repair-newmarket",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-north-york",
+      "destination": "https://nappliancerepair.com/fridge-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-oakville",
+      "destination": "https://nappliancerepair.com/fridge-repair-oakville",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-oshawa",
+      "destination": "https://nappliancerepair.com/fridge-repair-oshawa",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-ossington",
+      "destination": "https://nappliancerepair.com/fridge-repair-ossington",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-parkdale",
+      "destination": "https://nappliancerepair.com/fridge-repair-parkdale",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-pickering",
+      "destination": "https://nappliancerepair.com/fridge-repair-pickering",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-richmond-hill",
+      "destination": "https://nappliancerepair.com/fridge-repair-richmond-hill",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-riverdale",
+      "destination": "https://nappliancerepair.com/fridge-repair-riverdale",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-roncesvalles",
+      "destination": "https://nappliancerepair.com/fridge-repair-roncesvalles",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-rosedale",
+      "destination": "https://nappliancerepair.com/fridge-repair-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-scarborough-village",
+      "destination": "https://nappliancerepair.com/fridge-repair-scarborough-village",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-scarborough",
+      "destination": "https://nappliancerepair.com/fridge-repair-scarborough",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-st-lawrence",
+      "destination": "https://nappliancerepair.com/fridge-repair-st-lawrence",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-swansea",
+      "destination": "https://nappliancerepair.com/fridge-repair-swansea",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-the-annex",
+      "destination": "https://nappliancerepair.com/fridge-repair-the-annex",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-the-beaches",
+      "destination": "https://nappliancerepair.com/fridge-repair-the-beaches",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-the-junction",
+      "destination": "https://nappliancerepair.com/fridge-repair-the-junction",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-thorncliffe-park",
+      "destination": "https://nappliancerepair.com/fridge-repair-thorncliffe-park",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-toronto",
+      "destination": "https://nappliancerepair.com/fridge-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-trinity-bellwoods",
+      "destination": "https://nappliancerepair.com/fridge-repair-trinity-bellwoods",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-vaughan",
+      "destination": "https://nappliancerepair.com/fridge-repair-vaughan",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-whitby",
+      "destination": "https://nappliancerepair.com/fridge-repair-whitby",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-willowdale",
+      "destination": "https://nappliancerepair.com/fridge-repair-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-wychwood",
+      "destination": "https://nappliancerepair.com/fridge-repair-wychwood",
+      "permanent": true
+    },
+    {
+      "source": "/frigidaire-repair-toronto",
+      "destination": "https://nappliancerepair.com/frigidaire-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/gas-appliance-repair-etobicoke",
+      "destination": "https://nappliancerepair.com/gas-appliance-repair-etobicoke",
+      "permanent": true
+    },
+    {
+      "source": "/gas-appliance-repair-mississauga",
+      "destination": "https://nappliancerepair.com/gas-appliance-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/gas-appliance-repair-north-york",
+      "destination": "https://nappliancerepair.com/gas-appliance-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/gas-appliance-repair-scarborough-village",
+      "destination": "https://nappliancerepair.com/gas-appliance-repair-scarborough-village",
+      "permanent": true
+    },
+    {
+      "source": "/gas-appliance-repair-scarborough",
+      "destination": "https://nappliancerepair.com/gas-appliance-repair-scarborough",
+      "permanent": true
+    },
+    {
+      "source": "/gas-appliance-repair-toronto",
+      "destination": "https://nappliancerepair.com/gas-appliance-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/gas-dryer-repair-mississauga",
+      "destination": "https://nappliancerepair.com/gas-dryer-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/gas-dryer-repair-north-york",
+      "destination": "https://nappliancerepair.com/gas-dryer-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/gas-dryer-repair-toronto",
+      "destination": "https://nappliancerepair.com/gas-dryer-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/gas-dryer-repair-willowdale",
+      "destination": "https://nappliancerepair.com/gas-dryer-repair-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/gas-oven-repair-forest-hill",
+      "destination": "https://nappliancerepair.com/gas-oven-repair-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/gas-oven-repair-mississauga",
+      "destination": "https://nappliancerepair.com/gas-oven-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/gas-oven-repair-rosedale",
+      "destination": "https://nappliancerepair.com/gas-oven-repair-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/gas-oven-repair-toronto",
+      "destination": "https://nappliancerepair.com/gas-oven-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-danforth-village",
+      "destination": "https://nappliancerepair.com/gas-stove-repair-danforth-village",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-forest-hill",
+      "destination": "https://nappliancerepair.com/gas-stove-repair-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-leaside",
+      "destination": "https://nappliancerepair.com/gas-stove-repair-leaside",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-mississauga",
+      "destination": "https://nappliancerepair.com/gas-stove-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-north-york",
+      "destination": "https://nappliancerepair.com/gas-stove-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-rosedale",
+      "destination": "https://nappliancerepair.com/gas-stove-repair-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-toronto",
+      "destination": "https://nappliancerepair.com/gas-stove-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-willowdale",
+      "destination": "https://nappliancerepair.com/gas-stove-repair-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/ge-repair-toronto",
+      "destination": "https://nappliancerepair.com/ge-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/kitchenaid-repair-toronto",
+      "destination": "https://nappliancerepair.com/kitchenaid-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/lg-repair-toronto",
+      "destination": "https://nappliancerepair.com/lg-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/maytag-repair-toronto",
+      "destination": "https://nappliancerepair.com/maytag-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/miele-repair-toronto",
+      "destination": "https://nappliancerepair.com/miele-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-ajax",
+      "destination": "https://nappliancerepair.com/oven-repair-ajax",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-bayview-village",
+      "destination": "https://nappliancerepair.com/oven-repair-bayview-village",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-birchcliff",
+      "destination": "https://nappliancerepair.com/oven-repair-birchcliff",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-bloor-west-village",
+      "destination": "https://nappliancerepair.com/oven-repair-bloor-west-village",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-bradford",
+      "destination": "https://nappliancerepair.com/oven-repair-bradford",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-brampton",
+      "destination": "https://nappliancerepair.com/oven-repair-brampton",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-burlington",
+      "destination": "https://nappliancerepair.com/oven-repair-burlington",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-cabbagetown",
+      "destination": "https://nappliancerepair.com/oven-repair-cabbagetown",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-chinatown",
+      "destination": "https://nappliancerepair.com/oven-repair-chinatown",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-corso-italia",
+      "destination": "https://nappliancerepair.com/oven-repair-corso-italia",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-danforth-village",
+      "destination": "https://nappliancerepair.com/oven-repair-danforth-village",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-davisville-village",
+      "destination": "https://nappliancerepair.com/oven-repair-davisville-village",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-don-mills",
+      "destination": "https://nappliancerepair.com/oven-repair-don-mills",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-dufferin-grove",
+      "destination": "https://nappliancerepair.com/oven-repair-dufferin-grove",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-east-york",
+      "destination": "https://nappliancerepair.com/oven-repair-east-york",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-etobicoke-village",
+      "destination": "https://nappliancerepair.com/oven-repair-etobicoke-village",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-etobicoke",
+      "destination": "https://nappliancerepair.com/oven-repair-etobicoke",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-forest-hill",
+      "destination": "https://nappliancerepair.com/oven-repair-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-greektown",
+      "destination": "https://nappliancerepair.com/oven-repair-greektown",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-high-park",
+      "destination": "https://nappliancerepair.com/oven-repair-high-park",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-humber-valley",
+      "destination": "https://nappliancerepair.com/oven-repair-humber-valley",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-islington-village",
+      "destination": "https://nappliancerepair.com/oven-repair-islington-village",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-king-west",
+      "destination": "https://nappliancerepair.com/oven-repair-king-west",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-lawrence-park",
+      "destination": "https://nappliancerepair.com/oven-repair-lawrence-park",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-leaside",
+      "destination": "https://nappliancerepair.com/oven-repair-leaside",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-leslieville",
+      "destination": "https://nappliancerepair.com/oven-repair-leslieville",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-liberty-village",
+      "destination": "https://nappliancerepair.com/oven-repair-liberty-village",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-little-italy",
+      "destination": "https://nappliancerepair.com/oven-repair-little-italy",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-little-portugal",
+      "destination": "https://nappliancerepair.com/oven-repair-little-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-markham",
+      "destination": "https://nappliancerepair.com/oven-repair-markham",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-midtown",
+      "destination": "https://nappliancerepair.com/oven-repair-midtown",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-mississauga",
+      "destination": "https://nappliancerepair.com/oven-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-newmarket",
+      "destination": "https://nappliancerepair.com/oven-repair-newmarket",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-north-york",
+      "destination": "https://nappliancerepair.com/oven-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-oakville",
+      "destination": "https://nappliancerepair.com/oven-repair-oakville",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-oshawa",
+      "destination": "https://nappliancerepair.com/oven-repair-oshawa",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-ossington",
+      "destination": "https://nappliancerepair.com/oven-repair-ossington",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-parkdale",
+      "destination": "https://nappliancerepair.com/oven-repair-parkdale",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-pickering",
+      "destination": "https://nappliancerepair.com/oven-repair-pickering",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-richmond-hill",
+      "destination": "https://nappliancerepair.com/oven-repair-richmond-hill",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-riverdale",
+      "destination": "https://nappliancerepair.com/oven-repair-riverdale",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-roncesvalles",
+      "destination": "https://nappliancerepair.com/oven-repair-roncesvalles",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-rosedale",
+      "destination": "https://nappliancerepair.com/oven-repair-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-scarborough-village",
+      "destination": "https://nappliancerepair.com/oven-repair-scarborough-village",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-scarborough",
+      "destination": "https://nappliancerepair.com/oven-repair-scarborough",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-st-lawrence",
+      "destination": "https://nappliancerepair.com/oven-repair-st-lawrence",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-swansea",
+      "destination": "https://nappliancerepair.com/oven-repair-swansea",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-the-annex",
+      "destination": "https://nappliancerepair.com/oven-repair-the-annex",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-the-beaches",
+      "destination": "https://nappliancerepair.com/oven-repair-the-beaches",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-the-junction",
+      "destination": "https://nappliancerepair.com/oven-repair-the-junction",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-thorncliffe-park",
+      "destination": "https://nappliancerepair.com/oven-repair-thorncliffe-park",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-toronto",
+      "destination": "https://nappliancerepair.com/oven-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-trinity-bellwoods",
+      "destination": "https://nappliancerepair.com/oven-repair-trinity-bellwoods",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-vaughan",
+      "destination": "https://nappliancerepair.com/oven-repair-vaughan",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-whitby",
+      "destination": "https://nappliancerepair.com/oven-repair-whitby",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-willowdale",
+      "destination": "https://nappliancerepair.com/oven-repair-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-wychwood",
+      "destination": "https://nappliancerepair.com/oven-repair-wychwood",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-repair-toronto",
+      "destination": "https://nappliancerepair.com/samsung-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-ajax",
+      "destination": "https://nappliancerepair.com/stove-repair-ajax",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-bayview-village",
+      "destination": "https://nappliancerepair.com/stove-repair-bayview-village",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-birchcliff",
+      "destination": "https://nappliancerepair.com/stove-repair-birchcliff",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-bloor-west-village",
+      "destination": "https://nappliancerepair.com/stove-repair-bloor-west-village",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-bradford",
+      "destination": "https://nappliancerepair.com/stove-repair-bradford",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-brampton",
+      "destination": "https://nappliancerepair.com/stove-repair-brampton",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-burlington",
+      "destination": "https://nappliancerepair.com/stove-repair-burlington",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-cabbagetown",
+      "destination": "https://nappliancerepair.com/stove-repair-cabbagetown",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-chinatown",
+      "destination": "https://nappliancerepair.com/stove-repair-chinatown",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-corso-italia",
+      "destination": "https://nappliancerepair.com/stove-repair-corso-italia",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-danforth-village",
+      "destination": "https://nappliancerepair.com/stove-repair-danforth-village",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-davisville-village",
+      "destination": "https://nappliancerepair.com/stove-repair-davisville-village",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-don-mills",
+      "destination": "https://nappliancerepair.com/stove-repair-don-mills",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-dufferin-grove",
+      "destination": "https://nappliancerepair.com/stove-repair-dufferin-grove",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-east-york",
+      "destination": "https://nappliancerepair.com/stove-repair-east-york",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-etobicoke-village",
+      "destination": "https://nappliancerepair.com/stove-repair-etobicoke-village",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-etobicoke",
+      "destination": "https://nappliancerepair.com/stove-repair-etobicoke",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-forest-hill",
+      "destination": "https://nappliancerepair.com/stove-repair-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-greektown",
+      "destination": "https://nappliancerepair.com/stove-repair-greektown",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-high-park",
+      "destination": "https://nappliancerepair.com/stove-repair-high-park",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-humber-valley",
+      "destination": "https://nappliancerepair.com/stove-repair-humber-valley",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-islington-village",
+      "destination": "https://nappliancerepair.com/stove-repair-islington-village",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-king-west",
+      "destination": "https://nappliancerepair.com/stove-repair-king-west",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-lawrence-park",
+      "destination": "https://nappliancerepair.com/stove-repair-lawrence-park",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-leaside",
+      "destination": "https://nappliancerepair.com/stove-repair-leaside",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-leslieville",
+      "destination": "https://nappliancerepair.com/stove-repair-leslieville",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-liberty-village",
+      "destination": "https://nappliancerepair.com/stove-repair-liberty-village",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-little-italy",
+      "destination": "https://nappliancerepair.com/stove-repair-little-italy",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-little-portugal",
+      "destination": "https://nappliancerepair.com/stove-repair-little-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-markham",
+      "destination": "https://nappliancerepair.com/stove-repair-markham",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-midtown",
+      "destination": "https://nappliancerepair.com/stove-repair-midtown",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-mississauga",
+      "destination": "https://nappliancerepair.com/stove-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-newmarket",
+      "destination": "https://nappliancerepair.com/stove-repair-newmarket",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-north-york",
+      "destination": "https://nappliancerepair.com/stove-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-oakville",
+      "destination": "https://nappliancerepair.com/stove-repair-oakville",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-oshawa",
+      "destination": "https://nappliancerepair.com/stove-repair-oshawa",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-ossington",
+      "destination": "https://nappliancerepair.com/stove-repair-ossington",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-parkdale",
+      "destination": "https://nappliancerepair.com/stove-repair-parkdale",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-pickering",
+      "destination": "https://nappliancerepair.com/stove-repair-pickering",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-richmond-hill",
+      "destination": "https://nappliancerepair.com/stove-repair-richmond-hill",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-riverdale",
+      "destination": "https://nappliancerepair.com/stove-repair-riverdale",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-roncesvalles",
+      "destination": "https://nappliancerepair.com/stove-repair-roncesvalles",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-rosedale",
+      "destination": "https://nappliancerepair.com/stove-repair-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-scarborough-village",
+      "destination": "https://nappliancerepair.com/stove-repair-scarborough-village",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-scarborough",
+      "destination": "https://nappliancerepair.com/stove-repair-scarborough",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-st-lawrence",
+      "destination": "https://nappliancerepair.com/stove-repair-st-lawrence",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-swansea",
+      "destination": "https://nappliancerepair.com/stove-repair-swansea",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-the-annex",
+      "destination": "https://nappliancerepair.com/stove-repair-the-annex",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-the-beaches",
+      "destination": "https://nappliancerepair.com/stove-repair-the-beaches",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-the-junction",
+      "destination": "https://nappliancerepair.com/stove-repair-the-junction",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-thorncliffe-park",
+      "destination": "https://nappliancerepair.com/stove-repair-thorncliffe-park",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-toronto",
+      "destination": "https://nappliancerepair.com/stove-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-trinity-bellwoods",
+      "destination": "https://nappliancerepair.com/stove-repair-trinity-bellwoods",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-vaughan",
+      "destination": "https://nappliancerepair.com/stove-repair-vaughan",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-whitby",
+      "destination": "https://nappliancerepair.com/stove-repair-whitby",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-willowdale",
+      "destination": "https://nappliancerepair.com/stove-repair-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-wychwood",
+      "destination": "https://nappliancerepair.com/stove-repair-wychwood",
+      "permanent": true
+    },
+    {
+      "source": "/toronto",
+      "destination": "https://nappliancerepair.com/toronto",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-ajax",
+      "destination": "https://nappliancerepair.com/washer-repair-ajax",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-bayview-village",
+      "destination": "https://nappliancerepair.com/washer-repair-bayview-village",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-birchcliff",
+      "destination": "https://nappliancerepair.com/washer-repair-birchcliff",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-bloor-west-village",
+      "destination": "https://nappliancerepair.com/washer-repair-bloor-west-village",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-bradford",
+      "destination": "https://nappliancerepair.com/washer-repair-bradford",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-brampton",
+      "destination": "https://nappliancerepair.com/washer-repair-brampton",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-burlington",
+      "destination": "https://nappliancerepair.com/washer-repair-burlington",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-cabbagetown",
+      "destination": "https://nappliancerepair.com/washer-repair-cabbagetown",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-chinatown",
+      "destination": "https://nappliancerepair.com/washer-repair-chinatown",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-corso-italia",
+      "destination": "https://nappliancerepair.com/washer-repair-corso-italia",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-danforth-village",
+      "destination": "https://nappliancerepair.com/washer-repair-danforth-village",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-davisville-village",
+      "destination": "https://nappliancerepair.com/washer-repair-davisville-village",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-don-mills",
+      "destination": "https://nappliancerepair.com/washer-repair-don-mills",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-dufferin-grove",
+      "destination": "https://nappliancerepair.com/washer-repair-dufferin-grove",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-east-york",
+      "destination": "https://nappliancerepair.com/washer-repair-east-york",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-etobicoke-village",
+      "destination": "https://nappliancerepair.com/washer-repair-etobicoke-village",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-etobicoke",
+      "destination": "https://nappliancerepair.com/washer-repair-etobicoke",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-forest-hill",
+      "destination": "https://nappliancerepair.com/washer-repair-forest-hill",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-greektown",
+      "destination": "https://nappliancerepair.com/washer-repair-greektown",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-high-park",
+      "destination": "https://nappliancerepair.com/washer-repair-high-park",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-humber-valley",
+      "destination": "https://nappliancerepair.com/washer-repair-humber-valley",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-islington-village",
+      "destination": "https://nappliancerepair.com/washer-repair-islington-village",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-king-west",
+      "destination": "https://nappliancerepair.com/washer-repair-king-west",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-lawrence-park",
+      "destination": "https://nappliancerepair.com/washer-repair-lawrence-park",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-leaside",
+      "destination": "https://nappliancerepair.com/washer-repair-leaside",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-leslieville",
+      "destination": "https://nappliancerepair.com/washer-repair-leslieville",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-liberty-village",
+      "destination": "https://nappliancerepair.com/washer-repair-liberty-village",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-little-italy",
+      "destination": "https://nappliancerepair.com/washer-repair-little-italy",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-little-portugal",
+      "destination": "https://nappliancerepair.com/washer-repair-little-portugal",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-markham",
+      "destination": "https://nappliancerepair.com/washer-repair-markham",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-midtown",
+      "destination": "https://nappliancerepair.com/washer-repair-midtown",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-mississauga",
+      "destination": "https://nappliancerepair.com/washer-repair-mississauga",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-newmarket",
+      "destination": "https://nappliancerepair.com/washer-repair-newmarket",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-north-york",
+      "destination": "https://nappliancerepair.com/washer-repair-north-york",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-oakville",
+      "destination": "https://nappliancerepair.com/washer-repair-oakville",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-oshawa",
+      "destination": "https://nappliancerepair.com/washer-repair-oshawa",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-ossington",
+      "destination": "https://nappliancerepair.com/washer-repair-ossington",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-parkdale",
+      "destination": "https://nappliancerepair.com/washer-repair-parkdale",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-pickering",
+      "destination": "https://nappliancerepair.com/washer-repair-pickering",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-richmond-hill",
+      "destination": "https://nappliancerepair.com/washer-repair-richmond-hill",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-riverdale",
+      "destination": "https://nappliancerepair.com/washer-repair-riverdale",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-roncesvalles",
+      "destination": "https://nappliancerepair.com/washer-repair-roncesvalles",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-rosedale",
+      "destination": "https://nappliancerepair.com/washer-repair-rosedale",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-scarborough-village",
+      "destination": "https://nappliancerepair.com/washer-repair-scarborough-village",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-scarborough",
+      "destination": "https://nappliancerepair.com/washer-repair-scarborough",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-st-lawrence",
+      "destination": "https://nappliancerepair.com/washer-repair-st-lawrence",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-swansea",
+      "destination": "https://nappliancerepair.com/washer-repair-swansea",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-the-annex",
+      "destination": "https://nappliancerepair.com/washer-repair-the-annex",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-the-beaches",
+      "destination": "https://nappliancerepair.com/washer-repair-the-beaches",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-the-junction",
+      "destination": "https://nappliancerepair.com/washer-repair-the-junction",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-thorncliffe-park",
+      "destination": "https://nappliancerepair.com/washer-repair-thorncliffe-park",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-toronto",
+      "destination": "https://nappliancerepair.com/washer-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-trinity-bellwoods",
+      "destination": "https://nappliancerepair.com/washer-repair-trinity-bellwoods",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-vaughan",
+      "destination": "https://nappliancerepair.com/washer-repair-vaughan",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-whitby",
+      "destination": "https://nappliancerepair.com/washer-repair-whitby",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-willowdale",
+      "destination": "https://nappliancerepair.com/washer-repair-willowdale",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-wychwood",
+      "destination": "https://nappliancerepair.com/washer-repair-wychwood",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-repair-toronto",
+      "destination": "https://nappliancerepair.com/whirlpool-repair-toronto",
       "permanent": true
     }
   ]

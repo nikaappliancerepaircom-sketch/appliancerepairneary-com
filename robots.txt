@@ -1,5 +1,16 @@
 User-agent: *
 Allow: /
+Disallow: /toronto/
+Disallow: /gta/
+Disallow: /edmonton/
+Disallow: /sherwood-park/
+Disallow: /st-albert/
+Disallow: /spruce-grove/
+Disallow: /fort-saskatchewan/
+Disallow: /beaumont/
+Disallow: /leduc/
+Disallow: /devon/
+Disallow: /stony-plain/
 
 User-agent: Googlebot
 Allow: /
