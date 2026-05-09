@@ -26,6 +26,7 @@
   <!-- Schema: LocalBusiness with AggregateRating -->
   <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/#business",
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Appliance Repair Near Me — Toronto & GTA",
@@ -114,25 +115,26 @@
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "About",
-        "item": "https://appliancerepairneary.com/about.html"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/about#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "About",
+      "item": "https://appliancerepairneary.com/about.html"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -622,6 +624,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
 <!-- Schema: FAQPage -->
 <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/about#faq",
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
@@ -766,9 +769,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

@@ -32,6 +32,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "name": "Appliance Repair Neary",
       "telephone": "+14375241053",
@@ -62,6 +63,7 @@
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/services#service",
       "@type": "Service",
       "name": "Household Appliance Repair — Toronto &amp; GTA",
       "provider": {
@@ -129,27 +131,28 @@
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "datePublished": "2026-02-22",
-    "dateModified": "2026-02-22",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Our Services",
-        "item": "https://appliancerepairneary.com/services"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/services#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "datePublished": "2026-02-22",
+  "dateModified": "2026-02-22",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Our Services",
+      "item": "https://appliancerepairneary.com/services"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -436,28 +439,41 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
 <!-- Schema: FAQPage -->
 <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/services#faq",
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {
       "@type": "Question",
       "name": "Which appliances do you repair?",
-      "acceptedAnswer": {"@type": "Answer", "text": "We repair refrigerators, washers, dryers, dishwashers, ovens, stoves, and freezers for all major brands including Samsung, LG, Whirlpool, Bosch, Frigidaire, GE, Kenmore, and Miele."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We repair refrigerators, washers, dryers, dishwashers, ovens, stoves, and freezers for all major brands including Samsung, LG, Whirlpool, Bosch, Frigidaire, GE, Kenmore, and Miele."
+      }
     },
     {
       "@type": "Question",
       "name": "Is same-day appliance repair available?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Yes. Call before noon on weekdays or Saturday for same-day service across most GTA areas."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Call before noon on weekdays or Saturday for same-day service across most GTA areas."
+      }
     },
     {
       "@type": "Question",
       "name": "How much does appliance repair cost?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Typical cost ranges from $120-$420 depending on the appliance and fault. Diagnostic fee waived when you proceed with repair."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typical cost ranges from $120-$420 depending on the appliance and fault. Diagnostic fee waived when you proceed with repair."
+      }
     },
     {
       "@type": "Question",
       "name": "What warranty do you provide on repairs?",
-      "acceptedAnswer": {"@type": "Answer", "text": "All repairs carry a 90-day warranty on both parts and labour. If the same fault returns within 90 days, we come back at no additional charge."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "All repairs carry a 90-day warranty on both parts and labour. If the same fault returns within 90 days, we come back at no additional charge."
+      }
     }
   ]
 }
@@ -587,9 +603,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

@@ -18,6 +18,7 @@
 <meta property="og:type" content="website">
 <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/#business",
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Appliance Repair Near Me",
@@ -68,8 +69,80 @@
   }
 }
 </script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Washer Repair in St. Lawrence","serviceType":"Washer Repair","provider":{"@type":"LocalBusiness","name":"Appliance Repair Near Me","telephone":"+14375241053"},"areaServed":{"@type":"Place","name":"St. Lawrence, Toronto"},"hasOfferCatalog":{"@type":"OfferCatalog","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Diagnostic"},"priceSpecification":{"@type":"PriceSpecification","priceCurrency":"CAD","price":"119"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Standard Repair"},"priceSpecification":{"@type":"PriceSpecification","priceCurrency":"CAD","price":"100-200"}}]}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://appliancerepairneary.com/"},{"@type":"ListItem","position":2,"name":"St. Lawrence","item":"https://appliancerepairneary.com/st-lawrence"},{"@type":"ListItem","position":3,"name":"Washer Repair St. Lawrence","item":"https://appliancerepairneary.com/washer-repair-st-lawrence"}]}</script>
+<script type="application/ld+json">
+{
+  "@id": "https://appliancerepairneary.com/washer-repair-st-lawrence#service",
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Washer Repair in St. Lawrence",
+  "serviceType": "Washer Repair",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Appliance Repair Near Me",
+    "telephone": "+14375241053"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "St. Lawrence, Toronto"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Diagnostic"
+        },
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "priceCurrency": "CAD",
+          "price": "119"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Standard Repair"
+        },
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "priceCurrency": "CAD",
+          "price": "100-200"
+        }
+      }
+    ]
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@id": "https://appliancerepairneary.com/washer-repair-st-lawrence#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "St. Lawrence",
+      "item": "https://appliancerepairneary.com/st-lawrence"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Washer Repair St. Lawrence",
+      "item": "https://appliancerepairneary.com/washer-repair-st-lawrence"
+    }
+  ]
+}
+</script>
 
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -129,7 +202,47 @@
     .breadcrumb a{color:#1E3A5F}</style>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you repair stackable washers in St. Lawrence condos?","acceptedAnswer":{"@type":"Answer","text":"Yes, we specialize in stackable front-loaders and compact units common in St. Lawrence. Our techs are trained to safely move and service these units in tight spaces."}},{"@type":"Question","name":"How quickly can you get to a St. Lawrence apartment for repairs?","acceptedAnswer":{"@type":"Answer","text":"We offer same-day service throughout the St. Lawrence area. We understand the urgency of appliance failures in high-density downtown buildings."}},{"@type":"Question","name":"What are the most common washer problems in St. Lawrence?","acceptedAnswer":{"@type":"Answer","text":"The most frequent issues we see in St. Lawrence are drainage failures in LG units and worn door seals in Samsung machines, often due to high usage."}},{"@type":"Question","name":"Is the diagnostic fee waived in St. Lawrence?","acceptedAnswer":{"@type":"Answer","text":"Yes, our $89 diagnostic fee (waived with repair) is completely waived if you proceed with any washer repair in the St. Lawrence neighbourhood."}}]}</script>
+<script type="application/ld+json">
+{
+  "@id": "https://appliancerepairneary.com/washer-repair-st-lawrence#faq",
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you repair stackable washers in St. Lawrence condos?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we specialize in stackable front-loaders and compact units common in St. Lawrence. Our techs are trained to safely move and service these units in tight spaces."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How quickly can you get to a St. Lawrence apartment for repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We offer same-day service throughout the St. Lawrence area. We understand the urgency of appliance failures in high-density downtown buildings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the most common washer problems in St. Lawrence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most frequent issues we see in St. Lawrence are drainage failures in LG units and worn door seals in Samsung machines, often due to high usage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the diagnostic fee waived in St. Lawrence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, our $89 diagnostic fee (waived with repair) is completely waived if you proceed with any washer repair in the St. Lawrence neighbourhood."
+      }
+    }
+  ]
+}
+</script>
 <!-- SCHEMA-ENRICH-v1 -->
 </head>
 <body>

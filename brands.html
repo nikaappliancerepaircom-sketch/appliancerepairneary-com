@@ -32,6 +32,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "name": "Appliance Repair Neary",
       "telephone": "+14375241053",
@@ -62,6 +63,7 @@
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/brands#service",
       "@type": "Service",
       "name": "Multi-Brand Appliance Repair — Toronto &amp; GTA",
       "provider": {
@@ -81,27 +83,28 @@
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "datePublished": "2026-02-22",
-    "dateModified": "2026-02-22",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Brands We Service",
-        "item": "https://appliancerepairneary.com/brands"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/brands#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "datePublished": "2026-02-22",
+  "dateModified": "2026-02-22",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Brands We Service",
+      "item": "https://appliancerepairneary.com/brands"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -409,28 +412,41 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
 <!-- Schema: FAQPage -->
 <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/brands#faq",
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {
       "@type": "Question",
       "name": "Do you carry OEM parts for Samsung and LG appliances?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Yes. We stock OEM and OEM-equivalent parts for Samsung, LG, and all major brands. Most parts needed for common faults are carried on the technician's van, allowing same-visit repairs."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We stock OEM and OEM-equivalent parts for Samsung, LG, and all major brands. Most parts needed for common faults are carried on the technician's van, allowing same-visit repairs."
+      }
     },
     {
       "@type": "Question",
       "name": "Can you repair high-end brands like Bosch, Miele, and KitchenAid?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Yes. Our technicians are trained on European-engineered brands including Bosch and Miele, as well as premium lines like KitchenAid. These brands require specific calibration which our team handles."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Our technicians are trained on European-engineered brands including Bosch and Miele, as well as premium lines like KitchenAid. These brands require specific calibration which our team handles."
+      }
     },
     {
       "@type": "Question",
       "name": "What is the typical cost to repair a brand-name appliance?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Repair costs typically range $120-$400. We provide a written upfront quote before any work begins."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Repair costs typically range $120-$400. We provide a written upfront quote before any work begins."
+      }
     },
     {
       "@type": "Question",
       "name": "My appliance brand is not listed — can you still repair it?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Very likely yes. Call (437) 524-1053 and tell us the brand and model and we will confirm right away."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Very likely yes. Call (437) 524-1053 and tell us the brand and model and we will confirm right away."
+      }
     }
   ]
 }
@@ -516,9 +532,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

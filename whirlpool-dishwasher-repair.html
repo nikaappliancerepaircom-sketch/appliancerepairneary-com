@@ -25,10 +25,95 @@
 {
   "@context": "https://schema.org",
   "@graph": [
-    {"@type": "LocalBusiness","name": "Appliance Repair Neary","telephone": "+1-437-524-1053","email": "info@appliancerepairneary.com","url": "https://appliancerepairneary.com","priceRange": "$$","datePublished": "2026-02-22","dateModified": "2026-05-09","address": {"@type": "PostalAddress","addressLocality": "Toronto","addressRegion": "Ontario","addressCountry": "CA"},"aggregateRating": {"@type": "AggregateRating","ratingValue": "4.9","reviewCount": "150"},"openingHours": ["Mo-Sa 08:00-20:00","Su 09:00-18:00"],"numberOfEmployees": {"@type": "QuantitativeValue","value": 6},"areaServed": {"@type": "AdministrativeArea","name": "Toronto, Ontario, Canada"}},
-    {"@type": "Service","serviceType": "Whirlpool Dishwasher Repair","name": "Whirlpool Dishwasher Repair","description": "Professional Whirlpool dishwasher repair near you in Toronto and GTA West. Same-day service, 90-day warranty, certified technicians.","provider": {"@type": "LocalBusiness","name": "Appliance Repair Neary","telephone": "+1-437-524-1053"},"areaServed": {"@type": "AdministrativeArea","name": "Toronto, Ontario, Canada"}},
-    {"@type": "FAQPage","mainEntity": [{"@type": "Question","name": "Do you offer same-day Whirlpool dishwasher repair near me?","acceptedAnswer": {"@type": "Answer","text": "Yes, Appliance Repair Neary offers same-day Whirlpool dishwasher repair near you in Toronto and GTA West. Book before 12 PM. Call +1-437-524-1053."}},{"@type": "Question","name": "Is your repair work covered by a warranty?","acceptedAnswer": {"@type": "Answer","text": "All Whirlpool dishwasher repairs performed by Appliance Repair Neary come with a 90-day parts and labour warranty from the repair date."}}]},
-    {"@type": "BreadcrumbList","itemListElement": [{"@type": "ListItem","position": 1,"name": "Home","item": "https://appliancerepairneary.com/"},{"@type": "ListItem","position": 2,"name": "Whirlpool Dishwasher Repair Near Me | (437) 524-1053"}]}
+    {
+      "@id": "https://appliancerepairneary.com/#business",
+      "@type": "LocalBusiness",
+      "name": "Appliance Repair Neary",
+      "telephone": "+1-437-524-1053",
+      "email": "info@appliancerepairneary.com",
+      "url": "https://appliancerepairneary.com",
+      "priceRange": "$$",
+      "datePublished": "2026-02-22",
+      "dateModified": "2026-05-09",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Toronto",
+        "addressRegion": "Ontario",
+        "addressCountry": "CA"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "150"
+      },
+      "openingHours": [
+        "Mo-Sa 08:00-20:00",
+        "Su 09:00-18:00"
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 6
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Toronto, Ontario, Canada"
+      }
+    },
+    {
+      "@id": "https://appliancerepairneary.com/whirlpool-dishwasher-repair#service",
+      "@type": "Service",
+      "serviceType": "Whirlpool Dishwasher Repair",
+      "name": "Whirlpool Dishwasher Repair",
+      "description": "Professional Whirlpool dishwasher repair near you in Toronto and GTA West. Same-day service, 90-day warranty, certified technicians.",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Appliance Repair Neary",
+        "telephone": "+1-437-524-1053"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Toronto, Ontario, Canada"
+      }
+    },
+    {
+      "@id": "https://appliancerepairneary.com/whirlpool-dishwasher-repair#faq",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you offer same-day Whirlpool dishwasher repair near me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Appliance Repair Neary offers same-day Whirlpool dishwasher repair near you in Toronto and GTA West. Book before 12 PM. Call +1-437-524-1053."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is your repair work covered by a warranty?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All Whirlpool dishwasher repairs performed by Appliance Repair Neary come with a 90-day parts and labour warranty from the repair date."
+          }
+        }
+      ]
+    },
+    {
+      "@id": "https://appliancerepairneary.com/whirlpool-dishwasher-repair#breadcrumb",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://appliancerepairneary.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Whirlpool Dishwasher Repair Near Me | (437) 524-1053"
+        }
+      ]
+    }
   ]
 }
 </script>

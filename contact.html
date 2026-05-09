@@ -29,6 +29,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "name": "Appliance Repair Near Me — Toronto & GTA",
       "telephone": "+14375241053",
@@ -142,25 +143,26 @@
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Contact",
-        "item": "https://appliancerepairneary.com/contact.html"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/contact#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Contact",
+      "item": "https://appliancerepairneary.com/contact.html"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -700,28 +702,41 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
 <!-- Schema: FAQPage -->
 <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/contact#faq",
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {
       "@type": "Question",
       "name": "How do I book same-day appliance repair?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Call (437) 524-1053 or use the online booking form. For same-day service, call before noon. A local technician near your address will be dispatched with a 2-hour arrival window."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Call (437) 524-1053 or use the online booking form. For same-day service, call before noon. A local technician near your address will be dispatched with a 2-hour arrival window."
+      }
     },
     {
       "@type": "Question",
       "name": "Do you charge extra for evening or weekend calls?",
-      "acceptedAnswer": {"@type": "Answer", "text": "No. We charge the same standard rates regardless of the time or day. Hours are Monday-Saturday 8am-8pm and Sunday 9am-6pm."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. We charge the same standard rates regardless of the time or day. Hours are Monday-Saturday 8am-8pm and Sunday 9am-6pm."
+      }
     },
     {
       "@type": "Question",
       "name": "How quickly will a technician arrive at my address?",
-      "acceptedAnswer": {"@type": "Answer", "text": "In most GTA areas, same-day bookings result in a technician arriving within 1-4 hours. We dispatch the nearest available certified technician to your specific address."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most GTA areas, same-day bookings result in a technician arriving within 1-4 hours. We dispatch the nearest available certified technician to your specific address."
+      }
     },
     {
       "@type": "Question",
       "name": "What information should I have ready when I call?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Have your full address, the appliance brand and model number, and a description of the issue ready. This helps us dispatch the right technician with the most likely parts needed."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Have your full address, the appliance brand and model number, and a description of the issue ready. This helps us dispatch the right technician with the most likely parts needed."
+      }
     }
   ]
 }
@@ -813,9 +828,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

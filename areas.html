@@ -28,27 +28,28 @@
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "datePublished": "2026-02-22",
-    "dateModified": "2026-02-22",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Service Areas",
-        "item": "https://appliancerepairneary.com/areas"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/areas#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "datePublished": "2026-02-22",
+  "dateModified": "2026-02-22",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Service Areas",
+      "item": "https://appliancerepairneary.com/areas"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -379,6 +380,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "name": "Appliance Repair Neary",
       "telephone": "+14375241053",
@@ -410,6 +412,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/areas#service",
       "@type": "Service",
       "name": "Appliance Repair — GTA Service Areas",
       "provider": {
@@ -424,6 +427,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/areas#faq",
       "@type": "FAQPage",
       "mainEntity": [
         {
@@ -536,9 +540,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

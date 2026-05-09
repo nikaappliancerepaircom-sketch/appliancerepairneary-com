@@ -29,6 +29,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "datePublished": "2026-02-22",
       "dateModified": "2026-02-22",
@@ -62,6 +63,7 @@
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/maytag-repair#service",
       "@type": "Service",
       "serviceType": "Maytag Appliance Repair",
       "name": "Maytag Appliance Repair",
@@ -211,73 +213,75 @@
 
   <!-- Schema: FAQPage -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "How much does Maytag appliance repair cost in Toronto?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Maytag appliance repair in Toronto and the GTA typically costs $150 to $420 depending on the appliance and specific problem. We provide a clear upfront quote before starting any work. The diagnostic fee is waived when you proceed with the repair."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "My Maytag Bravos washer shakes violently during spin — can you fix it?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Excessive vibration in Maytag Bravos washers is usually caused by worn suspension rods, a damaged tub bearing, or an unbalanced drum. Our technicians carry the suspension rod kit and bearing assembly for Bravos models and can complete this repair in a single visit."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do you use genuine Maytag parts for repairs?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Maytag is manufactured by Whirlpool Corporation, and we source genuine OEM parts through authorized Whirlpool parts distributors. Our technicians carry the most common Maytag replacement components on their service vans for faster repairs."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is same-day Maytag repair available near me in the GTA?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, same-day Maytag repair is available across the Greater Toronto Area when you call before 2 PM. We have technicians with Maytag expertise stationed throughout Toronto, Mississauga, Brampton, Scarborough, North York, and surrounding cities."
-        }
+{
+  "@id": "https://appliancerepairneary.com/maytag-repair#faq",
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Maytag appliance repair cost in Toronto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maytag appliance repair in Toronto and the GTA typically costs $150 to $420 depending on the appliance and specific problem. We provide a clear upfront quote before starting any work. The diagnostic fee is waived when you proceed with the repair."
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "Question",
+      "name": "My Maytag Bravos washer shakes violently during spin — can you fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Excessive vibration in Maytag Bravos washers is usually caused by worn suspension rods, a damaged tub bearing, or an unbalanced drum. Our technicians carry the suspension rod kit and bearing assembly for Bravos models and can complete this repair in a single visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you use genuine Maytag parts for repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Maytag is manufactured by Whirlpool Corporation, and we source genuine OEM parts through authorized Whirlpool parts distributors. Our technicians carry the most common Maytag replacement components on their service vans for faster repairs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is same-day Maytag repair available near me in the GTA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, same-day Maytag repair is available across the Greater Toronto Area when you call before 2 PM. We have technicians with Maytag expertise stationed throughout Toronto, Mississauga, Brampton, Scarborough, North York, and surrounding cities."
+      }
+    }
+  ]
+}
+</script>
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Brands",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Maytag Repair",
-        "item": "https://appliancerepairneary.com/maytag-repair"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/maytag-repair#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Brands",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Maytag Repair",
+      "item": "https://appliancerepairneary.com/maytag-repair"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -767,9 +771,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

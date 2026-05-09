@@ -29,6 +29,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "datePublished": "2026-02-22",
       "dateModified": "2026-02-22",
@@ -62,6 +63,7 @@
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/kitchenaid-repair#service",
       "@type": "Service",
       "serviceType": "KitchenAid Appliance Repair",
       "name": "KitchenAid Appliance Repair",
@@ -211,73 +213,75 @@
 
   <!-- Schema: FAQPage -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "How much does KitchenAid appliance repair cost in Toronto?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "KitchenAid appliance repair in Toronto and the GTA typically costs $160 to $450 depending on the appliance type and specific issue. Premium built-in models may be at the higher end due to specialized components. We provide an upfront quote before starting any work."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "My KitchenAid dishwasher leaves dishes dirty — can you fix it?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Poor cleaning in KitchenAid dishwashers is usually caused by a worn wash impeller, clogged spray arms, a failing circulation pump, or a malfunctioning upper wash arm bearing. Our technicians diagnose the specific cause and carry the parts needed to restore full cleaning performance in one visit."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do you repair KitchenAid built-in refrigerators and wall ovens?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. We specialize in KitchenAid built-in and counter-depth refrigerators, as well as single and double wall ovens. Our technicians are trained to work with integrated units that require careful handling to avoid damage to surrounding cabinetry."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is same-day KitchenAid repair available near me in the GTA?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, same-day KitchenAid repair is available across the GTA when you call before 2 PM. We have technicians experienced with KitchenAid premium appliances stationed throughout Toronto, Mississauga, Brampton, Scarborough, North York, and surrounding cities."
-        }
+{
+  "@id": "https://appliancerepairneary.com/kitchenaid-repair#faq",
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does KitchenAid appliance repair cost in Toronto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "KitchenAid appliance repair in Toronto and the GTA typically costs $160 to $450 depending on the appliance type and specific issue. Premium built-in models may be at the higher end due to specialized components. We provide an upfront quote before starting any work."
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "Question",
+      "name": "My KitchenAid dishwasher leaves dishes dirty — can you fix it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Poor cleaning in KitchenAid dishwashers is usually caused by a worn wash impeller, clogged spray arms, a failing circulation pump, or a malfunctioning upper wash arm bearing. Our technicians diagnose the specific cause and carry the parts needed to restore full cleaning performance in one visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you repair KitchenAid built-in refrigerators and wall ovens?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. We specialize in KitchenAid built-in and counter-depth refrigerators, as well as single and double wall ovens. Our technicians are trained to work with integrated units that require careful handling to avoid damage to surrounding cabinetry."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is same-day KitchenAid repair available near me in the GTA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, same-day KitchenAid repair is available across the GTA when you call before 2 PM. We have technicians experienced with KitchenAid premium appliances stationed throughout Toronto, Mississauga, Brampton, Scarborough, North York, and surrounding cities."
+      }
+    }
+  ]
+}
+</script>
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Brands",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "KitchenAid Repair",
-        "item": "https://appliancerepairneary.com/kitchenaid-repair"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/kitchenaid-repair#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Brands",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "KitchenAid Repair",
+      "item": "https://appliancerepairneary.com/kitchenaid-repair"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -767,9 +771,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

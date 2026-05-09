@@ -29,6 +29,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "datePublished": "2026-02-22",
       "dateModified": "2026-02-22",
@@ -62,6 +63,7 @@
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/samsung-repair#service",
       "@type": "Service",
       "serviceType": "Samsung Appliance Repair",
       "name": "Samsung Appliance Repair",
@@ -211,73 +213,75 @@
 
   <!-- Schema: FAQPage -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "How much does Samsung appliance repair cost in Toronto?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Samsung appliance repair in Toronto and the GTA typically costs $150 to $420 depending on the appliance type and the specific issue. We provide an upfront quote before starting any work."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do you use genuine Samsung parts for repairs?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, we use genuine Samsung OEM parts whenever available. Our technicians carry common Samsung replacement parts on their service vans for faster same-day repairs."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can you fix Samsung error codes like SE, 5E, or 1E?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Absolutely. Our technicians are trained to diagnose and resolve all Samsung error codes across washers, dryers, dishwashers, and refrigerators. We address the root cause, not just clear the code."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is same-day Samsung repair available near me in the GTA?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, same-day Samsung repair is available across the GTA when you call before 2 PM. Our technicians are stationed throughout Toronto, Mississauga, Brampton, and surrounding areas."
-        }
+{
+  "@id": "https://appliancerepairneary.com/samsung-repair#faq",
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Samsung appliance repair cost in Toronto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Samsung appliance repair in Toronto and the GTA typically costs $150 to $420 depending on the appliance type and the specific issue. We provide an upfront quote before starting any work."
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "Question",
+      "name": "Do you use genuine Samsung parts for repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we use genuine Samsung OEM parts whenever available. Our technicians carry common Samsung replacement parts on their service vans for faster same-day repairs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you fix Samsung error codes like SE, 5E, or 1E?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Our technicians are trained to diagnose and resolve all Samsung error codes across washers, dryers, dishwashers, and refrigerators. We address the root cause, not just clear the code."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is same-day Samsung repair available near me in the GTA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, same-day Samsung repair is available across the GTA when you call before 2 PM. Our technicians are stationed throughout Toronto, Mississauga, Brampton, and surrounding areas."
+      }
+    }
+  ]
+}
+</script>
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Brands",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Samsung Repair",
-        "item": "https://appliancerepairneary.com/samsung-repair"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/samsung-repair#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Brands",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Samsung Repair",
+      "item": "https://appliancerepairneary.com/samsung-repair"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -777,9 +781,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

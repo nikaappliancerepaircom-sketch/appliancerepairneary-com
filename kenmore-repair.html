@@ -29,6 +29,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "datePublished": "2026-02-22",
       "dateModified": "2026-02-22",
@@ -62,6 +63,7 @@
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/kenmore-repair#service",
       "@type": "Service",
       "serviceType": "Kenmore Appliance Repair",
       "name": "Kenmore Appliance Repair",
@@ -211,73 +213,75 @@
 
   <!-- Schema: FAQPage -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Can you still get parts for Kenmore appliances after Sears closed?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Kenmore appliances share components with Whirlpool, LG, and other manufacturers who still produce compatible parts. Our technicians maintain direct relationships with parts suppliers and carry the most common Kenmore replacement components on every service call."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "How much does Kenmore appliance repair cost in Toronto?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Kenmore appliance repair in Toronto and the GTA typically costs $140 to $400 depending on the appliance type and specific issue. We provide an upfront quote before starting any work, and the diagnostic fee is waived when you proceed with the repair."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is it worth repairing an older Kenmore appliance or should I replace it?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Many Kenmore appliances, especially older models built before 2015, were constructed with heavy-duty components that can last decades with proper repair. Our technician will give you an honest assessment of whether repair or replacement makes more financial sense for your specific unit."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do you offer same-day Kenmore repair near me in the GTA?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, same-day Kenmore repair is available across the GTA when you call before 2 PM. We have experienced technicians stationed throughout Toronto, Mississauga, Brampton, Scarborough, North York, and surrounding cities."
-        }
+{
+  "@id": "https://appliancerepairneary.com/kenmore-repair#faq",
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can you still get parts for Kenmore appliances after Sears closed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Kenmore appliances share components with Whirlpool, LG, and other manufacturers who still produce compatible parts. Our technicians maintain direct relationships with parts suppliers and carry the most common Kenmore replacement components on every service call."
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "Question",
+      "name": "How much does Kenmore appliance repair cost in Toronto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kenmore appliance repair in Toronto and the GTA typically costs $140 to $400 depending on the appliance type and specific issue. We provide an upfront quote before starting any work, and the diagnostic fee is waived when you proceed with the repair."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it worth repairing an older Kenmore appliance or should I replace it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many Kenmore appliances, especially older models built before 2015, were constructed with heavy-duty components that can last decades with proper repair. Our technician will give you an honest assessment of whether repair or replacement makes more financial sense for your specific unit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you offer same-day Kenmore repair near me in the GTA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, same-day Kenmore repair is available across the GTA when you call before 2 PM. We have experienced technicians stationed throughout Toronto, Mississauga, Brampton, Scarborough, North York, and surrounding cities."
+      }
+    }
+  ]
+}
+</script>
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Home",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Brands",
-        "item": "https://appliancerepairneary.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "name": "Kenmore Repair",
-        "item": "https://appliancerepairneary.com/kenmore-repair"
-      }
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/kenmore-repair#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Brands",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Kenmore Repair",
+      "item": "https://appliancerepairneary.com/kenmore-repair"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -764,9 +768,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

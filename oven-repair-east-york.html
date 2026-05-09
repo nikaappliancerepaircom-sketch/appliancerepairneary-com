@@ -18,6 +18,7 @@
 <meta property="og:type" content="website">
 <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/#business",
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Appliance Repair Near Me",
@@ -68,8 +69,80 @@
   }
 }
 </script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"Service","name":"Oven Repair in East York","serviceType":"Oven Repair","provider":{"@type":"LocalBusiness","name":"Appliance Repair Near Me","telephone":"+14375241053"},"areaServed":{"@type":"Place","name":"East York, Toronto"},"hasOfferCatalog":{"@type":"OfferCatalog","itemListElement":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"Diagnostic"},"priceSpecification":{"@type":"PriceSpecification","priceCurrency":"CAD","price":"119"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Standard Repair"},"priceSpecification":{"@type":"PriceSpecification","priceCurrency":"CAD","price":"100-220"}}]}}</script>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://appliancerepairneary.com/"},{"@type":"ListItem","position":2,"name":"East York","item":"https://appliancerepairneary.com/east-york"},{"@type":"ListItem","position":3,"name":"Oven Repair East York","item":"https://appliancerepairneary.com/oven-repair-east-york"}]}</script>
+<script type="application/ld+json">
+{
+  "@id": "https://appliancerepairneary.com/oven-repair-east-york#service",
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Oven Repair in East York",
+  "serviceType": "Oven Repair",
+  "provider": {
+    "@type": "LocalBusiness",
+    "name": "Appliance Repair Near Me",
+    "telephone": "+14375241053"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "East York, Toronto"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Diagnostic"
+        },
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "priceCurrency": "CAD",
+          "price": "119"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Standard Repair"
+        },
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "priceCurrency": "CAD",
+          "price": "100-220"
+        }
+      }
+    ]
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@id": "https://appliancerepairneary.com/oven-repair-east-york#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "East York",
+      "item": "https://appliancerepairneary.com/east-york"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Oven Repair East York",
+      "item": "https://appliancerepairneary.com/oven-repair-east-york"
+    }
+  ]
+}
+</script>
 
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
@@ -129,7 +202,47 @@
     .breadcrumb a{color:#1E3A5F}</style>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the easiest way to book an oven repair appointment in East York?","acceptedAnswer":{"@type":"Answer","text":"The easiest way to book your oven repair in East York is to simply call our dedicated line at (437) 524-1053. Our customer service team is ready to assist you in scheduling a prompt and convenient service visit."}},{"@type":"Question","name":"How do the running costs of gas vs. electric ovens compare for East York residents?","acceptedAnswer":{"@type":"Answer","text":"For East York residents, electric ovens are very common, offering consistent performance, while gas ovens can sometimes offer slightly lower operating costs per use. The best choice often depends on existing hookups and personal cooking preferences."}},{"@type":"Question","name":"Which oven brands do you most frequently service in East York?","acceptedAnswer":{"@type":"Answer","text":"In East York, we commonly service and repair popular electric oven brands like Frigidaire, Whirlpool, and LG. We're also skilled with Samsung and GE models, ensuring comprehensive coverage for the community."}},{"@type":"Question","name":"What is your typical response time for oven repair requests in East York?","acceptedAnswer":{"@type":"Answer","text":"We pride ourselves on quick service for East York residents, often providing same-day or next-day appointments for oven repairs. Our goal is to resolve your oven issues efficiently, minimizing any disruption to your home."}}]}</script>
+<script type="application/ld+json">
+{
+  "@id": "https://appliancerepairneary.com/oven-repair-east-york#faq",
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the easiest way to book an oven repair appointment in East York?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The easiest way to book your oven repair in East York is to simply call our dedicated line at (437) 524-1053. Our customer service team is ready to assist you in scheduling a prompt and convenient service visit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do the running costs of gas vs. electric ovens compare for East York residents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For East York residents, electric ovens are very common, offering consistent performance, while gas ovens can sometimes offer slightly lower operating costs per use. The best choice often depends on existing hookups and personal cooking preferences."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which oven brands do you most frequently service in East York?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In East York, we commonly service and repair popular electric oven brands like Frigidaire, Whirlpool, and LG. We're also skilled with Samsung and GE models, ensuring comprehensive coverage for the community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is your typical response time for oven repair requests in East York?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We pride ourselves on quick service for East York residents, often providing same-day or next-day appointments for oven repairs. Our goal is to resolve your oven issues efficiently, minimizing any disruption to your home."
+      }
+    }
+  ]
+}
+</script>
 <!-- SCHEMA-ENRICH-v1 -->
 </head>
 <body>

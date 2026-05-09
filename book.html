@@ -22,6 +22,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "name": "Appliance Repair Neary",
       "telephone": "+14375241053",
@@ -106,6 +107,7 @@
       }
     },
     {
+      "@id": "https://appliancerepairneary.com/book#breadcrumb",
       "@type": "BreadcrumbList",
       "itemListElement": [
         {
@@ -496,28 +498,41 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
 <!-- Schema: FAQPage -->
 <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/book#faq",
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
     {
       "@type": "Question",
       "name": "How fast can a technician arrive after booking?",
-      "acceptedAnswer": {"@type": "Answer", "text": "For same-day bookings made before noon, a technician typically arrives within 1-3 hours. We dispatch the nearest available certified tech to your address."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For same-day bookings made before noon, a technician typically arrives within 1-3 hours. We dispatch the nearest available certified tech to your address."
+      }
     },
     {
       "@type": "Question",
       "name": "How much does same-day appliance repair cost?",
-      "acceptedAnswer": {"@type": "Answer", "text": "Typical repair costs range from $120-$400. The diagnostic fee is waived when you proceed with the repair. We provide a written quote before starting any work."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Typical repair costs range from $120-$400. The diagnostic fee is waived when you proceed with the repair. We provide a written quote before starting any work."
+      }
     },
     {
       "@type": "Question",
       "name": "Do weekend and evening bookings cost extra?",
-      "acceptedAnswer": {"@type": "Answer", "text": "No. We charge the same standard rates on evenings, Saturdays, and Sundays. Hours are Monday-Saturday 8am-8pm and Sunday 9am-6pm."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. We charge the same standard rates on evenings, Saturdays, and Sundays. Hours are Monday-Saturday 8am-8pm and Sunday 9am-6pm."
+      }
     },
     {
       "@type": "Question",
       "name": "What happens if you cannot fix my appliance on the first visit?",
-      "acceptedAnswer": {"@type": "Answer", "text": "We order the part immediately and return for a second visit at no additional call-out charge. Most repairs are completed on the first visit."}
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We order the part immediately and return for a second visit at no additional call-out charge. Most repairs are completed on the first visit."
+      }
     }
   ]
 }
@@ -594,9 +609,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm

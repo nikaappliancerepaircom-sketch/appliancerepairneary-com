@@ -26,6 +26,7 @@
   "@context": "https://schema.org",
   "@graph": [
     {
+      "@id": "https://appliancerepairneary.com/#business",
       "@type": "LocalBusiness",
       "name": "Appliance Repair Neary",
       "telephone": "+1-437-524-1053",
@@ -34,45 +35,91 @@
       "priceRange": "$$",
       "datePublished": "2026-02-22",
       "dateModified": "2026-05-09",
-      "address": {"@type": "PostalAddress","addressLocality": "Toronto","addressRegion": "Ontario","addressCountry": "CA"},
-      "aggregateRating": {"@type": "AggregateRating","ratingValue": "4.9","reviewCount": "150"},
-      "openingHours": ["Mo-Sa 08:00-20:00","Su 09:00-18:00"],
-      "numberOfEmployees": {"@type": "QuantitativeValue","value": 6},
-      "areaServed": {"@type": "AdministrativeArea","name": "Toronto, Ontario, Canada"}
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Toronto",
+        "addressRegion": "Ontario",
+        "addressCountry": "CA"
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "150"
+      },
+      "openingHours": [
+        "Mo-Sa 08:00-20:00",
+        "Su 09:00-18:00"
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 6
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Toronto, Ontario, Canada"
+      }
     },
     {
+      "@id": "https://appliancerepairneary.com/frigidaire-dishwasher-repair#service",
       "@type": "Service",
       "serviceType": "Frigidaire Dishwasher Repair",
       "name": "Frigidaire Dishwasher Repair",
       "description": "Professional Frigidaire dishwasher repair near you in Toronto and GTA West. Same-day service, 90-day warranty, certified technicians.",
-      "provider": {"@type": "LocalBusiness","name": "Appliance Repair Neary","telephone": "+1-437-524-1053"},
-      "areaServed": {"@type": "AdministrativeArea","name": "Toronto, Ontario, Canada"}
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "Appliance Repair Neary",
+        "telephone": "+1-437-524-1053"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Toronto, Ontario, Canada"
+      }
     },
     {
+      "@id": "https://appliancerepairneary.com/frigidaire-dishwasher-repair#faq",
       "@type": "FAQPage",
       "mainEntity": [
         {
           "@type": "Question",
           "name": "How much does Frigidaire dishwasher repair cost near me?",
-          "acceptedAnswer": {"@type": "Answer","text": "Frigidaire dishwasher repair near you typically costs $89-$420. The diagnostic fee is waived with repair. Call +1-437-524-1053 for a free estimate."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Frigidaire dishwasher repair near you typically costs $89-$420. The diagnostic fee is waived with repair. Call +1-437-524-1053 for a free estimate."
+          }
         },
         {
           "@type": "Question",
           "name": "Do you offer same-day Frigidaire dishwasher repair?",
-          "acceptedAnswer": {"@type": "Answer","text": "Yes, Appliance Repair Neary offers same-day Frigidaire dishwasher repair near you in Toronto and GTA West. Book before 12 PM. Call +1-437-524-1053."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, Appliance Repair Neary offers same-day Frigidaire dishwasher repair near you in Toronto and GTA West. Book before 12 PM. Call +1-437-524-1053."
+          }
         },
         {
           "@type": "Question",
           "name": "Is your repair work covered by a warranty?",
-          "acceptedAnswer": {"@type": "Answer","text": "All Frigidaire dishwasher repairs performed by Appliance Repair Neary come with a 90-day parts and labour warranty from the repair date."}
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All Frigidaire dishwasher repairs performed by Appliance Repair Neary come with a 90-day parts and labour warranty from the repair date."
+          }
         }
       ]
     },
     {
+      "@id": "https://appliancerepairneary.com/frigidaire-dishwasher-repair#breadcrumb",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        {"@type": "ListItem","position": 1,"name": "Home","item": "https://appliancerepairneary.com/"},
-        {"@type": "ListItem","position": 2,"name": "Frigidaire Dishwasher Repair Near Me | (437) 524-1053"}
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://appliancerepairneary.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Frigidaire Dishwasher Repair Near Me | (437) 524-1053"
+        }
       ]
     }
   ]

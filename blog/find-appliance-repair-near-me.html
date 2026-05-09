@@ -36,6 +36,7 @@
   <!-- Schema: LocalBusiness -->
   <script type="application/ld+json">
 {
+  "@id": "https://appliancerepairneary.com/#business",
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
   "name": "Appliance Repair Near Me — Toronto & GTA",
@@ -118,46 +119,75 @@
 
   <!-- Schema: FAQPage -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "How do I find a reliable appliance repair technician near me in Toronto?",
-        "acceptedAnswer": {"@type": "Answer", "text": "Start with Google reviews — look for technicians with 4.7+ stars and at least 50 reviews. Verify they are licensed and insured, offer a written warranty on parts and labour, and can give you a firm quote before starting work. Calling during business hours and asking specific questions about your appliance model is a good test of genuine expertise."}
-      },
-      {
-        "@type": "Question",
-        "name": "What certifications should an appliance repair technician near me have?",
-        "acceptedAnswer": {"@type": "Answer", "text": "In Ontario, appliance repair technicians should ideally hold an Ontario College of Trades certification or equivalent factory training. At minimum, ask if they are insured for in-home work and whether they have manufacturer training for your specific appliance brand."}
-      },
-      {
-        "@type": "Question",
-        "name": "How much should appliance repair near me cost in Toronto?",
-        "acceptedAnswer": {"@type": "Answer", "text": "Most appliance repairs in the Toronto GTA range from $120 to $350 including parts and labour. A diagnostic fee is common (typically $60–$90) but reputable companies waive it when you proceed with the repair. Always get a written quote before approving any work."}
-      },
-      {
-        "@type": "Question",
-        "name": "Why does it matter that my appliance repair technician is local?",
-        "acceptedAnswer": {"@type": "Answer", "text": "Local technicians in the GTA can reach you faster, typically have relationships with local parts suppliers for quicker sourcing, and have reputations tied to the community — meaning they are more accountable. A local tech who lives in your neighbourhood has strong incentive to do the job right."}
+{
+  "@id": "https://appliancerepairneary.com/blog/find-appliance-repair-near-me#faq",
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I find a reliable appliance repair technician near me in Toronto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with Google reviews — look for technicians with 4.7+ stars and at least 50 reviews. Verify they are licensed and insured, offer a written warranty on parts and labour, and can give you a firm quote before starting work. Calling during business hours and asking specific questions about your appliance model is a good test of genuine expertise."
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "Question",
+      "name": "What certifications should an appliance repair technician near me have?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Ontario, appliance repair technicians should ideally hold an Ontario College of Trades certification or equivalent factory training. At minimum, ask if they are insured for in-home work and whether they have manufacturer training for your specific appliance brand."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much should appliance repair near me cost in Toronto?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most appliance repairs in the Toronto GTA range from $120 to $350 including parts and labour. A diagnostic fee is common (typically $60–$90) but reputable companies waive it when you proceed with the repair. Always get a written quote before approving any work."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does it matter that my appliance repair technician is local?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local technicians in the GTA can reach you faster, typically have relationships with local parts suppliers for quicker sourcing, and have reputations tied to the community — meaning they are more accountable. A local tech who lives in your neighbourhood has strong incentive to do the job right."
+      }
+    }
+  ]
+}
+</script>
 
   <!-- Schema: BreadcrumbList -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://appliancerepairneary.com/"},
-      {"@type": "ListItem", "position": 2, "name": "Blog", "item": "https://appliancerepairneary.com/blog/"},
-      {"@type": "ListItem", "position": 3, "name": "How to Find a Reliable Appliance Repair Technician Near You", "item": "https://appliancerepairneary.com/blog/find-appliance-repair-near-me.html"}
-    ]
-  }
-  </script>
+{
+  "@id": "https://appliancerepairneary.com/blog/find-appliance-repair-near-me#breadcrumb",
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://appliancerepairneary.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": "https://appliancerepairneary.com/blog/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "How to Find a Reliable Appliance Repair Technician Near You",
+      "item": "https://appliancerepairneary.com/blog/find-appliance-repair-near-me.html"
+    }
+  ]
+}
+</script>
 
   <style>
     :root {
@@ -568,9 +598,7 @@
           <p><strong>Call Us:</strong><br>
             <a href="tel:+14375241053" class="footer-phone">(437) 524-1053</a>
           </p>
-          <p><strong>Email:</strong><br>
-            <a href="mailto:nicksappliancerepair@on.fixlify.app" class="footer-email">nicksappliancerepair@on.fixlify.app</a>
-          </p>
+
           <p><strong>Hours:</strong><br>
             Mon–Sat 8am–8pm<br>
             Sun 9am–6pm
