@@ -1,0 +1,2538 @@
+﻿[
+    {
+        "File":  "404.html",
+        "Words":  244
+    },
+    {
+        "File":  "fridge-repair-university-heights.html",
+        "Words":  451
+    },
+    {
+        "File":  "washer-repair-university-heights.html",
+        "Words":  491
+    },
+    {
+        "File":  "washer-repair-southview.html",
+        "Words":  687
+    },
+    {
+        "File":  "fridge-repair-mayfair.html",
+        "Words":  689
+    },
+    {
+        "File":  "fridge-repair-southview.html",
+        "Words":  689
+    },
+    {
+        "File":  "washer-repair-mayfair.html",
+        "Words":  692
+    },
+    {
+        "File":  "fridge-repair-parkhill.html",
+        "Words":  693
+    },
+    {
+        "File":  "fridge-repair-roxboro.html",
+        "Words":  695
+    },
+    {
+        "File":  "washer-repair-parkhill.html",
+        "Words":  696
+    },
+    {
+        "File":  "fridge-repair-manchester.html",
+        "Words":  700
+    },
+    {
+        "File":  "washer-repair-manchester.html",
+        "Words":  700
+    },
+    {
+        "File":  "washer-repair-roxboro.html",
+        "Words":  700
+    },
+    {
+        "File":  "fridge-repair-eagle-ridge.html",
+        "Words":  716
+    },
+    {
+        "File":  "fridge-repair-diamond-cove.html",
+        "Words":  717
+    },
+    {
+        "File":  "fridge-repair-bonavista-downs.html",
+        "Words":  721
+    },
+    {
+        "File":  "fridge-repair-shawnee-slopes.html",
+        "Words":  722
+    },
+    {
+        "File":  "washer-repair-shawnee-slopes.html",
+        "Words":  722
+    },
+    {
+        "File":  "washer-repair-eagle-ridge.html",
+        "Words":  723
+    },
+    {
+        "File":  "washer-repair-meadowlark-park.html",
+        "Words":  725
+    },
+    {
+        "File":  "washer-repair-cliff-bungalow.html",
+        "Words":  727
+    },
+    {
+        "File":  "fridge-repair-rideau-park.html",
+        "Words":  728
+    },
+    {
+        "File":  "fridge-repair-cliff-bungalow.html",
+        "Words":  729
+    },
+    {
+        "File":  "fridge-repair-meadowlark-park.html",
+        "Words":  729
+    },
+    {
+        "File":  "washer-repair-diamond-cove.html",
+        "Words":  729
+    },
+    {
+        "File":  "fridge-repair-red-carpet.html",
+        "Words":  730
+    },
+    {
+        "File":  "washer-repair-bonavista-downs.html",
+        "Words":  732
+    },
+    {
+        "File":  "washer-repair-red-carpet.html",
+        "Words":  734
+    },
+    {
+        "File":  "fridge-repair-country-hills-village.html",
+        "Words":  736
+    },
+    {
+        "File":  "washer-repair-rideau-park.html",
+        "Words":  738
+    },
+    {
+        "File":  "washer-repair-country-hills-village.html",
+        "Words":  752
+    },
+    {
+        "File":  "fridge-repair-albert-park-radisson-heights.html",
+        "Words":  755
+    },
+    {
+        "File":  "fridge-repair-sunalta.html",
+        "Words":  762
+    },
+    {
+        "File":  "washer-repair-britannia.html",
+        "Words":  765
+    },
+    {
+        "File":  "washer-repair-albert-park-radisson-heights.html",
+        "Words":  767
+    },
+    {
+        "File":  "fridge-repair-britannia.html",
+        "Words":  768
+    },
+    {
+        "File":  "washer-repair-sunalta.html",
+        "Words":  773
+    },
+    {
+        "File":  "washer-repair-beltline.html",
+        "Words":  787
+    },
+    {
+        "File":  "washer-repair-killarney-glengarry.html",
+        "Words":  790
+    },
+    {
+        "File":  "washer-repair-windsor-park.html",
+        "Words":  793
+    },
+    {
+        "File":  "washer-repair-riverbend.html",
+        "Words":  796
+    },
+    {
+        "File":  "dishwasher-repair-sunalta.html",
+        "Words":  797
+    },
+    {
+        "File":  "fridge-repair-discovery-ridge.html",
+        "Words":  798
+    },
+    {
+        "File":  "fridge-repair-garrison-woods.html",
+        "Words":  798
+    },
+    {
+        "File":  "washer-repair-garrison-woods.html",
+        "Words":  798
+    },
+    {
+        "File":  "fridge-repair-kelvin-grove.html",
+        "Words":  798
+    },
+    {
+        "File":  "washer-repair-seton.html",
+        "Words":  802
+    },
+    {
+        "File":  "washer-repair-kelvin-grove.html",
+        "Words":  804
+    },
+    {
+        "File":  "washer-repair-discovery-ridge.html",
+        "Words":  804
+    },
+    {
+        "File":  "fridge-repair-lakeview.html",
+        "Words":  805
+    },
+    {
+        "File":  "fridge-repair-west-hillhurst.html",
+        "Words":  806
+    },
+    {
+        "File":  "fridge-repair-windsor-park.html",
+        "Words":  806
+    },
+    {
+        "File":  "dishwasher-repair-manchester.html",
+        "Words":  807
+    },
+    {
+        "File":  "fridge-repair-killarney-glengarry.html",
+        "Words":  810
+    },
+    {
+        "File":  "washer-repair-sherwood.html",
+        "Words":  813
+    },
+    {
+        "File":  "washer-repair-west-hillhurst.html",
+        "Words":  813
+    },
+    {
+        "File":  "fridge-repair-crescent-heights.html",
+        "Words":  814
+    },
+    {
+        "File":  "dishwasher-repair-britannia.html",
+        "Words":  814
+    },
+    {
+        "File":  "fridge-repair-patterson.html",
+        "Words":  814
+    },
+    {
+        "File":  "fridge-repair-seton.html",
+        "Words":  815
+    },
+    {
+        "File":  "washer-repair-currie-barracks.html",
+        "Words":  819
+    },
+    {
+        "File":  "dishwasher-repair-mayfair.html",
+        "Words":  820
+    },
+    {
+        "File":  "washer-repair-south-calgary.html",
+        "Words":  821
+    },
+    {
+        "File":  "fridge-repair-glendale.html",
+        "Words":  821
+    },
+    {
+        "File":  "fridge-repair-beltline.html",
+        "Words":  823
+    },
+    {
+        "File":  "washer-repair-winston-heights-mountview.html",
+        "Words":  825
+    },
+    {
+        "File":  "fridge-repair-riverbend.html",
+        "Words":  826
+    },
+    {
+        "File":  "fridge-repair-sherwood.html",
+        "Words":  826
+    },
+    {
+        "File":  "dishwasher-repair-roxboro.html",
+        "Words":  827
+    },
+    {
+        "File":  "fridge-repair-currie-barracks.html",
+        "Words":  827
+    },
+    {
+        "File":  "dishwasher-repair-parkhill.html",
+        "Words":  827
+    },
+    {
+        "File":  "dishwasher-repair-windsor-park.html",
+        "Words":  828
+    },
+    {
+        "File":  "fridge-repair-crestmont.html",
+        "Words":  828
+    },
+    {
+        "File":  "fridge-repair-bayview.html",
+        "Words":  829
+    },
+    {
+        "File":  "fridge-repair-carstairs.html",
+        "Words":  830
+    },
+    {
+        "File":  "washer-repair-glendale.html",
+        "Words":  830
+    },
+    {
+        "File":  "dishwasher-repair-garrison-woods.html",
+        "Words":  830
+    },
+    {
+        "File":  "washer-repair-patterson.html",
+        "Words":  835
+    },
+    {
+        "File":  "washer-repair-lakeview.html",
+        "Words":  836
+    },
+    {
+        "File":  "washer-repair-crescent-heights.html",
+        "Words":  836
+    },
+    {
+        "File":  "fridge-repair-lower-mount-royal.html",
+        "Words":  837
+    },
+    {
+        "File":  "fridge-repair-inglewood.html",
+        "Words":  837
+    },
+    {
+        "File":  "fridge-repair-bankview.html",
+        "Words":  837
+    },
+    {
+        "File":  "fridge-repair-southwood.html",
+        "Words":  839
+    },
+    {
+        "File":  "dishwasher-repair-southview.html",
+        "Words":  839
+    },
+    {
+        "File":  "dishwasher-repair-kelvin-grove.html",
+        "Words":  842
+    },
+    {
+        "File":  "washer-repair-carstairs.html",
+        "Words":  843
+    },
+    {
+        "File":  "fridge-repair-shaganappi.html",
+        "Words":  846
+    },
+    {
+        "File":  "fridge-repair-crossfield.html",
+        "Words":  846
+    },
+    {
+        "File":  "dishwasher-repair-discovery-ridge.html",
+        "Words":  847
+    },
+    {
+        "File":  "fridge-repair-olds.html",
+        "Words":  848
+    },
+    {
+        "File":  "washer-repair-lower-mount-royal.html",
+        "Words":  848
+    },
+    {
+        "File":  "washer-repair-olds.html",
+        "Words":  849
+    },
+    {
+        "File":  "washer-repair-crossfield.html",
+        "Words":  851
+    },
+    {
+        "File":  "dishwasher-repair-meadowlark-park.html",
+        "Words":  852
+    },
+    {
+        "File":  "fridge-repair-south-calgary.html",
+        "Words":  852
+    },
+    {
+        "File":  "dishwasher-repair-cliff-bungalow.html",
+        "Words":  854
+    },
+    {
+        "File":  "washer-repair-bayview.html",
+        "Words":  855
+    },
+    {
+        "File":  "fridge-repair-parkland.html",
+        "Words":  856
+    },
+    {
+        "File":  "fridge-repair-kingsland.html",
+        "Words":  856
+    },
+    {
+        "File":  "fridge-repair-upper-mount-royal.html",
+        "Words":  856
+    },
+    {
+        "File":  "dishwasher-repair-shawnee-slopes.html",
+        "Words":  856
+    },
+    {
+        "File":  "fridge-repair-woodbine.html",
+        "Words":  856
+    },
+    {
+        "File":  "washer-repair-woodbine.html",
+        "Words":  860
+    },
+    {
+        "File":  "washer-repair-upper-mount-royal.html",
+        "Words":  861
+    },
+    {
+        "File":  "dishwasher-repair-west-hillhurst.html",
+        "Words":  863
+    },
+    {
+        "File":  "washer-repair-parkland.html",
+        "Words":  864
+    },
+    {
+        "File":  "washer-repair-inglewood.html",
+        "Words":  864
+    },
+    {
+        "File":  "fridge-repair-oakridge.html",
+        "Words":  864
+    },
+    {
+        "File":  "washer-repair-oakridge.html",
+        "Words":  867
+    },
+    {
+        "File":  "washer-repair-southwood.html",
+        "Words":  867
+    },
+    {
+        "File":  "dishwasher-repair-bonavista-downs.html",
+        "Words":  867
+    },
+    {
+        "File":  "washer-repair-kingsland.html",
+        "Words":  867
+    },
+    {
+        "File":  "fridge-repair-winston-heights-mountview.html",
+        "Words":  873
+    },
+    {
+        "File":  "fridge-repair-scarboro.html",
+        "Words":  874
+    },
+    {
+        "File":  "fridge-repair-richmond.html",
+        "Words":  874
+    },
+    {
+        "File":  "fridge-repair-spruce-cliff.html",
+        "Words":  874
+    },
+    {
+        "File":  "dishwasher-repair-rideau-park.html",
+        "Words":  875
+    },
+    {
+        "File":  "dishwasher-repair-glendale.html",
+        "Words":  876
+    },
+    {
+        "File":  "dishwasher-repair-red-carpet.html",
+        "Words":  876
+    },
+    {
+        "File":  "washer-repair-richmond.html",
+        "Words":  879
+    },
+    {
+        "File":  "fridge-repair-rutland-park.html",
+        "Words":  879
+    },
+    {
+        "File":  "washer-repair-scarboro.html",
+        "Words":  879
+    },
+    {
+        "File":  "dishwasher-repair-bayview.html",
+        "Words":  879
+    },
+    {
+        "File":  "dishwasher-repair-lower-mount-royal.html",
+        "Words":  883
+    },
+    {
+        "File":  "dishwasher-repair-diamond-cove.html",
+        "Words":  883
+    },
+    {
+        "File":  "dishwasher-repair-carstairs.html",
+        "Words":  884
+    },
+    {
+        "File":  "fridge-repair-chinook-park.html",
+        "Words":  886
+    },
+    {
+        "File":  "dishwasher-repair-patterson.html",
+        "Words":  887
+    },
+    {
+        "File":  "dishwasher-repair-crossfield.html",
+        "Words":  888
+    },
+    {
+        "File":  "dishwasher-repair-olds.html",
+        "Words":  888
+    },
+    {
+        "File":  "fridge-repair-canyon-meadows.html",
+        "Words":  888
+    },
+    {
+        "File":  "dishwasher-repair-lakeview.html",
+        "Words":  888
+    },
+    {
+        "File":  "dishwasher-repair-riverbend.html",
+        "Words":  888
+    },
+    {
+        "File":  "dishwasher-repair-inglewood.html",
+        "Words":  891
+    },
+    {
+        "File":  "washer-repair-kensington-calgary.html",
+        "Words":  892
+    },
+    {
+        "File":  "washer-repair-canyon-meadows.html",
+        "Words":  895
+    },
+    {
+        "File":  "fridge-repair-mckenzie-lake.html",
+        "Words":  897
+    },
+    {
+        "File":  "fridge-repair-christie-park.html",
+        "Words":  898
+    },
+    {
+        "File":  "washer-repair-bankview.html",
+        "Words":  900
+    },
+    {
+        "File":  "dishwasher-repair-sherwood.html",
+        "Words":  900
+    },
+    {
+        "File":  "washer-repair-mckenzie-lake.html",
+        "Words":  900
+    },
+    {
+        "File":  "dishwasher-repair-killarney-glengarry.html",
+        "Words":  901
+    },
+    {
+        "File":  "fridge-repair-kensington-calgary.html",
+        "Words":  902
+    },
+    {
+        "File":  "dishwasher-repair-kingsland.html",
+        "Words":  903
+    },
+    {
+        "File":  "fridge-repair-mount-pleasant.html",
+        "Words":  905
+    },
+    {
+        "File":  "fridge-repair-cambrian-heights.html",
+        "Words":  905
+    },
+    {
+        "File":  "fridge-repair-capitol-hill.html",
+        "Words":  905
+    },
+    {
+        "File":  "fridge-repair-lincoln-park.html",
+        "Words":  905
+    },
+    {
+        "File":  "fridge-repair-banff-trail.html",
+        "Words":  905
+    },
+    {
+        "File":  "fridge-repair-highland-park.html",
+        "Words":  905
+    },
+    {
+        "File":  "fridge-repair-north-haven.html",
+        "Words":  905
+    },
+    {
+        "File":  "washer-repair-north-haven.html",
+        "Words":  910
+    },
+    {
+        "File":  "washer-repair-cambrian-heights.html",
+        "Words":  910
+    },
+    {
+        "File":  "washer-repair-mount-pleasant.html",
+        "Words":  910
+    },
+    {
+        "File":  "washer-repair-capitol-hill.html",
+        "Words":  910
+    },
+    {
+        "File":  "dishwasher-repair-beltline.html",
+        "Words":  910
+    },
+    {
+        "File":  "washer-repair-highland-park.html",
+        "Words":  910
+    },
+    {
+        "File":  "washer-repair-banff-trail.html",
+        "Words":  910
+    },
+    {
+        "File":  "washer-repair-lincoln-park.html",
+        "Words":  910
+    },
+    {
+        "File":  "dishwasher-repair-crescent-heights.html",
+        "Words":  911
+    },
+    {
+        "File":  "dishwasher-repair-oakridge.html",
+        "Words":  911
+    },
+    {
+        "File":  "washer-repair-lakeview-west.html",
+        "Words":  914
+    },
+    {
+        "File":  "dishwasher-repair-woodbine.html",
+        "Words":  916
+    },
+    {
+        "File":  "fridge-repair-maple-ridge.html",
+        "Words":  916
+    },
+    {
+        "File":  "washer-repair-silverado.html",
+        "Words":  918
+    },
+    {
+        "File":  "washer-repair-maple-ridge.html",
+        "Words":  920
+    },
+    {
+        "File":  "dishwasher-repair-albert-park-radisson-heights.html",
+        "Words":  920
+    },
+    {
+        "File":  "dishwasher-repair-southwood.html",
+        "Words":  922
+    },
+    {
+        "File":  "washer-repair-chinook-park.html",
+        "Words":  922
+    },
+    {
+        "File":  "dishwasher-repair-parkland.html",
+        "Words":  922
+    },
+    {
+        "File":  "washer-repair-renfrew.html",
+        "Words":  925
+    },
+    {
+        "File":  "washer-repair-woodlands-calgary.html",
+        "Words":  925
+    },
+    {
+        "File":  "washer-repair-westgate.html",
+        "Words":  925
+    },
+    {
+        "File":  "washer-repair-shaganappi.html",
+        "Words":  927
+    },
+    {
+        "File":  "washer-repair-hidden-valley.html",
+        "Words":  930
+    },
+    {
+        "File":  "dishwasher-repair-winston-heights-mountview.html",
+        "Words":  930
+    },
+    {
+        "File":  "fridge-repair-silverado.html",
+        "Words":  932
+    },
+    {
+        "File":  "fridge-repair-woodlands-calgary.html",
+        "Words":  932
+    },
+    {
+        "File":  "dishwasher-repair-currie-barracks.html",
+        "Words":  932
+    },
+    {
+        "File":  "fridge-repair-westgate.html",
+        "Words":  934
+    },
+    {
+        "File":  "fridge-repair-greenview.html",
+        "Words":  934
+    },
+    {
+        "File":  "washer-repair-cornerstone.html",
+        "Words":  937
+    },
+    {
+        "File":  "washer-repair-dover.html",
+        "Words":  939
+    },
+    {
+        "File":  "fridge-repair-sunnyside.html",
+        "Words":  940
+    },
+    {
+        "File":  "fridge-repair-killarney.html",
+        "Words":  941
+    },
+    {
+        "File":  "dishwasher-repair-kensington-calgary.html",
+        "Words":  942
+    },
+    {
+        "File":  "dishwasher-repair-south-calgary.html",
+        "Words":  943
+    },
+    {
+        "File":  "dishwasher-repair-seton.html",
+        "Words":  944
+    },
+    {
+        "File":  "dishwasher-repair-canyon-meadows.html",
+        "Words":  945
+    },
+    {
+        "File":  "dishwasher-repair-greenview.html",
+        "Words":  945
+    },
+    {
+        "File":  "washer-repair-wildwood.html",
+        "Words":  946
+    },
+    {
+        "File":  "washer-repair-greenview.html",
+        "Words":  946
+    },
+    {
+        "File":  "dishwasher-repair-eagle-ridge.html",
+        "Words":  947
+    },
+    {
+        "File":  "fridge-repair-glamorgan.html",
+        "Words":  947
+    },
+    {
+        "File":  "dishwasher-repair-bankview.html",
+        "Words":  947
+    },
+    {
+        "File":  "privacy.html",
+        "Words":  948
+    },
+    {
+        "File":  "washer-repair-cityscape.html",
+        "Words":  950
+    },
+    {
+        "File":  "fridge-repair-rosscarrock.html",
+        "Words":  950
+    },
+    {
+        "File":  "washer-repair-montgomery.html",
+        "Words":  950
+    },
+    {
+        "File":  "washer-repair-fairview-calgary.html",
+        "Words":  951
+    },
+    {
+        "File":  "washer-repair-sunnyside.html",
+        "Words":  951
+    },
+    {
+        "File":  "washer-repair-huntington-hills.html",
+        "Words":  952
+    },
+    {
+        "File":  "fridge-repair-fairview-calgary.html",
+        "Words":  952
+    },
+    {
+        "File":  "fridge-repair-renfrew.html",
+        "Words":  953
+    },
+    {
+        "File":  "washer-repair-rosscarrock.html",
+        "Words":  954
+    },
+    {
+        "File":  "washer-repair-kensington.html",
+        "Words":  954
+    },
+    {
+        "File":  "dishwasher-repair-mckenzie-lake.html",
+        "Words":  956
+    },
+    {
+        "File":  "fridge-repair-kensington.html",
+        "Words":  956
+    },
+    {
+        "File":  "washer-repair-abbeydale.html",
+        "Words":  956
+    },
+    {
+        "File":  "fridge-repair-altadore.html",
+        "Words":  956
+    },
+    {
+        "File":  "fridge-repair-montgomery.html",
+        "Words":  957
+    },
+    {
+        "File":  "fridge-repair-abbeydale.html",
+        "Words":  958
+    },
+    {
+        "File":  "fridge-repair-dover.html",
+        "Words":  958
+    },
+    {
+        "File":  "fridge-repair-hidden-valley.html",
+        "Words":  959
+    },
+    {
+        "File":  "fridge-repair-edgemont.html",
+        "Words":  961
+    },
+    {
+        "File":  "washer-repair-midnapore.html",
+        "Words":  962
+    },
+    {
+        "File":  "fridge-repair-highwood.html",
+        "Words":  962
+    },
+    {
+        "File":  "fridge-repair-varsity.html",
+        "Words":  962
+    },
+    {
+        "File":  "washer-repair-thorncliffe.html",
+        "Words":  963
+    },
+    {
+        "File":  "dishwasher-repair-maple-ridge.html",
+        "Words":  963
+    },
+    {
+        "File":  "dishwasher-repair-renfrew.html",
+        "Words":  963
+    },
+    {
+        "File":  "washer-repair-mayland-heights.html",
+        "Words":  964
+    },
+    {
+        "File":  "dishwasher-repair-chinook-park.html",
+        "Words":  965
+    },
+    {
+        "File":  "washer-repair-edgemont.html",
+        "Words":  965
+    },
+    {
+        "File":  "washer-repair-highwood.html",
+        "Words":  966
+    },
+    {
+        "File":  "washer-repair-hamptons.html",
+        "Words":  966
+    },
+    {
+        "File":  "washer-repair-millican-ogden.html",
+        "Words":  966
+    },
+    {
+        "File":  "fridge-repair-thorncliffe.html",
+        "Words":  968
+    },
+    {
+        "File":  "dishwasher-repair-hidden-valley.html",
+        "Words":  969
+    },
+    {
+        "File":  "washer-repair-spruce-cliff.html",
+        "Words":  969
+    },
+    {
+        "File":  "fridge-repair-wildwood.html",
+        "Words":  969
+    },
+    {
+        "File":  "fridge-repair-hamptons.html",
+        "Words":  969
+    },
+    {
+        "File":  "washer-repair-varsity.html",
+        "Words":  970
+    },
+    {
+        "File":  "washer-repair-douglasdale.html",
+        "Words":  971
+    },
+    {
+        "File":  "washer-repair-lynnwood-calgary.html",
+        "Words":  971
+    },
+    {
+        "File":  "fridge-repair-mission.html",
+        "Words":  972
+    },
+    {
+        "File":  "washer-repair-vista-heights.html",
+        "Words":  972
+    },
+    {
+        "File":  "fridge-repair-cornerstone.html",
+        "Words":  973
+    },
+    {
+        "File":  "fridge-repair-cityscape.html",
+        "Words":  974
+    },
+    {
+        "File":  "fridge-repair-dalhousie.html",
+        "Words":  974
+    },
+    {
+        "File":  "washer-repair-citadel.html",
+        "Words":  975
+    },
+    {
+        "File":  "fridge-repair-millican-ogden.html",
+        "Words":  975
+    },
+    {
+        "File":  "washer-repair-dalhousie.html",
+        "Words":  976
+    },
+    {
+        "File":  "fridge-repair-marda-loop.html",
+        "Words":  976
+    },
+    {
+        "File":  "accessibility.html",
+        "Words":  976
+    },
+    {
+        "File":  "dishwasher-repair-upper-mount-royal.html",
+        "Words":  976
+    },
+    {
+        "File":  "fridge-repair-lynnwood-calgary.html",
+        "Words":  977
+    },
+    {
+        "File":  "fridge-repair-tuxedo-park.html",
+        "Words":  977
+    },
+    {
+        "File":  "dishwasher-repair-country-hills-village.html",
+        "Words":  978
+    },
+    {
+        "File":  "fridge-repair-douglasdale.html",
+        "Words":  978
+    },
+    {
+        "File":  "washer-repair-queensland-calgary.html",
+        "Words":  979
+    },
+    {
+        "File":  "dishwasher-repair-sunnyside.html",
+        "Words":  979
+    },
+    {
+        "File":  "fridge-repair-citadel.html",
+        "Words":  980
+    },
+    {
+        "File":  "washer-repair-rutland-park.html",
+        "Words":  980
+    },
+    {
+        "File":  "fridge-repair-vista-heights.html",
+        "Words":  981
+    },
+    {
+        "File":  "washer-repair-country-hills.html",
+        "Words":  981
+    },
+    {
+        "File":  "dishwasher-repair-lakeview-west.html",
+        "Words":  982
+    },
+    {
+        "File":  "terms.html",
+        "Words":  982
+    },
+    {
+        "File":  "fridge-repair-erlton.html",
+        "Words":  982
+    },
+    {
+        "File":  "washer-repair-applewood-park.html",
+        "Words":  982
+    },
+    {
+        "File":  "fridge-repair-didsbury.html",
+        "Words":  982
+    },
+    {
+        "File":  "fridge-repair-strathcona-park.html",
+        "Words":  983
+    },
+    {
+        "File":  "washer-repair-erlton.html",
+        "Words":  983
+    },
+    {
+        "File":  "washer-repair-tuxedo-park.html",
+        "Words":  983
+    },
+    {
+        "File":  "washer-repair-killarney.html",
+        "Words":  985
+    },
+    {
+        "File":  "washer-repair-christie-park.html",
+        "Words":  985
+    },
+    {
+        "File":  "washer-repair-tuscany.html",
+        "Words":  986
+    },
+    {
+        "File":  "dishwasher-repair-silverado.html",
+        "Words":  986
+    },
+    {
+        "File":  "washer-repair-strathcona-park.html",
+        "Words":  987
+    },
+    {
+        "File":  "washer-repair-quarry-park.html",
+        "Words":  987
+    },
+    {
+        "File":  "dishwasher-repair-quarry-park.html",
+        "Words":  988
+    },
+    {
+        "File":  "fridge-repair-queensland-calgary.html",
+        "Words":  988
+    },
+    {
+        "File":  "fridge-repair-quarry-park.html",
+        "Words":  990
+    },
+    {
+        "File":  "washer-repair-royal-oak.html",
+        "Words":  990
+    },
+    {
+        "File":  "fridge-repair-tuscany.html",
+        "Words":  991
+    },
+    {
+        "File":  "washer-repair-altadore.html",
+        "Words":  991
+    },
+    {
+        "File":  "fridge-repair-royal-oak.html",
+        "Words":  992
+    },
+    {
+        "File":  "dishwasher-repair-lynnwood-calgary.html",
+        "Words":  993
+    },
+    {
+        "File":  "fridge-repair-skyview-ranch.html",
+        "Words":  994
+    },
+    {
+        "File":  "washer-repair-crestmont.html",
+        "Words":  994
+    },
+    {
+        "File":  "washer-repair-lake-bonavista.html",
+        "Words":  995
+    },
+    {
+        "File":  "washer-repair-glamorgan.html",
+        "Words":  995
+    },
+    {
+        "File":  "dishwasher-repair-tuxedo-park.html",
+        "Words":  996
+    },
+    {
+        "File":  "dishwasher-repair-abbeydale.html",
+        "Words":  996
+    },
+    {
+        "File":  "dishwasher-repair-citadel.html",
+        "Words":  996
+    },
+    {
+        "File":  "washer-repair-mission.html",
+        "Words":  997
+    },
+    {
+        "File":  "fridge-repair-erin-woods.html",
+        "Words":  997
+    },
+    {
+        "File":  "dishwasher-repair-highwood.html",
+        "Words":  998
+    },
+    {
+        "File":  "dishwasher-repair-douglasdale.html",
+        "Words":  998
+    },
+    {
+        "File":  "fridge-repair-lake-bonavista.html",
+        "Words":  998
+    },
+    {
+        "File":  "dishwasher-repair-killarney.html",
+        "Words":  999
+    },
+    {
+        "File":  "dishwasher-repair-montgomery.html",
+        "Words":  1000
+    },
+    {
+        "File":  "fridge-repair-deer-ridge.html",
+        "Words":  1000
+    },
+    {
+        "File":  "fridge-repair-midnapore.html",
+        "Words":  1000
+    },
+    {
+        "File":  "washer-repair-didsbury.html",
+        "Words":  1000
+    },
+    {
+        "File":  "washer-repair-deer-ridge.html",
+        "Words":  1000
+    },
+    {
+        "File":  "fridge-repair-mayland-heights.html",
+        "Words":  1001
+    },
+    {
+        "File":  "fridge-repair-country-hills.html",
+        "Words":  1001
+    },
+    {
+        "File":  "dishwasher-repair-shaganappi.html",
+        "Words":  1002
+    },
+    {
+        "File":  "dishwasher-repair-rundle-calgary.html",
+        "Words":  1003
+    },
+    {
+        "File":  "dishwasher-repair-millican-ogden.html",
+        "Words":  1003
+    },
+    {
+        "File":  "dishwasher-repair-thorncliffe.html",
+        "Words":  1003
+    },
+    {
+        "File":  "dishwasher-repair-hamptons.html",
+        "Words":  1003
+    },
+    {
+        "File":  "dishwasher-repair-dalhousie.html",
+        "Words":  1006
+    },
+    {
+        "File":  "dishwasher-repair-fairview-calgary.html",
+        "Words":  1007
+    },
+    {
+        "File":  "dishwasher-repair-altadore.html",
+        "Words":  1008
+    },
+    {
+        "File":  "fridge-repair-north-glenmore-park.html",
+        "Words":  1008
+    },
+    {
+        "File":  "dishwasher-repair-dover.html",
+        "Words":  1010
+    },
+    {
+        "File":  "washer-repair-marda-loop.html",
+        "Words":  1010
+    },
+    {
+        "File":  "dishwasher-repair-glamorgan.html",
+        "Words":  1011
+    },
+    {
+        "File":  "dishwasher-repair-rosscarrock.html",
+        "Words":  1013
+    },
+    {
+        "File":  "fridge-repair-huntington-hills.html",
+        "Words":  1014
+    },
+    {
+        "File":  "fridge-repair-silver-springs.html",
+        "Words":  1014
+    },
+    {
+        "File":  "dishwasher-repair-kensington.html",
+        "Words":  1015
+    },
+    {
+        "File":  "washer-repair-silver-springs.html",
+        "Words":  1015
+    },
+    {
+        "File":  "dishwasher-repair-scarboro.html",
+        "Words":  1017
+    },
+    {
+        "File":  "dishwasher-repair-cornerstone.html",
+        "Words":  1018
+    },
+    {
+        "File":  "washer-repair-new-brighton.html",
+        "Words":  1018
+    },
+    {
+        "File":  "fridge-repair-applewood-park.html",
+        "Words":  1018
+    },
+    {
+        "File":  "dishwasher-repair-edgemont.html",
+        "Words":  1019
+    },
+    {
+        "File":  "dishwasher-repair-mission.html",
+        "Words":  1020
+    },
+    {
+        "File":  "fridge-repair-lakeview-west.html",
+        "Words":  1020
+    },
+    {
+        "File":  "fridge-repair-new-brighton.html",
+        "Words":  1024
+    },
+    {
+        "File":  "dishwasher-repair-cityscape.html",
+        "Words":  1025
+    },
+    {
+        "File":  "washer-repair-north-glenmore-park.html",
+        "Words":  1025
+    },
+    {
+        "File":  "washer-repair-black-diamond.html",
+        "Words":  1025
+    },
+    {
+        "File":  "washer-repair-skyview-ranch.html",
+        "Words":  1025
+    },
+    {
+        "File":  "washer-repair-willow-park.html",
+        "Words":  1027
+    },
+    {
+        "File":  "dishwasher-repair-varsity.html",
+        "Words":  1027
+    },
+    {
+        "File":  "dishwasher-repair-erlton.html",
+        "Words":  1027
+    },
+    {
+        "File":  "fridge-repair-willow-park.html",
+        "Words":  1030
+    },
+    {
+        "File":  "washer-repair-evanston.html",
+        "Words":  1030
+    },
+    {
+        "File":  "dishwasher-repair-richmond.html",
+        "Words":  1031
+    },
+    {
+        "File":  "dishwasher-repair-cambrian-heights.html",
+        "Words":  1031
+    },
+    {
+        "File":  "dishwasher-repair-mayland-heights.html",
+        "Words":  1034
+    },
+    {
+        "File":  "dishwasher-repair-wildwood.html",
+        "Words":  1035
+    },
+    {
+        "File":  "dishwasher-repair-skyview-ranch.html",
+        "Words":  1035
+    },
+    {
+        "File":  "dishwasher-repair-westgate.html",
+        "Words":  1035
+    },
+    {
+        "File":  "dishwasher-repair-lincoln-park.html",
+        "Words":  1035
+    },
+    {
+        "File":  "dishwasher-repair-vista-heights.html",
+        "Words":  1037
+    },
+    {
+        "File":  "dishwasher-repair-tuscany.html",
+        "Words":  1038
+    },
+    {
+        "File":  "dishwasher-repair-crestmont.html",
+        "Words":  1038
+    },
+    {
+        "File":  "dishwasher-repair-woodlands-calgary.html",
+        "Words":  1039
+    },
+    {
+        "File":  "dishwasher-repair-capitol-hill.html",
+        "Words":  1039
+    },
+    {
+        "File":  "washer-repair-pineridge.html",
+        "Words":  1040
+    },
+    {
+        "File":  "dishwasher-repair-country-hills.html",
+        "Words":  1043
+    },
+    {
+        "File":  "dishwasher-repair-royal-oak.html",
+        "Words":  1046
+    },
+    {
+        "File":  "dishwasher-repair-rutland-park.html",
+        "Words":  1048
+    },
+    {
+        "File":  "dishwasher-repair-new-brighton.html",
+        "Words":  1048
+    },
+    {
+        "File":  "dishwasher-repair-highland-park.html",
+        "Words":  1048
+    },
+    {
+        "File":  "dishwasher-repair-north-haven.html",
+        "Words":  1050
+    },
+    {
+        "File":  "dishwasher-repair-midnapore.html",
+        "Words":  1050
+    },
+    {
+        "File":  "dishwasher-repair-marda-loop.html",
+        "Words":  1050
+    },
+    {
+        "File":  "dishwasher-repair-huntington-hills.html",
+        "Words":  1051
+    },
+    {
+        "File":  "washer-repair-turner-valley.html",
+        "Words":  1051
+    },
+    {
+        "File":  "washer-repair-erin-woods.html",
+        "Words":  1055
+    },
+    {
+        "File":  "washer-repair-lakeview-calgary.html",
+        "Words":  1056
+    },
+    {
+        "File":  "dishwasher-repair-evanston.html",
+        "Words":  1058
+    },
+    {
+        "File":  "dishwasher-repair-didsbury.html",
+        "Words":  1059
+    },
+    {
+        "File":  "dishwasher-repair-applewood-park.html",
+        "Words":  1061
+    },
+    {
+        "File":  "fridge-repair-temple-calgary.html",
+        "Words":  1062
+    },
+    {
+        "File":  "dishwasher-repair-banff-trail.html",
+        "Words":  1064
+    },
+    {
+        "File":  "dishwasher-repair-strathcona-park.html",
+        "Words":  1066
+    },
+    {
+        "File":  "dishwasher-repair-spruce-cliff.html",
+        "Words":  1067
+    },
+    {
+        "File":  "dishwasher-repair-mount-pleasant.html",
+        "Words":  1067
+    },
+    {
+        "File":  "dishwasher-repair-christie-park.html",
+        "Words":  1070
+    },
+    {
+        "File":  "fridge-repair-turner-valley.html",
+        "Words":  1071
+    },
+    {
+        "File":  "fridge-repair-pineridge.html",
+        "Words":  1074
+    },
+    {
+        "File":  "dishwasher-repair-lakeview-calgary.html",
+        "Words":  1074
+    },
+    {
+        "File":  "dishwasher-repair-black-diamond.html",
+        "Words":  1075
+    },
+    {
+        "File":  "fridge-repair-black-diamond.html",
+        "Words":  1076
+    },
+    {
+        "File":  "dishwasher-repair-silver-springs.html",
+        "Words":  1083
+    },
+    {
+        "File":  "dishwasher-repair-pump-hill.html",
+        "Words":  1084
+    },
+    {
+        "File":  "dishwasher-repair-north-glenmore-park.html",
+        "Words":  1086
+    },
+    {
+        "File":  "dishwasher-repair-glenbrook-calgary.html",
+        "Words":  1088
+    },
+    {
+        "File":  "dishwasher-repair-pineridge.html",
+        "Words":  1089
+    },
+    {
+        "File":  "fridge-repair-glenbrook-calgary.html",
+        "Words":  1092
+    },
+    {
+        "File":  "washer-repair-glenbrook-calgary.html",
+        "Words":  1093
+    },
+    {
+        "File":  "dishwasher-repair-university-heights.html",
+        "Words":  1096
+    },
+    {
+        "File":  "washer-repair-temple-calgary.html",
+        "Words":  1099
+    },
+    {
+        "File":  "dishwasher-repair-turner-valley.html",
+        "Words":  1101
+    },
+    {
+        "File":  "fridge-repair-lakeview-calgary.html",
+        "Words":  1107
+    },
+    {
+        "File":  "washer-repair-cedarbrae.html",
+        "Words":  1113
+    },
+    {
+        "File":  "washer-repair-ogden.html",
+        "Words":  1116
+    },
+    {
+        "File":  "dishwasher-repair-lake-bonavista.html",
+        "Words":  1118
+    },
+    {
+        "File":  "washer-repair-rundle-calgary.html",
+        "Words":  1119
+    },
+    {
+        "File":  "dishwasher-repair-patterson-calgary.html",
+        "Words":  1121
+    },
+    {
+        "File":  "washer-repair-valley-ridge-calgary.html",
+        "Words":  1123
+    },
+    {
+        "File":  "washer-repair-west-springs.html",
+        "Words":  1123
+    },
+    {
+        "File":  "dishwasher-repair-signal-hill.html",
+        "Words":  1125
+    },
+    {
+        "File":  "washer-repair-millrise.html",
+        "Words":  1131
+    },
+    {
+        "File":  "dishwasher-repair-deer-ridge.html",
+        "Words":  1132
+    },
+    {
+        "File":  "washer-repair-signal-hill.html",
+        "Words":  1133
+    },
+    {
+        "File":  "washer-repair-bel-aire.html",
+        "Words":  1134
+    },
+    {
+        "File":  "washer-repair-patterson-calgary.html",
+        "Words":  1138
+    },
+    {
+        "File":  "fridge-repair-whitehorn-calgary.html",
+        "Words":  1138
+    },
+    {
+        "File":  "washer-repair-whitehorn-calgary.html",
+        "Words":  1139
+    },
+    {
+        "File":  "fridge-repair-brentwood.html",
+        "Words":  1139
+    },
+    {
+        "File":  "fridge-repair-patterson-calgary.html",
+        "Words":  1140
+    },
+    {
+        "File":  "fridge-repair-ogden.html",
+        "Words":  1141
+    },
+    {
+        "File":  "washer-repair-glendale-calgary.html",
+        "Words":  1143
+    },
+    {
+        "File":  "fridge-repair-signal-hill.html",
+        "Words":  1143
+    },
+    {
+        "File":  "dishwasher-repair-millrise.html",
+        "Words":  1145
+    },
+    {
+        "File":  "fridge-repair-castleridge.html",
+        "Words":  1145
+    },
+    {
+        "File":  "dishwasher-repair-temple-calgary.html",
+        "Words":  1146
+    },
+    {
+        "File":  "fridge-repair-millrise.html",
+        "Words":  1150
+    },
+    {
+        "File":  "fridge-repair-bel-aire.html",
+        "Words":  1150
+    },
+    {
+        "File":  "fridge-repair-west-springs.html",
+        "Words":  1151
+    },
+    {
+        "File":  "fridge-repair-cougar-ridge.html",
+        "Words":  1157
+    },
+    {
+        "File":  "washer-repair-tuxedo-park-calgary.html",
+        "Words":  1157
+    },
+    {
+        "File":  "washer-repair-penbrooke-meadows.html",
+        "Words":  1160
+    },
+    {
+        "File":  "washer-repair-deer-run.html",
+        "Words":  1163
+    },
+    {
+        "File":  "washer-repair-cougar-ridge.html",
+        "Words":  1164
+    },
+    {
+        "File":  "fridge-repair-glendale-calgary.html",
+        "Words":  1167
+    },
+    {
+        "File":  "washer-repair-coach-hill.html",
+        "Words":  1172
+    },
+    {
+        "File":  "dishwasher-repair-cougar-ridge.html",
+        "Words":  1173
+    },
+    {
+        "File":  "washer-repair-thorncliffe-calgary.html",
+        "Words":  1175
+    },
+    {
+        "File":  "dishwasher-repair-erin-woods.html",
+        "Words":  1180
+    },
+    {
+        "File":  "dishwasher-repair-west-springs.html",
+        "Words":  1180
+    },
+    {
+        "File":  "fridge-repair-tuxedo-park-calgary.html",
+        "Words":  1183
+    },
+    {
+        "File":  "dishwasher-repair-queensland-calgary.html",
+        "Words":  1185
+    },
+    {
+        "File":  "fridge-repair-hillhurst.html",
+        "Words":  1187
+    },
+    {
+        "File":  "fridge-repair-garrison-green.html",
+        "Words":  1189
+    },
+    {
+        "File":  "washer-repair-signature-park.html",
+        "Words":  1189
+    },
+    {
+        "File":  "washer-repair-montgomery-calgary.html",
+        "Words":  1189
+    },
+    {
+        "File":  "washer-repair-varsity-estates.html",
+        "Words":  1193
+    },
+    {
+        "File":  "washer-repair-springbank-hill.html",
+        "Words":  1193
+    },
+    {
+        "File":  "fridge-repair-signature-park.html",
+        "Words":  1194
+    },
+    {
+        "File":  "washer-repair-castleridge.html",
+        "Words":  1195
+    },
+    {
+        "File":  "washer-repair-falconridge.html",
+        "Words":  1195
+    },
+    {
+        "File":  "fridge-repair-aspen-woods.html",
+        "Words":  1196
+    },
+    {
+        "File":  "fridge-repair-montgomery-calgary.html",
+        "Words":  1198
+    },
+    {
+        "File":  "fridge-repair-thorncliffe-calgary.html",
+        "Words":  1198
+    },
+    {
+        "File":  "dishwasher-repair-valley-ridge-calgary.html",
+        "Words":  1199
+    },
+    {
+        "File":  "fridge-repair-deer-run.html",
+        "Words":  1199
+    },
+    {
+        "File":  "fridge-repair-penbrooke-meadows.html",
+        "Words":  1202
+    },
+    {
+        "File":  "washer-repair-bridlewood.html",
+        "Words":  1204
+    },
+    {
+        "File":  "fridge-repair-rundle-calgary.html",
+        "Words":  1205
+    },
+    {
+        "File":  "fridge-repair-sunnyside-calgary.html",
+        "Words":  1206
+    },
+    {
+        "File":  "dishwasher-repair-tuxedo-park-calgary.html",
+        "Words":  1206
+    },
+    {
+        "File":  "washer-repair-ranchlands.html",
+        "Words":  1207
+    },
+    {
+        "File":  "dishwasher-repair-castleridge.html",
+        "Words":  1208
+    },
+    {
+        "File":  "washer-repair-hillhurst.html",
+        "Words":  1211
+    },
+    {
+        "File":  "dishwasher-repair-greenview-calgary.html",
+        "Words":  1211
+    },
+    {
+        "File":  "dishwasher-repair-whitehorn-calgary.html",
+        "Words":  1212
+    },
+    {
+        "File":  "fridge-repair-cranston.html",
+        "Words":  1213
+    },
+    {
+        "File":  "dishwasher-repair-ranchlands.html",
+        "Words":  1214
+    },
+    {
+        "File":  "fridge-repair-falconridge.html",
+        "Words":  1217
+    },
+    {
+        "File":  "washer-repair-sunnyside-calgary.html",
+        "Words":  1217
+    },
+    {
+        "File":  "washer-repair-brentwood.html",
+        "Words":  1217
+    },
+    {
+        "File":  "dishwasher-repair-thorncliffe-calgary.html",
+        "Words":  1219
+    },
+    {
+        "File":  "ge-dishwasher-repair.html",
+        "Words":  1219
+    },
+    {
+        "File":  "washer-repair-highwood-calgary.html",
+        "Words":  1220
+    },
+    {
+        "File":  "fridge-repair-coach-hill.html",
+        "Words":  1221
+    },
+    {
+        "File":  "dishwasher-repair-willow-park.html",
+        "Words":  1221
+    },
+    {
+        "File":  "kitchenaid-dishwasher-repair.html",
+        "Words":  1223
+    },
+    {
+        "File":  "washer-repair-winston-heights.html",
+        "Words":  1223
+    },
+    {
+        "File":  "dishwasher-repair-sunnyside-calgary.html",
+        "Words":  1223
+    },
+    {
+        "File":  "washer-repair-aspen-woods.html",
+        "Words":  1223
+    },
+    {
+        "File":  "fridge-repair-winston-heights.html",
+        "Words":  1224
+    },
+    {
+        "File":  "dishwasher-repair-signature-park.html",
+        "Words":  1225
+    },
+    {
+        "File":  "dishwasher-repair-penbrooke-meadows.html",
+        "Words":  1225
+    },
+    {
+        "File":  "fridge-repair-cedarbrae.html",
+        "Words":  1226
+    },
+    {
+        "File":  "washer-repair-greenview-calgary.html",
+        "Words":  1226
+    },
+    {
+        "File":  "dishwasher-repair-garrison-green.html",
+        "Words":  1228
+    },
+    {
+        "File":  "fridge-repair-riverbend-sw.html",
+        "Words":  1228
+    },
+    {
+        "File":  "washer-repair-acadia.html",
+        "Words":  1231
+    },
+    {
+        "File":  "lg-repair-edmonton.html",
+        "Words":  1232
+    },
+    {
+        "File":  "fridge-repair-citadel-calgary.html",
+        "Words":  1232
+    },
+    {
+        "File":  "dishwasher-repair-falconridge.html",
+        "Words":  1233
+    },
+    {
+        "File":  "frigidaire-repair-edmonton.html",
+        "Words":  1236
+    },
+    {
+        "File":  "kitchenaid-repair-edmonton.html",
+        "Words":  1237
+    },
+    {
+        "File":  "washer-repair-garrison-green.html",
+        "Words":  1237
+    },
+    {
+        "File":  "electrolux-repair-edmonton.html",
+        "Words":  1238
+    },
+    {
+        "File":  "maytag-dishwasher-repair.html",
+        "Words":  1239
+    },
+    {
+        "File":  "washer-repair-marlborough-park.html",
+        "Words":  1239
+    },
+    {
+        "File":  "ge-repair-edmonton.html",
+        "Words":  1241
+    },
+    {
+        "File":  "kenmore-repair-edmonton.html",
+        "Words":  1241
+    },
+    {
+        "File":  "dishwasher-repair-citadel-calgary.html",
+        "Words":  1242
+    },
+    {
+        "File":  "dishwasher-repair-riverbend-sw.html",
+        "Words":  1244
+    },
+    {
+        "File":  "miele-dishwasher-repair.html",
+        "Words":  1245
+    },
+    {
+        "File":  "maytag-repair-edmonton.html",
+        "Words":  1245
+    },
+    {
+        "File":  "washer-repair-bankview-calgary.html",
+        "Words":  1246
+    },
+    {
+        "File":  "washer-repair-scenic-acres.html",
+        "Words":  1246
+    },
+    {
+        "File":  "dishwasher-repair-montgomery-calgary.html",
+        "Words":  1246
+    },
+    {
+        "File":  "dishwasher-repair-bridlewood.html",
+        "Words":  1246
+    },
+    {
+        "File":  "dishwasher-repair-scenic-acres.html",
+        "Words":  1247
+    },
+    {
+        "File":  "washer-repair-cranston.html",
+        "Words":  1247
+    },
+    {
+        "File":  "fridge-repair-greenview-calgary.html",
+        "Words":  1249
+    },
+    {
+        "File":  "fridge-repair-sundance-calgary.html",
+        "Words":  1249
+    },
+    {
+        "File":  "fridge-repair-legacy-calgary.html",
+        "Words":  1251
+    },
+    {
+        "File":  "fridge-repair-bridlewood.html",
+        "Words":  1251
+    },
+    {
+        "File":  "samsung-dishwasher-repair.html",
+        "Words":  1254
+    },
+    {
+        "File":  "fridge-repair-kincora.html",
+        "Words":  1257
+    },
+    {
+        "File":  "dishwasher-repair-kincora.html",
+        "Words":  1258
+    },
+    {
+        "File":  "dishwasher-repair-cedarbrae.html",
+        "Words":  1258
+    },
+    {
+        "File":  "dishwasher-repair-bowness.html",
+        "Words":  1259
+    },
+    {
+        "File":  "washer-repair-riverbend-sw.html",
+        "Words":  1259
+    },
+    {
+        "File":  "washer-repair-arbour-lake.html",
+        "Words":  1261
+    },
+    {
+        "File":  "lg-dishwasher-repair.html",
+        "Words":  1262
+    },
+    {
+        "File":  "washer-repair-citadel-calgary.html",
+        "Words":  1264
+    },
+    {
+        "File":  "dishwasher-repair-bel-aire.html",
+        "Words":  1264
+    },
+    {
+        "File":  "washer-repair-evergreen-calgary.html",
+        "Words":  1265
+    },
+    {
+        "File":  "fridge-repair-marlborough-park.html",
+        "Words":  1266
+    },
+    {
+        "File":  "washer-repair-sundance-calgary.html",
+        "Words":  1266
+    },
+    {
+        "File":  "dishwasher-repair-varsity-estates.html",
+        "Words":  1274
+    },
+    {
+        "File":  "fridge-repair-nolan-hill.html",
+        "Words":  1275
+    },
+    {
+        "File":  "whirlpool-dishwasher-repair.html",
+        "Words":  1275
+    },
+    {
+        "File":  "washer-repair-bowness.html",
+        "Words":  1275
+    },
+    {
+        "File":  "dishwasher-repair-arbour-lake.html",
+        "Words":  1278
+    },
+    {
+        "File":  "washer-repair-elboya.html",
+        "Words":  1280
+    },
+    {
+        "File":  "washer-repair-kincora.html",
+        "Words":  1281
+    },
+    {
+        "File":  "dishwasher-repair-copperfield.html",
+        "Words":  1281
+    },
+    {
+        "File":  "fridge-repair-scenic-acres.html",
+        "Words":  1281
+    },
+    {
+        "File":  "fridge-repair-bowness.html",
+        "Words":  1282
+    },
+    {
+        "File":  "washer-repair-copperfield.html",
+        "Words":  1283
+    },
+    {
+        "File":  "dishwasher-repair-winston-heights.html",
+        "Words":  1283
+    },
+    {
+        "File":  "dishwasher-repair-glendale-calgary.html",
+        "Words":  1285
+    },
+    {
+        "File":  "fridge-repair-springbank-hill.html",
+        "Words":  1286
+    },
+    {
+        "File":  "fridge-repair-acadia.html",
+        "Words":  1288
+    },
+    {
+        "File":  "fridge-repair-valley-ridge-calgary.html",
+        "Words":  1289
+    },
+    {
+        "File":  "dishwasher-repair-legacy-calgary.html",
+        "Words":  1289
+    },
+    {
+        "File":  "fridge-repair-arbour-lake.html",
+        "Words":  1290
+    },
+    {
+        "File":  "dishwasher-repair-highwood-calgary.html",
+        "Words":  1291
+    },
+    {
+        "File":  "fridge-repair-copperfield.html",
+        "Words":  1292
+    },
+    {
+        "File":  "dishwasher-repair-aspen-woods.html",
+        "Words":  1293
+    },
+    {
+        "File":  "washer-repair-macewan-glen.html",
+        "Words":  1295
+    },
+    {
+        "File":  "dishwasher-repair-cranston.html",
+        "Words":  1295
+    },
+    {
+        "File":  "fridge-repair-auburn-bay.html",
+        "Words":  1297
+    },
+    {
+        "File":  "washer-repair-charleswood.html",
+        "Words":  1298
+    },
+    {
+        "File":  "dishwasher-repair-marlborough-park.html",
+        "Words":  1300
+    },
+    {
+        "File":  "fridge-repair-evergreen-calgary.html",
+        "Words":  1301
+    },
+    {
+        "File":  "dishwasher-repair-evergreen-calgary.html",
+        "Words":  1302
+    },
+    {
+        "File":  "dishwasher-repair-bankview-calgary.html",
+        "Words":  1307
+    },
+    {
+        "File":  "washer-repair-sage-hill.html",
+        "Words":  1312
+    },
+    {
+        "File":  "washer-repair-sandstone-valley.html",
+        "Words":  1313
+    },
+    {
+        "File":  "dishwasher-repair-deer-run.html",
+        "Words":  1313
+    },
+    {
+        "File":  "dishwasher-repair-coventry-hills.html",
+        "Words":  1315
+    },
+    {
+        "File":  "dishwasher-repair-hillhurst.html",
+        "Words":  1316
+    },
+    {
+        "File":  "dishwasher-repair-coach-hill.html",
+        "Words":  1317
+    },
+    {
+        "File":  "dishwasher-repair-mahogany.html",
+        "Words":  1317
+    },
+    {
+        "File":  "washer-repair-haysboro.html",
+        "Words":  1318
+    },
+    {
+        "File":  "fridge-repair-country-hills-calgary.html",
+        "Words":  1320
+    },
+    {
+        "File":  "washer-repair-auburn-bay.html",
+        "Words":  1321
+    },
+    {
+        "File":  "dishwasher-repair-sage-hill.html",
+        "Words":  1322
+    },
+    {
+        "File":  "washer-repair-country-hills-calgary.html",
+        "Words":  1322
+    },
+    {
+        "File":  "washer-repair-mahogany.html",
+        "Words":  1323
+    },
+    {
+        "File":  "washer-repair-panorama-hills.html",
+        "Words":  1324
+    },
+    {
+        "File":  "fridge-repair-sage-hill.html",
+        "Words":  1324
+    },
+    {
+        "File":  "fridge-repair-panorama-hills.html",
+        "Words":  1325
+    },
+    {
+        "File":  "fridge-repair-highwood-calgary.html",
+        "Words":  1326
+    },
+    {
+        "File":  "dishwasher-repair-springbank-hill.html",
+        "Words":  1327
+    },
+    {
+        "File":  "dishwasher-repair-sundance-calgary.html",
+        "Words":  1329
+    },
+    {
+        "File":  "washer-repair-dalhousie-calgary.html",
+        "Words":  1329
+    },
+    {
+        "File":  "washer-repair-legacy-calgary.html",
+        "Words":  1331
+    },
+    {
+        "File":  "lg-repair-calgary.html",
+        "Words":  1334
+    },
+    {
+        "File":  "frigidaire-dishwasher-repair.html",
+        "Words":  1334
+    },
+    {
+        "File":  "washer-repair-pump-hill.html",
+        "Words":  1334
+    },
+    {
+        "File":  "fridge-repair-evanston.html",
+        "Words":  1335
+    },
+    {
+        "File":  "frigidaire-repair-calgary.html",
+        "Words":  1336
+    },
+    {
+        "File":  "kitchenaid-repair-calgary.html",
+        "Words":  1336
+    },
+    {
+        "File":  "washer-repair-nolan-hill.html",
+        "Words":  1336
+    },
+    {
+        "File":  "dishwasher-repair-auburn-bay.html",
+        "Words":  1337
+    },
+    {
+        "File":  "electrolux-repair-calgary.html",
+        "Words":  1337
+    },
+    {
+        "File":  "ge-repair-calgary.html",
+        "Words":  1337
+    },
+    {
+        "File":  "fridge-repair-varsity-estates.html",
+        "Words":  1337
+    },
+    {
+        "File":  "dishwasher-repair-macewan-glen.html",
+        "Words":  1338
+    },
+    {
+        "File":  "kenmore-repair-calgary.html",
+        "Words":  1338
+    },
+    {
+        "File":  "maytag-repair-calgary.html",
+        "Words":  1340
+    },
+    {
+        "File":  "dishwasher-repair-ogden.html",
+        "Words":  1340
+    },
+    {
+        "File":  "fridge-repair-elboya.html",
+        "Words":  1340
+    },
+    {
+        "File":  "washer-repair-elbow-park.html",
+        "Words":  1341
+    },
+    {
+        "File":  "fridge-repair-mckenzie-towne.html",
+        "Words":  1342
+    },
+    {
+        "File":  "fridge-repair-bankview-calgary.html",
+        "Words":  1342
+    },
+    {
+        "File":  "fridge-repair-beddington-heights.html",
+        "Words":  1343
+    },
+    {
+        "File":  "dishwasher-repair-panorama-hills.html",
+        "Words":  1343
+    },
+    {
+        "File":  "fridge-repair-pump-hill.html",
+        "Words":  1344
+    },
+    {
+        "File":  "washer-repair-mckenzie-towne.html",
+        "Words":  1349
+    },
+    {
+        "File":  "dishwasher-repair-dalhousie-calgary.html",
+        "Words":  1349
+    },
+    {
+        "File":  "dishwasher-repair-nolan-hill.html",
+        "Words":  1349
+    },
+    {
+        "File":  "fridge-repair-dalhousie-calgary.html",
+        "Words":  1351
+    },
+    {
+        "File":  "fridge-repair-ranchlands.html",
+        "Words":  1352
+    },
+    {
+        "File":  "fridge-repair-mahogany.html",
+        "Words":  1353
+    },
+    {
+        "File":  "fridge-repair-hamptons-calgary.html",
+        "Words":  1354
+    },
+    {
+        "File":  "dishwasher-repair-charleswood.html",
+        "Words":  1354
+    },
+    {
+        "File":  "fridge-repair-haysboro.html",
+        "Words":  1356
+    },
+    {
+        "File":  "washer-repair-harvest-hills.html",
+        "Words":  1357
+    },
+    {
+        "File":  "dishwasher-repair-elboya.html",
+        "Words":  1359
+    },
+    {
+        "File":  "fridge-repair-harvest-hills.html",
+        "Words":  1363
+    },
+    {
+        "File":  "dishwasher-repair-beddington-heights.html",
+        "Words":  1363
+    },
+    {
+        "File":  "washer-repair-beddington-heights.html",
+        "Words":  1365
+    },
+    {
+        "File":  "dishwasher-repair-mckenzie-towne.html",
+        "Words":  1366
+    },
+    {
+        "File":  "washer-repair-hamptons-calgary.html",
+        "Words":  1367
+    },
+    {
+        "File":  "dishwasher-repair-acadia.html",
+        "Words":  1367
+    },
+    {
+        "File":  "dishwasher-repair-sandstone-valley.html",
+        "Words":  1370
+    },
+    {
+        "File":  "washer-repair-palliser.html",
+        "Words":  1371
+    },
+    {
+        "File":  "dishwasher-repair-palliser.html",
+        "Words":  1371
+    },
+    {
+        "File":  "fridge-repair-macewan-glen.html",
+        "Words":  1374
+    },
+    {
+        "File":  "washer-repair-collingwood-calgary.html",
+        "Words":  1375
+    },
+    {
+        "File":  "fridge-repair-sandstone-valley.html",
+        "Words":  1376
+    },
+    {
+        "File":  "fridge-repair-palliser.html",
+        "Words":  1378
+    },
+    {
+        "File":  "fridge-repair-elbow-park.html",
+        "Words":  1378
+    },
+    {
+        "File":  "dishwasher-repair-collingwood-calgary.html",
+        "Words":  1379
+    },
+    {
+        "File":  "dishwasher-repair-country-hills-calgary.html",
+        "Words":  1388
+    },
+    {
+        "File":  "dishwasher-repair-hamptons-calgary.html",
+        "Words":  1393
+    },
+    {
+        "File":  "fridge-repair-charleswood.html",
+        "Words":  1395
+    },
+    {
+        "File":  "dishwasher-repair-elbow-park.html",
+        "Words":  1403
+    },
+    {
+        "File":  "dishwasher-repair-hawkwood.html",
+        "Words":  1413
+    },
+    {
+        "File":  "dishwasher-repair-dover-calgary.html",
+        "Words":  1413
+    },
+    {
+        "File":  "washer-repair-hawkwood.html",
+        "Words":  1416
+    },
+    {
+        "File":  "fridge-repair-walden.html",
+        "Words":  1432
+    },
+    {
+        "File":  "dishwasher-repair-harvest-hills.html",
+        "Words":  1434
+    },
+    {
+        "File":  "washer-repair-edgemont-calgary.html",
+        "Words":  1439
+    },
+    {
+        "File":  "dishwasher-repair-chaparral.html",
+        "Words":  1440
+    },
+    {
+        "File":  "dishwasher-repair-edgemont-calgary.html",
+        "Words":  1443
+    },
+    {
+        "File":  "washer-repair-braeside.html",
+        "Words":  1444
+    },
+    {
+        "File":  "dishwasher-repair-haysboro.html",
+        "Words":  1447
+    },
+    {
+        "File":  "washer-repair-chaparral.html",
+        "Words":  1451
+    },
+    {
+        "File":  "washer-repair-marlborough-calgary.html",
+        "Words":  1451
+    },
+    {
+        "File":  "washer-repair-dover-calgary.html",
+        "Words":  1454
+    },
+    {
+        "File":  "washer-repair-shawnessy.html",
+        "Words":  1457
+    },
+    {
+        "File":  "washer-repair-walden.html",
+        "Words":  1458
+    },
+    {
+        "File":  "fridge-repair-collingwood-calgary.html",
+        "Words":  1460
+    },
+    {
+        "File":  "fridge-repair-dover-calgary.html",
+        "Words":  1461
+    },
+    {
+        "File":  "fridge-repair-shawnessy.html",
+        "Words":  1463
+    },
+    {
+        "File":  "dishwasher-repair-braeside.html",
+        "Words":  1467
+    },
+    {
+        "File":  "dishwasher-repair-shawnessy.html",
+        "Words":  1468
+    },
+    {
+        "File":  "washer-repair-albert-park-calgary.html",
+        "Words":  1469
+    },
+    {
+        "File":  "washer-repair-somerset-calgary.html",
+        "Words":  1469
+    },
+    {
+        "File":  "dishwasher-repair-marlborough-calgary.html",
+        "Words":  1471
+    },
+    {
+        "File":  "dishwasher-repair-forest-heights-calgary.html",
+        "Words":  1478
+    },
+    {
+        "File":  "fridge-repair-chaparral.html",
+        "Words":  1487
+    },
+    {
+        "File":  "fridge-repair-royal-oak-calgary.html",
+        "Words":  1492
+    }
+]
