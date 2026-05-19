@@ -1,7 +1,7 @@
 {
   "_schema_version": 1,
   "site": {
-    "name": "Neary Calgary Appliance Repair",
+    "name": "Appliance Repair Neary",
     "domain": "appliancerepairneary.com",
     "language": "en-CA",
     "country": "CA",
@@ -18,7 +18,7 @@
   },
   "contact": {
     "email": "calgary@appliancerepairneary.com",
-    "phone": "+1-587-889-2053",
+    "phone": null,
     "address": "700 6th Avenue SW Suite 1700, Calgary, AB T2P 0T8",
     "service_area": "Calgary, AB and surrounding suburbs"
   },
