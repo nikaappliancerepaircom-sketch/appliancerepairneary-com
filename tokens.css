@@ -80,3 +80,41 @@
   --z-sticky: 100;
   --z-modal:  1000;
 }
+
+/* ============================================
+   TAP TARGET MINIMUM 44×44px
+   Accessibility & mobile UX (WCAG 2.5.5)
+   ============================================ */
+a, button, [role="button"], input[type="submit"], input[type="button"],
+input[type="checkbox"], input[type="radio"], select,
+.btn, .cta-btn, .book-btn, .nav-link, .faq-toggle,
+details > summary {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Ensure links in navigation have adequate padding */
+nav a, .nav a, header a {
+  padding: 10px 12px;
+  display: inline-flex;
+  align-items: center;
+}
+
+/* FAQ toggles / accordion */
+details > summary {
+  padding: 12px 16px;
+  cursor: pointer;
+}
+
+/* CTA buttons */
+.cta-btn, .btn, button[type="submit"], .book-online-btn {
+  padding: 12px 24px;
+  min-height: 48px;
+}
+
+/* Inline text links — add padding via line-height so they don't affect layout */
+p a, li a {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  display: inline-block;
+}
