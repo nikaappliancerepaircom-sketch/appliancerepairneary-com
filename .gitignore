@@ -4,3 +4,4 @@ node_modules/
 Thumbs.db
 .vercel
 gen-blog-posts-calgary.js
+gen-sitemap-clean.js
