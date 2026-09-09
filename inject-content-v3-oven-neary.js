@@ -61,7 +61,7 @@ Each city needs:
 ${cityNote}
 
 Important constraints:
-- Keep: (437) 524-1053, $65 diagnostic, 90-day warranty, price range $120-$350
+- Keep: (437) 524-1053, $89 diagnostic, 90-day warranty, price range $120-$350
 - Keep brand names: Samsung, LG, GE, Bosch, Frigidaire, Whirlpool, Miele
 - Each city MUST have genuinely different content — different neighborhoods, different angles, different FAQ topics
 

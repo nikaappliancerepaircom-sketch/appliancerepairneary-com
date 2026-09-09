@@ -18,7 +18,7 @@ module.exports = {
       ['Burning plastic smell during the cycle', 'Almost always a melted detergent dispenser cup, a heating element shorted to the tub, or wiring degradation behind the kick plate. This is a stop-using-immediately issue call us same-day.']
     ],
     pricing: [
-      ['Diagnostic visit (waived with repair)', '$65'],
+      ['Diagnostic visit (waived with repair)', '$89'],
       ['Drain pump replacement', '$165 - $245'],
       ['Wash motor / circulation pump', '$220 - $340'],
       ['Heating element / heat pump', '$180 - $295'],
@@ -33,7 +33,7 @@ module.exports = {
 <p><strong>What actually works for Calgary dishwashers:</strong> First, set the rinse aid dispenser to the highest level level 5 or 6 on most brands. Calgary water needs the surfactant boost. Second, run a monthly hot cycle with two cups of plain white vinegar in a measuring cup on the top rack, with no detergent and nothing else in the machine. The acid dissolves carbonate scale before it bonds. Third, every six months, remove the lower spray arm, soak it in vinegar for an hour, and use a toothpick to clear each nozzle individually. Fourth, check the inlet hose screen at the back of the machine Calgary water deposits sediment there faster than anywhere else in Canada we service.</p>
 <p>If your dishwasher is already showing symptoms of scale damage, descaling alone will not reverse mechanical wear. We carry the Affresh and Lemi-Shine commercial-strength descalers for situations where homeowner-grade products are not enough, and we replace components proactively when we see early-stage scale damage during a service visit. A single $180 spray arm replacement now usually prevents a $340 wash motor failure six months later.</p>`,
     faq: [
-      ['How much does dishwasher repair cost in Calgary?', 'Most Calgary dishwasher repairs land between $165 and $385 in total including the $65 diagnostic, which we waive when you proceed with the repair. Drain pump and spray arm jobs sit on the lower end; control board and circulation pump work runs higher. We give a firm written quote before any work begins, and OEM parts come with a 90-day parts and labour warranty.'],
+      ['How much does dishwasher repair cost in Calgary?', 'Most Calgary dishwasher repairs land between $165 and $385 in total including the $89 diagnostic, which we waive when you proceed with the repair. Drain pump and spray arm jobs sit on the lower end; control board and circulation pump work runs higher. We give a firm written quote before any work begins, and OEM parts come with a 90-day parts and labour warranty.'],
       ['Do you service Airdrie, Cochrane, and Okotoks for dishwasher repair?', 'Yes. Our Calgary service area covers Airdrie, Cochrane, Okotoks, Chestermere, Strathmore, Bragg Creek, Langdon, and High River. Travel times from central Calgary average 25-40 minutes to most of these communities, and we generally hit same-day windows when you book before noon.'],
       ['How fast can a technician arrive in Calgary?', 'For most Calgary postal codes, we run two-hour arrival windows the same day if you book before 12 PM Monday through Friday. Same-day Saturday slots are available subject to capacity. For evening or after-hours calls, we offer scheduled visits Mon-Sat 8 AM to 8 PM and Sun 10 AM to 6 PM.'],
       ['Do you offer warranty on dishwasher repairs?', 'Every repair carries a 90-day parts and labour warranty. If the same component fails again within 90 days under normal use, we return at no charge diagnostic, parts, and labour all included. The warranty covers the specific repair we performed, not unrelated future failures.'],
@@ -57,7 +57,7 @@ module.exports = {
       ['Excessive vibration / "walking" across the laundry room floor', 'Floor not level, suspension worn, or shipping bolts still installed (yes, we have removed shipping bolts on machines two years old). We level the unit, check tub balance, and torque the legs.']
     ],
     pricing: [
-      ['Diagnostic visit (waived with repair)', '$65'],
+      ['Diagnostic visit (waived with repair)', '$89'],
       ['Drain pump replacement', '$185 - $275'],
       ['Door boot seal (front-load)', '$280 - $420'],
       ['Drive belt replacement', '$140 - $195'],
@@ -74,7 +74,7 @@ module.exports = {
 <p><strong>Practical Calgary maintenance routine:</strong> First, run a tub-clean cycle monthly with a packet of Affresh or one cup of liquid bleach. This kills the biofilm that hard water minerals lock in. Second, leave the door slightly open between loads Calgary's dry air will cure the seal naturally. Third, every six months, unscrew the inlet hoses and clean the screen filters at both ends; you will be surprised how much sediment Calgary water leaves there. Fourth, never overload the machine Calgary suspension components are already working harder, and a heavy load amplifies the wear on shocks and bearings. Fifth, if you have a water softener loop in your home, route the cold supply for the washer through it; the difference in component life is measurable.</p>
 <p>For front-load owners specifically: do not run the machine in pure cold for every load. Calgary water is so hard that detergent under-dissolves at cold temperatures, leaving a residue that combines with mineral scale and clogs the drum drain holes. A monthly warm or hot cycle with proper HE detergent prevents this.</p>`,
     faq: [
-      ['How much does washer repair cost in Calgary?', 'Calgary washer repairs typically run $185 to $475 for common failures (drain pump, door seal, shocks, inlet valve), with major bearing rebuilds reaching $485-$720. The $65 diagnostic is waived when you proceed. We give a firm written quote before any work begins.'],
+      ['How much does washer repair cost in Calgary?', 'Calgary washer repairs typically run $185 to $475 for common failures (drain pump, door seal, shocks, inlet valve), with major bearing rebuilds reaching $485-$720. The $89 diagnostic is waived when you proceed. We give a firm written quote before any work begins.'],
       ['Do you service Airdrie, Cochrane, Okotoks, and Chestermere?', 'Yes every Calgary CMA community. Our techs cover Airdrie, Cochrane, Okotoks, Chestermere, Strathmore, High River, Langdon, Bragg Creek, and DeWinton. Same-day service is generally available outside of severe weather days.'],
       ['How fast can a washer technician reach me in Calgary?', 'Same-day for most Calgary postal codes when you book before 12 PM Monday-Friday. Saturday same-day depends on capacity. Sunday and evening windows can be scheduled we run 8 AM to 8 PM Mon-Sat and 10 AM to 6 PM Sunday.'],
       ['Do you offer warranty on washer repairs?', 'Yes 90 days on both parts and labour. If the same component fails again under normal use within 90 days, we come back free. Warranty covers the specific repair performed.'],
@@ -98,7 +98,7 @@ module.exports = {
       ['Excessive vibration / dryer "walking" out from the wall', 'Worn drum rollers and idler pulley combined. We replace the entire drum support kit and re-level the unit.']
     ],
     pricing: [
-      ['Diagnostic visit (waived with repair)', '$65'],
+      ['Diagnostic visit (waived with repair)', '$89'],
       ['Heating element (electric)', '$185 - $295'],
       ['Igniter (gas)', '$140 - $215'],
       ['Thermal fuse / high-limit thermostat', '$95 - $165'],
@@ -115,7 +115,7 @@ module.exports = {
 <p><strong>Calgary dryer maintenance routine that actually works:</strong> First, clean the lint filter after every load not just every few loads. Second, have the full duct (lint trap to outside hood) professionally cleaned annually if your duct run exceeds 3 metres or has more than two elbows. Third, in deep winter, check the exterior vent hood after every blizzard if you see ice on the louvre, the dryer is venting against a partial blockage. Fourth, replace flexible foil or vinyl ducting with rigid aluminum; flex duct catches lint at every ridge. Fifth, on gas dryers, schedule a service every two to three years to clean the burner assembly and verify the gas-air mix Calgary's high-altitude air is thinner than design specifications assume, and the burner can run rich without anyone noticing.</p>
 <p>One more Calgary-specific note: if your laundry is in a basement and you smell exhaust gas, your makeup-air situation is wrong. A running dryer pulls roughly 200 cubic feet per minute out of the house, and a tightly sealed Calgary new build cannot replace that air without back-drafting another combustion appliance typically the furnace or hot water tank. We can flag this during the service call but it is a building-envelope issue, not a dryer issue.</p>`,
     faq: [
-      ['How much does dryer repair cost in Calgary?', 'Calgary dryer repairs usually run $140 to $385 heating elements, igniters, thermal fuses, and belt kits sit in the lower half of that range, while gas valve assemblies and control boards reach the upper end. The $65 diagnostic is waived when you proceed.'],
+      ['How much does dryer repair cost in Calgary?', 'Calgary dryer repairs usually run $140 to $385 heating elements, igniters, thermal fuses, and belt kits sit in the lower half of that range, while gas valve assemblies and control boards reach the upper end. The $89 diagnostic is waived when you proceed.'],
       ['Do you service gas dryers in Calgary?', 'Yes and gas dryers are common in Calgary because of inexpensive Alberta natural gas. Our technicians are trained on igniter assemblies, gas valve coils, flame sensors, and ATCO Gas connection requirements. We do not perform gas-line installation work, only repair on the appliance side of the shutoff.'],
       ['How quickly can you reach my Calgary address?', 'For most Calgary postcodes, same-day service is available when you book before 12 PM Mon-Fri. Saturday same-day depends on dispatch capacity. Service hours: Mon-Sat 8 AM to 8 PM, Sun 10 AM to 6 PM Mountain Time.'],
       ['Do you offer warranty on dryer repairs?', '90 days parts and labour on every repair. If the component we replaced fails again under normal use within 90 days, we return at no charge.'],
@@ -139,7 +139,7 @@ module.exports = {
       ['Compartment temperatures fluctuating wildly', 'Thermistor (temperature sensor) failure in either compartment, or main control board reading sensor data incorrectly. We test thermistor resistance against the manufacturer chart at multiple temperatures.']
     ],
     pricing: [
-      ['Diagnostic visit (waived with repair)', '$65'],
+      ['Diagnostic visit (waived with repair)', '$89'],
       ['Evaporator fan motor', '$185 - $285'],
       ['Defrost heater + thermostat kit', '$165 - $245'],
       ['Ice maker assembly', '$240 - $385'],
@@ -157,7 +157,7 @@ module.exports = {
 <p><strong>Calgary fridge maintenance that prevents the expensive failures:</strong> First, vacuum the condenser coil twice a year once in spring and once in fall. Pull the fridge forward, vacuum the back coil, and use a long crevice tool under the unit if your fridge has a bottom-mounted coil. Second, replace the water filter on the package's stated schedule, not based on flow by the time flow drops, the filter has been bypassing contaminants. Third, every two years, wipe the door gasket with a damp cloth and apply a thin film of food-grade silicone grease to keep it pliant. Fourth, set the fridge between 3C and 4C and the freezer at -18C running colder than necessary just runs up your hydro bill and shortens compressor life. Fifth, if you have a built-in fridge (Sub-Zero, Thermador), schedule a coil cleaning every 12 months, not every 24 the integrated cabinet design traps more dust than freestanding units.</p>
 <p>For ice makers specifically: if you do not use the ice maker regularly, turn it off. A dormant ice maker on Calgary water builds up a calcium ring inside the mold within months, and the next batch of ice you make will have a noticeable mineral taste and may stick in the harvest mechanism.</p>`,
     faq: [
-      ['How much does fridge repair cost in Calgary?', 'Most Calgary fridge repairs land between $185 and $475. Compressor replacement (sealed-system work) ranges $685-$1100 and is sometimes not economical on units over 8 years old we will tell you honestly when replacement is the better choice. The $65 diagnostic is waived with repair.'],
+      ['How much does fridge repair cost in Calgary?', 'Most Calgary fridge repairs land between $185 and $475. Compressor replacement (sealed-system work) ranges $685-$1100 and is sometimes not economical on units over 8 years old we will tell you honestly when replacement is the better choice. The $89 diagnostic is waived with repair.'],
       ['Do you handle sealed-system / refrigerant work in Calgary?', 'Yes. Our technicians hold the Alberta certification required for sealed-system refrigerant work (R134a and R600a). We have the recovery, evacuation, and recharge equipment on the truck, and we can handle compressor swaps in-place for most freestanding units.'],
       ['Can you service Sub-Zero, Thermador, and Viking built-ins in Calgary?', 'Yes built-in and integrated fridges in Aspen Woods, Mount Royal, Britannia, Bel-Aire, Roxboro, and Springbank Hill are part of our regular service mix. We carry the specialty tools and parts inventory for these brands.'],
       ['How fast can a fridge technician reach me?', 'Same-day for most Calgary postal codes when you book before 12 PM Monday-Friday. Fridge calls are prioritized when there is risk of food spoilage. Service hours: Mon-Sat 8 AM to 8 PM, Sun 10 AM to 6 PM.'],
@@ -181,7 +181,7 @@ module.exports = {
       ['Display shows error code F1, F2, F3, F7, F9, E0-E9', 'F1/F2 typically map to control board or temperature sensor; F3/F4 to short-circuit conditions in the sensor wiring; F9 to door lock motor faults. We pull the live error history from service mode.']
     ],
     pricing: [
-      ['Diagnostic visit (waived with repair)', '$65'],
+      ['Diagnostic visit (waived with repair)', '$89'],
       ['Bake element (electric)', '$165 - $245'],
       ['Broil element (electric)', '$160 - $235'],
       ['Igniter (gas)', '$175 - $265'],
@@ -198,7 +198,7 @@ module.exports = {
 <p><strong>Calgary oven maintenance that pays off:</strong> First, avoid self-clean cycles unless absolutely necessary, and never run them on a holiday morning when you need the oven for cooking the same day failures cluster around heavy use. Second, check the door gasket every six months; if it is hardened or cracked, the oven leaks heat and the elements run longer to compensate. Third, calibrate your oven against an independent thermometer once a year most modern ovens drift +/- 25F over time, and a calibration check takes 20 minutes. Fourth, on gas ovens, keep the burner port openings clean Calgary's relatively dry indoor air means dust accumulates on the burner ports faster than in humid climates, and clogged ports can cause uneven flame patterns and elevated CO output. Fifth, if your oven has a fan-cooled control compartment, vacuum the cooling vents annually to prevent the control board from overheating during normal cooking.</p>
 <p>For homes with built-in or wall-mounted ovens specifically: have us check the lateral ventilation channels in the cabinet every two years. Calgary builds (especially Springbank Hill, Aspen Woods, and Tuscany) have used tighter cabinet specs in the last decade, and inadequate cooling airflow is the primary cause of premature control board failure on Wolf, Thermador, and high-end JennAir wall ovens.</p>`,
     faq: [
-      ['How much does oven repair cost in Calgary?', 'Calgary oven repairs typically run $165 to $495. Element and igniter replacements sit on the lower end; control boards and door lock assemblies on the upper end. The $65 diagnostic is waived when you proceed with the repair.'],
+      ['How much does oven repair cost in Calgary?', 'Calgary oven repairs typically run $165 to $495. Element and igniter replacements sit on the lower end; control boards and door lock assemblies on the upper end. The $89 diagnostic is waived when you proceed with the repair.'],
       ['Do you service gas ovens in Calgary?', 'Yes. Our techs are trained on glow-bar igniters, gas valve coils, flame sensors, and safety lockout circuits. We do not perform gas-line work upstream of the appliance shut-off, only repairs on the appliance itself.'],
       ['Can you service wall ovens and built-ins in Calgary?', 'Yes single, double, and combi-steam wall ovens from Wolf, Thermador, Viking, Bosch, Miele, KitchenAid, Jenn-Air, and Dacor are part of our regular Calgary service mix.'],
       ['How fast can a technician reach me?', 'Most Calgary postal codes get same-day service when you book before 12 PM Monday-Friday. Hours: Mon-Sat 8 AM to 8 PM, Sun 10 AM to 6 PM.'],
@@ -222,7 +222,7 @@ module.exports = {
       ['Display shows error code F0, F2, F4, E0-E5', 'Maps to surface burner switch shorts (F0), control board (F2), or sensor faults (F4). We pull the diagnostic codes and trace the wiring.']
     ],
     pricing: [
-      ['Diagnostic visit (waived with repair)', '$65'],
+      ['Diagnostic visit (waived with repair)', '$89'],
       ['Radiant element (smoothtop)', '$155 - $245'],
       ['Coil element (electric)', '$95 - $165'],
       ['Surface burner switch', '$120 - $185'],
@@ -239,7 +239,7 @@ module.exports = {
 <p>Induction cooktops have their own Calgary failure pattern. The induction generator board sits in a cavity below the cooktop, and that cavity shares ventilation with the kitchen environment. Calgary's dry winter air carries fine drywall dust and lint that settles on the board's heat sink, eventually reducing cooling capacity to the point where the generator throws thermal protection codes. We pull and clean these boards on Calgary induction units every 3-5 years as a maintenance service.</p>
 <p><strong>Calgary stovetop care that actually works:</strong> First, for smoothtop and induction surfaces, clean with distilled water and a dedicated glass-ceramic cleaner like Cerama Bryte rather than tap water this prevents the mineral film build-up. Second, never use abrasive pads; use a single-edge razor scraper at a low angle for stuck-on residue. Third, on gas burners, lift and clean the burner caps and ports every two months boil-over residue carbonizes if left in place. Fourth, check spark electrodes annually; if you see corrosion, address it before the burner fails to light. Fifth, on induction units, vacuum the underside vents every 6-12 months. Sixth, for any cooktop, never run a burner empty or with an undersized pan that does not cover the heating element both shorten element life dramatically.</p>`,
     faq: [
-      ['How much does stove repair cost in Calgary?', 'Calgary stove repairs usually run $95 to $625 depending on the failure. Coil and switch repairs land near $95-$185; smoothtop element and ignition module repairs $155-$245; full glass cooktop replacements $385-$625. The $65 diagnostic is waived with repair.'],
+      ['How much does stove repair cost in Calgary?', 'Calgary stove repairs usually run $95 to $625 depending on the failure. Coil and switch repairs land near $95-$185; smoothtop element and ignition module repairs $155-$245; full glass cooktop replacements $385-$625. The $89 diagnostic is waived with repair.'],
       ['Do you service induction cooktops in Calgary?', 'Yes. Induction technology has been part of our service mix for over five years, and we carry generator boards and coils for the most common Calgary brands Bosch, Miele, GE Profile, Samsung, and KitchenAid. Built-in induction in Aspen Woods, Springbank Hill, and Mount Royal kitchens is part of our regular work.'],
       ['Do you replace smoothtop glass in Calgary?', 'Yes broken or chipped glass cooktops are one of the most common stove repairs we do in Calgary. Replacement glass for Whirlpool, KitchenAid, Frigidaire, GE, and Samsung is usually in stock. Premium brands (Bosch, Wolf, Miele) require an order, typically 3-5 business days.'],
       ['How fast can a stove technician reach me in Calgary?', 'Same-day for most postal codes when you book before 12 PM Mon-Fri. Burner stuck on high (a safety issue) gets emergency priority. Service hours: Mon-Sat 8 AM to 8 PM, Sun 10 AM to 6 PM.'],
@@ -263,7 +263,7 @@ module.exports = {
       ['Freezer making clicking sound but not running', 'Start relay failing unable to start the compressor. Common on older units (10+ years). Replacement is straightforward and inexpensive.']
     ],
     pricing: [
-      ['Diagnostic visit (waived with repair)', '$65'],
+      ['Diagnostic visit (waived with repair)', '$89'],
       ['Start relay / overload', '$115 - $185'],
       ['Defrost heater / thermostat kit', '$155 - $235'],
       ['Evaporator fan motor', '$175 - $265'],
@@ -280,7 +280,7 @@ module.exports = {
 <p>The second Calgary-specific freezer issue is dust. Calgary garages, in particular, accumulate fine dust from concrete floors, road salt residue, and dry winter air. That dust settles on the condenser coils at the back of the freezer (or underneath, on chest models), and within a year or two, coil heat rejection capacity drops 25-40%. The compressor compensates by running longer, hotter, and harder and eventually fails years before its expected service life. We routinely vacuum coils on Calgary garage freezers as a maintenance service.</p>
 <p><strong>Calgary freezer maintenance for long service life:</strong> First, vacuum the condenser coils every 6 months twice as often as the manufacturer recommends, because Calgary's environment is dustier than design assumptions. Second, check the door gasket every 12 months for cracks or hardening; replace it before it fails completely, since a leaky gasket forces the compressor to run constantly. Third, defrost manual-defrost chest freezers once a year minimum anything more than 1cm of frost adds insulation and reduces efficiency. Fourth, leave at least 5cm of clearance behind and above the unit for ventilation. Fifth, on garage units, verify the freezer is rated for low ambient operation; if not, plan to replace it or relocate it before next winter. Sixth, never store food directly against the cabinet walls the evaporator coils are usually behind the rear wall, and direct contact creates ice patches and inefficient cooling.</p>`,
     faq: [
-      ['How much does freezer repair cost in Calgary?', 'Calgary freezer repairs typically run $115 to $785 depending on the failure. Start relays, thermostats, and gaskets sit at the lower end; sealed-system work and compressor replacement at the upper end. The $65 diagnostic is waived with repair.'],
+      ['How much does freezer repair cost in Calgary?', 'Calgary freezer repairs typically run $115 to $785 depending on the failure. Start relays, thermostats, and gaskets sit at the lower end; sealed-system work and compressor replacement at the upper end. The $89 diagnostic is waived with repair.'],
       ['Do you service garage freezers in Calgary?', 'Yes and garage freezer issues (especially winter under-cooling) are one of our most common winter calls in Calgary. We can advise whether a thermostat retrofit, a heated kit, or a unit replacement makes the most economic sense.'],
       ['Can you repair sealed-system / refrigerant leaks?', 'Yes. Our technicians hold the Alberta certification required for sealed-system refrigerant work, and we have recovery, evacuation, and recharge equipment on the truck.'],
       ['How fast can a freezer technician reach me in Calgary?', 'Same-day priority for freezers food spoilage risk puts these calls high in the dispatch queue. Most Calgary postal codes get same-day service when booking before 12 PM Mon-Fri. Hours: Mon-Sat 8 AM to 8 PM, Sun 10 AM to 6 PM.'],
@@ -304,7 +304,7 @@ module.exports = {
       ['Burner caps loose or rattling', 'Mostly cosmetic but can affect flame pattern. We re-seat the cap, verify the burner head alignment, and replace if warped.']
     ],
     pricing: [
-      ['Diagnostic visit (waived with repair)', '$65'],
+      ['Diagnostic visit (waived with repair)', '$89'],
       ['Spark module replacement', '$185 - $275'],
       ['Spark electrode (single)', '$85 - $145'],
       ['Burner valve / regulator', '$165 - $265'],
@@ -322,7 +322,7 @@ module.exports = {
 <p><strong>Calgary gas stove maintenance that prevents the major failures:</strong> First, every six months, lift the burner caps and clean the ports with a thin wire or pin never a toothpick (which can break off and lodge). Second, wipe the spark electrodes with a dry cloth at the same interval; oil and food residue conducts at low voltages and reduces spark energy. Third, listen to the burner ignition pattern if you hear delayed ignition (a "whoosh" instead of a clean light), schedule service before it gets worse. Fourth, if you renovated your kitchen and reused an existing gas range from a previous home, verify altitude orifices were swapped if the previous installation was below 600 metres. Fifth, never let boil-over liquids dry on burner heads they carbonize and create permanent ignition issues. Sixth, if you smell gas at any time, even faintly, treat it as a real leak: shut off the appliance valve and call us. We carry electronic combustible gas detectors and can pressure-test the appliance to leak-localize within 30 minutes.</p>
 <p>One more important note for Calgary households with high-end gas ranges (Wolf, Viking, Thermador, Bertazzoni, La Cornue): these brands use brass burner components that respond differently to Calgary's gas profile. We are trained on the brand-specific service procedures, and we can re-jet for altitude correctly when units are imported or moved to Calgary from lower elevations.</p>`,
     faq: [
-      ['How much does gas stove repair cost in Calgary?', 'Calgary gas stove repairs typically run $85 to $475. Spark electrodes and minor cleaning sit at the low end; spark modules and gas valves at the upper end. The $65 diagnostic is waived when you proceed with the repair.'],
+      ['How much does gas stove repair cost in Calgary?', 'Calgary gas stove repairs typically run $85 to $475. Spark electrodes and minor cleaning sit at the low end; spark modules and gas valves at the upper end. The $89 diagnostic is waived when you proceed with the repair.'],
       ['Are your technicians licensed for gas appliance repair in Alberta?', 'Yes our gas-stove techs hold the Alberta Class B gas fitter qualifications required for appliance-side repair work, and they carry the proper insurance. We do not perform line work upstream of the appliance shut-off (that requires Class A or Class B with line-work scope), but everything from the appliance shut-off forward is our scope.'],
       ['Do you service Wolf, Viking, and Thermador gas ranges in Calgary?', 'Yes premium gas ranges in Aspen Woods, Springbank Hill, Mount Royal, Bel-Aire, and Britannia kitchens are part of our regular service mix. We carry brand-specific parts and tools, and we know the altitude-correction requirements for these units.'],
       ['How fast can a gas stove technician reach me in Calgary?', 'Same-day for most Calgary postal codes when you book before 12 PM Mon-Fri. Gas-leak calls get emergency priority. Service hours: Mon-Sat 8 AM to 8 PM, Sun 10 AM to 6 PM.'],

@@ -35,7 +35,7 @@ const neighborhoods = [
     era: '1990s–2000s',
     drive: '30 minutes from our 700 6th Ave SW base via Crowchild Trail NW to Hamptons Way',
     dishPara: `The Hamptons is an upscale northwest Calgary family suburb developed through the 1990s and early 2000s around a signature golf course, featuring predominantly large two-storey detached homes with premium finishes. With approximately 7,400 residents, the neighbourhood attracts a homeowner demographic that invested in high-end kitchen packages during construction — Bosch, KitchenAid, and Miele dishwashers are far more common here than in Calgary's average suburban community. These premium units, now 15–25 years old, are approaching and passing the point where factory parts become harder to source, making experienced appliance repair even more valuable. Calgary's Bow River hard water at 150–200 ppm is a significant factor for The Hamptons dishwashers: Miele units in particular show calcium-induced pump motor wear and clogged heat exchanger passages that reduce wash temperature and cleaning performance. We carry Bosch and Miele OEM-equivalent parts and have technician experience with the full range of premium dishwasher brands common in The Hamptons.`,
-    washerPara: `The Hamptons washing machine market reflects the neighbourhood's premium appliance orientation. Many homes feature Bosch front-loaders, Samsung AddWash or FlexWash units, and LG twin-wash configurations. At 15–25 years of age, the original Miele and Bosch washers in some Hamptons homes require specialized bearing and motor brush replacements. Newer Samsung units in the neighbourhood show the typical 5DC (door circuit) and DC (unbalanced load) fault codes common to their design — often resolved with drum counterweight bolt tightening or bearing replacement. LG front-loaders in The Hamptons frequently develop the UE unbalance error when shock absorbers wear, and the OE drain error when pump filters clog with Calgary's higher mineral content. We service all premium washer brands in The Hamptons with the same flat $65 diagnostic fee regardless of brand.`,
+    washerPara: `The Hamptons washing machine market reflects the neighbourhood's premium appliance orientation. Many homes feature Bosch front-loaders, Samsung AddWash or FlexWash units, and LG twin-wash configurations. At 15–25 years of age, the original Miele and Bosch washers in some Hamptons homes require specialized bearing and motor brush replacements. Newer Samsung units in the neighbourhood show the typical 5DC (door circuit) and DC (unbalanced load) fault codes common to their design — often resolved with drum counterweight bolt tightening or bearing replacement. LG front-loaders in The Hamptons frequently develop the UE unbalance error when shock absorbers wear, and the OE drain error when pump filters clog with Calgary's higher mineral content. We service all premium washer brands in The Hamptons with the same flat $89 diagnostic fee regardless of brand.`,
     fridgePara: `Refrigerators in The Hamptons skew significantly toward premium brands — Bosch, Sub-Zero, KitchenAid built-in, and LG Studio counter-depth models are the norm in renovated kitchens, while older homes still contain excellent-condition 2000s-era Samsung and Maytag units. Sub-Zero and KitchenAid built-in refrigerator repairs in The Hamptons are among our most requested specialty services: these units require specific sealed system expertise and OEM parts that most appliance services cannot supply. We provide full Sub-Zero sealed system diagnostics, evaporator coil servicing, and compressor assessment. For Samsung French door and LG linear compressor models — now the most common replacements in The Hamptons — we provide same-day service with parts on hand for ice maker, evaporator fan, and control board repairs.`
   },
   {
@@ -128,7 +128,7 @@ function genDishwasher(n) {
   const slug = n.slug;
   const d = n.display;
   const title = `Dishwasher Repair ${d} Calgary | Neary Appliance`;
-  const desc = `Expert dishwasher repair in ${d}, Calgary — same-day service, flat $65 diagnostic. Book online or email calgary@appliancerepairneary.com.`.substring(0, 160);
+  const desc = `Expert dishwasher repair in ${d}, Calgary — same-day service, flat $89 diagnostic. Book online or email calgary@appliancerepairneary.com.`.substring(0, 160);
   const url = `https://appliancerepairneary.com/dishwasher-repair-${slug}`;
   const h1 = `Dishwasher Repair in ${d}, Calgary`;
 
@@ -153,7 +153,7 @@ function genDishwasher(n) {
 <meta property="og:url" content="${url}">
 <meta property="og:site_name" content="Appliance Repair Near You — Calgary">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${url}#business","name":"Dishwasher Repair ${d} — Calgary Appliance Repair","description":"Same-day dishwasher repair in ${d}, Calgary. Flat $65 diagnostic, 90-day warranty.","url":"${url}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":51.0447,"longitude":-114.0719},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${d}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"Dishwasher Repair"}
+{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${url}#business","name":"Dishwasher Repair ${d} — Calgary Appliance Repair","description":"Same-day dishwasher repair in ${d}, Calgary. Flat $89 diagnostic, 90-day warranty.","url":"${url}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":51.0447,"longitude":-114.0719},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${d}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"Dishwasher Repair"}
 </script>
 </head>
 <body>
@@ -172,7 +172,7 @@ function genDishwasher(n) {
   <div class="container">
     <div class="page-hero-eyebrow">${n.region} &middot; ${d}</div>
     <h1 class="page-h1">${h1}</h1>
-    <div class="answer-box">Same-day dishwasher repair in ${d}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Kenmore, KitchenAid, Miele, GE &amp; more. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty.</div>
+    <div class="answer-box">Same-day dishwasher repair in ${d}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Kenmore, KitchenAid, Miele, GE &amp; more. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty.</div>
     <div class="page-hero-ctas">
       <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="btn-primary">Book Online</a>
       <a href="mailto:calgary@appliancerepairneary.com" class="btn-secondary">Email Us</a>
@@ -182,7 +182,7 @@ function genDishwasher(n) {
 
 <div class="answer-capsule" style="background:#eff6ff;border-left:4px solid #2563eb;padding:1rem 1.25rem;margin:1rem auto;max-width:900px;border-radius:0 8px 8px 0" itemscope itemtype="https://schema.org/Service">
   <div style="font-size:.7rem;font-weight:700;letter-spacing:.08em;color:#2563eb;text-transform:uppercase;margin-bottom:.4rem">Quick Answer</div>
-  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6" itemprop="description">Need dishwasher repair in ${d}? We serve all Calgary neighbourhoods — same-day, flat $65 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. Available 7 days a week.</p>
+  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6" itemprop="description">Need dishwasher repair in ${d}? We serve all Calgary neighbourhoods — same-day, flat $89 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. Available 7 days a week.</p>
 </div>
 
 <div class="trust-bar" role="complementary" aria-label="Trust signals">
@@ -209,7 +209,7 @@ function genDishwasher(n) {
     </ul>
 
     <h2>Repair Cost in ${d}</h2>
-    <p>Flat $65 diagnostic fee, waived when repair proceeds. Most dishwasher repairs in ${d}: $120–$380 parts and labour. Written quote before any work begins — no surprises. All repairs include a 90-day parts and labour warranty.</p>
+    <p>Flat $89 diagnostic fee, waived when repair proceeds. Most dishwasher repairs in ${d}: $120–$380 parts and labour. Written quote before any work begins — no surprises. All repairs include a 90-day parts and labour warranty.</p>
   </div>
 
   <section class="service-details fade-in" aria-label="Common problems and pricing">
@@ -229,7 +229,7 @@ function genDishwasher(n) {
     <table class="pricing-table" aria-label="Repair pricing">
       <thead><tr><th>Repair Type</th><th>Typical Cost (CAD)</th></tr></thead>
       <tbody>
-        <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$65</td></tr>
+        <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$89</td></tr>
         <tr><td>Standard repair — door seal, drain hose, float switch, inlet valve</td><td>$120 – $240</td></tr>
         <tr><td>Complex repair — control board, wash motor, pump assembly</td><td>$240 – $380</td></tr>
       </tbody>
@@ -252,7 +252,7 @@ function genDishwasher(n) {
       <div class="faq-list">
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How quickly can you reach ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service.</p></div></details>
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">Does Calgary hard water damage dishwashers in ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Yes. Calgary's Bow River water at 150–200 ppm mineral hardness accelerates calcium scale accumulation in spray arms, heating elements, and pump seals. We recommend consistent rinse aid use and monthly citric acid cleaning cycles for all ${d} dishwashers.</p></div></details>
-        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How much does dishwasher repair cost in ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Most dishwasher repairs in ${d} run $120–$380 CAD depending on the brand and part. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
+        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How much does dishwasher repair cost in ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Most dishwasher repairs in ${d} run $120–$380 CAD depending on the brand and part. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
       </div>
     </div>
   </section>
@@ -289,7 +289,7 @@ function genDishwasher(n) {
 </div>
 <script>document.addEventListener('DOMContentLoaded',function(){var els=document.querySelectorAll('.fade-in');if('IntersectionObserver' in window){var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target)}})},{threshold:.1});els.forEach(function(el){io.observe(el)})}else{els.forEach(function(el){el.classList.add('visible')})}});</script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How quickly can you reach ${d}?","acceptedAnswer":{"@type":"Answer","text":"${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service."}},{"@type":"Question","name":"Does Calgary hard water damage dishwashers in ${d}?","acceptedAnswer":{"@type":"Answer","text":"Yes. Calgary's Bow River water at 150–200 ppm mineral hardness accelerates calcium scale in spray arms, heating elements, and pump seals. We recommend consistent rinse aid use and monthly citric acid cleaning cycles."}},{"@type":"Question","name":"How much does dishwasher repair cost in ${d}?","acceptedAnswer":{"@type":"Answer","text":"Most dishwasher repairs in ${d} run $120–$380 CAD. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How quickly can you reach ${d}?","acceptedAnswer":{"@type":"Answer","text":"${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service."}},{"@type":"Question","name":"Does Calgary hard water damage dishwashers in ${d}?","acceptedAnswer":{"@type":"Answer","text":"Yes. Calgary's Bow River water at 150–200 ppm mineral hardness accelerates calcium scale in spray arms, heating elements, and pump seals. We recommend consistent rinse aid use and monthly citric acid cleaning cycles."}},{"@type":"Question","name":"How much does dishwasher repair cost in ${d}?","acceptedAnswer":{"@type":"Answer","text":"Most dishwasher repairs in ${d} run $120–$380 CAD. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins."}}]}
 </script>
 </body>
 </html>`;
@@ -300,7 +300,7 @@ function genWasher(n) {
   const slug = n.slug;
   const d = n.display;
   const title = `Washer Repair ${d} Calgary | Neary Appliance`;
-  const desc = `Professional washing machine repair in ${d}, Calgary. Same-day service, flat $65 diagnostic. Book online or email calgary@appliancerepairneary.com.`.substring(0, 160);
+  const desc = `Professional washing machine repair in ${d}, Calgary. Same-day service, flat $89 diagnostic. Book online or email calgary@appliancerepairneary.com.`.substring(0, 160);
   const url = `https://appliancerepairneary.com/washer-repair-${slug}`;
   const h1 = `Washer Repair in ${d}, Calgary`;
 
@@ -325,7 +325,7 @@ function genWasher(n) {
 <meta property="og:url" content="${url}">
 <meta property="og:site_name" content="Appliance Repair Near You — Calgary">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${url}#business","name":"Washer Repair ${d} — Calgary Appliance Repair","description":"Same-day washing machine repair in ${d}, Calgary. Flat $65 diagnostic, 90-day warranty.","url":"${url}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":51.0447,"longitude":-114.0719},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${d}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"Washing Machine Repair"}
+{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${url}#business","name":"Washer Repair ${d} — Calgary Appliance Repair","description":"Same-day washing machine repair in ${d}, Calgary. Flat $89 diagnostic, 90-day warranty.","url":"${url}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":51.0447,"longitude":-114.0719},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${d}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"Washing Machine Repair"}
 </script>
 </head>
 <body>
@@ -344,7 +344,7 @@ function genWasher(n) {
   <div class="container">
     <div class="page-hero-eyebrow">${n.region} &middot; ${d}</div>
     <h1 class="page-h1">${h1}</h1>
-    <div class="answer-box">Same-day washing machine repair in ${d}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Maytag, GE, Kenmore, Miele &amp; more. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty.</div>
+    <div class="answer-box">Same-day washing machine repair in ${d}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Maytag, GE, Kenmore, Miele &amp; more. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty.</div>
     <div class="page-hero-ctas">
       <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="btn-primary">Book Online</a>
       <a href="mailto:calgary@appliancerepairneary.com" class="btn-secondary">Email Us</a>
@@ -354,7 +354,7 @@ function genWasher(n) {
 
 <div class="answer-capsule" style="background:#eff6ff;border-left:4px solid #2563eb;padding:1rem 1.25rem;margin:1rem auto;max-width:900px;border-radius:0 8px 8px 0" itemscope itemtype="https://schema.org/Service">
   <div style="font-size:.7rem;font-weight:700;letter-spacing:.08em;color:#2563eb;text-transform:uppercase;margin-bottom:.4rem">Quick Answer</div>
-  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6" itemprop="description">Need washer repair in ${d}? We serve all Calgary neighbourhoods — same-day, flat $65 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. Available 7 days a week.</p>
+  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6" itemprop="description">Need washer repair in ${d}? We serve all Calgary neighbourhoods — same-day, flat $89 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. Available 7 days a week.</p>
 </div>
 
 <div class="trust-bar" role="complementary" aria-label="Trust signals">
@@ -381,7 +381,7 @@ function genWasher(n) {
     </ul>
 
     <h2>Repair Cost in ${d}</h2>
-    <p>Flat $65 diagnostic fee, waived when repair proceeds. Most washer repairs in ${d}: $120–$420 parts and labour. Written quote before any work begins. All repairs include a 90-day parts and labour warranty.</p>
+    <p>Flat $89 diagnostic fee, waived when repair proceeds. Most washer repairs in ${d}: $120–$420 parts and labour. Written quote before any work begins. All repairs include a 90-day parts and labour warranty.</p>
   </div>
 
   <section class="service-details fade-in" aria-label="Common problems and pricing">
@@ -401,7 +401,7 @@ function genWasher(n) {
     <table class="pricing-table" aria-label="Repair pricing">
       <thead><tr><th>Repair Type</th><th>Typical Cost (CAD)</th></tr></thead>
       <tbody>
-        <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$65</td></tr>
+        <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$89</td></tr>
         <tr><td>Standard repair — lid switch, drain pump, inlet valve, door seal</td><td>$120 – $240</td></tr>
         <tr><td>Complex repair — drum bearing, control board, motor</td><td>$240 – $420</td></tr>
       </tbody>
@@ -424,7 +424,7 @@ function genWasher(n) {
       <div class="faq-list">
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How quickly can you reach ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service.</p></div></details>
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">My washer is making a loud noise during spin — what is it?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Loud rumbling or grinding during spin typically indicates drum bearing failure. This is a repairable condition — we replace the rear bearing, seal, and spider arm in a single visit. Ignoring it can lead to drum shaft damage that increases repair cost.</p></div></details>
-        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How much does washer repair cost in ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Most washer repairs in ${d} run $120–$420 CAD depending on the brand and part. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
+        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How much does washer repair cost in ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Most washer repairs in ${d} run $120–$420 CAD depending on the brand and part. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
       </div>
     </div>
   </section>
@@ -461,7 +461,7 @@ function genWasher(n) {
 </div>
 <script>document.addEventListener('DOMContentLoaded',function(){var els=document.querySelectorAll('.fade-in');if('IntersectionObserver' in window){var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target)}})},{threshold:.1});els.forEach(function(el){io.observe(el)})}else{els.forEach(function(el){el.classList.add('visible')})}});</script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How quickly can you reach ${d}?","acceptedAnswer":{"@type":"Answer","text":"${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service."}},{"@type":"Question","name":"My washer is making a loud noise during spin — what is it?","acceptedAnswer":{"@type":"Answer","text":"Loud rumbling during spin typically indicates drum bearing failure. We replace the rear bearing, seal, and spider arm in a single visit."}},{"@type":"Question","name":"How much does washer repair cost in ${d}?","acceptedAnswer":{"@type":"Answer","text":"Most washer repairs in ${d} run $120–$420 CAD. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How quickly can you reach ${d}?","acceptedAnswer":{"@type":"Answer","text":"${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service."}},{"@type":"Question","name":"My washer is making a loud noise during spin — what is it?","acceptedAnswer":{"@type":"Answer","text":"Loud rumbling during spin typically indicates drum bearing failure. We replace the rear bearing, seal, and spider arm in a single visit."}},{"@type":"Question","name":"How much does washer repair cost in ${d}?","acceptedAnswer":{"@type":"Answer","text":"Most washer repairs in ${d} run $120–$420 CAD. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins."}}]}
 </script>
 </body>
 </html>`;
@@ -472,7 +472,7 @@ function genFridge(n) {
   const slug = n.slug;
   const d = n.display;
   const title = `Fridge Repair ${d} Calgary | Neary Appliance`;
-  const desc = `Expert refrigerator repair in ${d}, Calgary. Same-day service, flat $65 diagnostic. All major brands. Book online or email calgary@appliancerepairneary.com.`.substring(0, 160);
+  const desc = `Expert refrigerator repair in ${d}, Calgary. Same-day service, flat $89 diagnostic. All major brands. Book online or email calgary@appliancerepairneary.com.`.substring(0, 160);
   const url = `https://appliancerepairneary.com/fridge-repair-${slug}`;
   const h1 = `Fridge Repair in ${d}, Calgary`;
 
@@ -497,7 +497,7 @@ function genFridge(n) {
 <meta property="og:url" content="${url}">
 <meta property="og:site_name" content="Appliance Repair Near You — Calgary">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${url}#business","name":"Fridge Repair ${d} — Calgary Appliance Repair","description":"Same-day refrigerator repair in ${d}, Calgary. Flat $65 diagnostic, 90-day warranty.","url":"${url}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":51.0447,"longitude":-114.0719},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${d}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"Refrigerator Repair"}
+{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${url}#business","name":"Fridge Repair ${d} — Calgary Appliance Repair","description":"Same-day refrigerator repair in ${d}, Calgary. Flat $89 diagnostic, 90-day warranty.","url":"${url}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":51.0447,"longitude":-114.0719},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${d}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"Refrigerator Repair"}
 </script>
 </head>
 <body>
@@ -516,7 +516,7 @@ function genFridge(n) {
   <div class="container">
     <div class="page-hero-eyebrow">${n.region} &middot; ${d}</div>
     <h1 class="page-h1">${h1}</h1>
-    <div class="answer-box">Same-day refrigerator repair in ${d}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Frigidaire, Maytag, GE, Sub-Zero &amp; more. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty.</div>
+    <div class="answer-box">Same-day refrigerator repair in ${d}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Frigidaire, Maytag, GE, Sub-Zero &amp; more. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty.</div>
     <div class="page-hero-ctas">
       <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="btn-primary">Book Online</a>
       <a href="mailto:calgary@appliancerepairneary.com" class="btn-secondary">Email Us</a>
@@ -526,7 +526,7 @@ function genFridge(n) {
 
 <div class="answer-capsule" style="background:#eff6ff;border-left:4px solid #2563eb;padding:1rem 1.25rem;margin:1rem auto;max-width:900px;border-radius:0 8px 8px 0" itemscope itemtype="https://schema.org/Service">
   <div style="font-size:.7rem;font-weight:700;letter-spacing:.08em;color:#2563eb;text-transform:uppercase;margin-bottom:.4rem">Quick Answer</div>
-  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6" itemprop="description">Need fridge repair in ${d}? We serve all Calgary neighbourhoods — same-day, flat $65 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. Available 7 days a week.</p>
+  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6" itemprop="description">Need fridge repair in ${d}? We serve all Calgary neighbourhoods — same-day, flat $89 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. Available 7 days a week.</p>
 </div>
 
 <div class="trust-bar" role="complementary" aria-label="Trust signals">
@@ -553,7 +553,7 @@ function genFridge(n) {
     </ul>
 
     <h2>Repair Cost in ${d}</h2>
-    <p>Flat $65 diagnostic fee, waived when repair proceeds. Most fridge repairs in ${d}: $120–$480 parts and labour. Written quote before any work begins. All repairs include a 90-day parts and labour warranty.</p>
+    <p>Flat $89 diagnostic fee, waived when repair proceeds. Most fridge repairs in ${d}: $120–$480 parts and labour. Written quote before any work begins. All repairs include a 90-day parts and labour warranty.</p>
   </div>
 
   <section class="service-details fade-in" aria-label="Common problems and pricing">
@@ -573,7 +573,7 @@ function genFridge(n) {
     <table class="pricing-table" aria-label="Repair pricing">
       <thead><tr><th>Repair Type</th><th>Typical Cost (CAD)</th></tr></thead>
       <tbody>
-        <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$65</td></tr>
+        <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$89</td></tr>
         <tr><td>Standard repair — defrost heater, fan motor, inlet valve, thermostat</td><td>$120 – $280</td></tr>
         <tr><td>Complex repair — ice maker assembly, control board, sealed system</td><td>$280 – $480</td></tr>
       </tbody>
@@ -596,7 +596,7 @@ function genFridge(n) {
       <div class="faq-list">
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How quickly can you reach ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service.</p></div></details>
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">My fridge is not cooling — what could be wrong?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>A refrigerator that is not cooling properly is typically caused by a failed evaporator fan motor, a defrost system fault (heater, thermostat, or timer), or in more serious cases a compressor or sealed system issue. A diagnostic visit identifies the root cause before any repair work begins.</p></div></details>
-        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How much does fridge repair cost in ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Most refrigerator repairs in ${d} run $120–$480 CAD depending on the brand and part. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
+        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How much does fridge repair cost in ${d}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Most refrigerator repairs in ${d} run $120–$480 CAD depending on the brand and part. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
       </div>
     </div>
   </section>
@@ -633,7 +633,7 @@ function genFridge(n) {
 </div>
 <script>document.addEventListener('DOMContentLoaded',function(){var els=document.querySelectorAll('.fade-in');if('IntersectionObserver' in window){var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target)}})},{threshold:.1});els.forEach(function(el){io.observe(el)})}else{els.forEach(function(el){el.classList.add('visible')})}});</script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How quickly can you reach ${d}?","acceptedAnswer":{"@type":"Answer","text":"${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service."}},{"@type":"Question","name":"My fridge is not cooling — what could be wrong?","acceptedAnswer":{"@type":"Answer","text":"A refrigerator that is not cooling is typically caused by a failed evaporator fan motor, defrost system fault, or compressor issue. A diagnostic visit identifies the root cause before any repair work begins."}},{"@type":"Question","name":"How much does fridge repair cost in ${d}?","acceptedAnswer":{"@type":"Answer","text":"Most refrigerator repairs in ${d} run $120–$480 CAD. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How quickly can you reach ${d}?","acceptedAnswer":{"@type":"Answer","text":"${d} is ${n.drive}. We typically dispatch within 2–4 hours of booking and can often provide same-day service."}},{"@type":"Question","name":"My fridge is not cooling — what could be wrong?","acceptedAnswer":{"@type":"Answer","text":"A refrigerator that is not cooling is typically caused by a failed evaporator fan motor, defrost system fault, or compressor issue. A diagnostic visit identifies the root cause before any repair work begins."}},{"@type":"Question","name":"How much does fridge repair cost in ${d}?","acceptedAnswer":{"@type":"Answer","text":"Most refrigerator repairs in ${d} run $120–$480 CAD. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins."}}]}
 </script>
 </body>
 </html>`;

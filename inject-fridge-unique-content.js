@@ -80,7 +80,7 @@ IMPORTANT RULES:
 - intro_p MUST mention 2-3 REAL local neighbourhood names specific to that city.
 - Keep brand names in this set: Samsung, LG, Whirlpool, Bosch, GE, Frigidaire, Kenmore, Maytag.
 - Keep phone number: ${PHONE}
-- Keep pricing: $65 diagnostic, $120-$350 range, 90-day warranty.
+- Keep pricing: $89 diagnostic, $120-$350 range, 90-day warranty.
 - GTA/Ontario cities: mention Lake Ontario humidity / hard water / Ontario winters / condo vs house mix.
 - Alberta cities: mention dry chinook climate / prairie winters / Bow/North Saskatchewan River water / newer suburban builds.
 - FAQ: 4 questions total, city-specific (mention city name in at least 2 Qs). Answers 2-3 sentences each.

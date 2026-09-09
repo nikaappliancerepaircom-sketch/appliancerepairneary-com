@@ -140,7 +140,7 @@ const neighborhoods = [
   },
   {
     slug: 'red-carpet', display: 'Red Carpet', region: 'SE', eyebrow: 'Calgary SE · Red Carpet',
-    dw_para: `Red Carpet is a small SE Calgary residential community of approximately 1,745 homes located near Forest Lawn and 17th Avenue SE, developed primarily in the 1960s–1970s as an affordable family neighbourhood. Dishwasher repair in Red Carpet tends to involve mid-range and entry-level machines — Whirlpool, Frigidaire, GE, and Maytag dishwashers from the 1990s–2000s that have been running continuously for 20+ years. These machines present predictable failure patterns: drain pump wear, water inlet valve blockages, control board failures, and door latch deterioration. Calgary's 150–200 ppm hard water accelerates component wear in mid-range machines faster than in premium brands with better filtration systems. Many Red Carpet homeowners face the repair-vs-replace decision given the age of their machines; our flat $65 diagnostic provides honest guidance on whether repair is economical. Our technicians reach Red Carpet in approximately 25–30 minutes from 700 6th Ave SW.`,
+    dw_para: `Red Carpet is a small SE Calgary residential community of approximately 1,745 homes located near Forest Lawn and 17th Avenue SE, developed primarily in the 1960s–1970s as an affordable family neighbourhood. Dishwasher repair in Red Carpet tends to involve mid-range and entry-level machines — Whirlpool, Frigidaire, GE, and Maytag dishwashers from the 1990s–2000s that have been running continuously for 20+ years. These machines present predictable failure patterns: drain pump wear, water inlet valve blockages, control board failures, and door latch deterioration. Calgary's 150–200 ppm hard water accelerates component wear in mid-range machines faster than in premium brands with better filtration systems. Many Red Carpet homeowners face the repair-vs-replace decision given the age of their machines; our flat $89 diagnostic provides honest guidance on whether repair is economical. Our technicians reach Red Carpet in approximately 25–30 minutes from 700 6th Ave SW.`,
     dw_issues: ['Whirlpool and Frigidaire 20+ year drain pump and inlet valve replacement', 'GE and Maytag control board failures in long-service dishwashers', 'Door latch and door spring replacement in aging mid-range machines', 'Calcium scale throughout water system from 150–200 ppm water over 20+ years'],
     ws_para: `Washer repair in Red Carpet is predominantly top-load Whirlpool, GE, and Maytag machines from the 1990s–2000s. These are durable machines that have been running 20–25 years and are now developing transmission, pump, and lid switch failures. We carry common parts for all legacy top-load brands and perform same-day repairs on most standard component failures.`,
     ws_issues: ['Whirlpool and Maytag top-loader transmission and agitator coupler failures', 'GE top-loader pump and lid switch replacement in 20+ year old units', 'Frigidaire washer control board and water valve diagnostics', 'Drive belt and motor pulley wear in long-service top-load machines'],
@@ -171,9 +171,9 @@ function buildPage(n, serviceSlug, serviceName, serviceShort, para, issues, near
   const idSuffix = `${slug.replace(/-/g,'_')}-${serviceSlug.charAt(0)}`;
   const canonical = `https://appliancerepairneary.com/${serviceSlug}-repair-${slug}`;
   const title = `${serviceName} ${display} Calgary | Neary Appliance`;
-  const metaDesc = `${serviceName} in ${display}, Calgary ${n.region} — same-day, flat $65 diagnostic, 90-day warranty. Book online or email calgary@appliancerepairneary.com.`;
+  const metaDesc = `${serviceName} in ${display}, Calgary ${n.region} — same-day, flat $89 diagnostic, 90-day warranty. Book online or email calgary@appliancerepairneary.com.`;
   const h1 = `${serviceName} in ${display}, Calgary`;
-  const answerText = `Same-day ${serviceShort} repair in ${display}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Kenmore, KitchenAid, Miele, GE &amp; more. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty.`;
+  const answerText = `Same-day ${serviceShort} repair in ${display}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Kenmore, KitchenAid, Miele, GE &amp; more. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty.`;
   const issuesHtml = issues.map(i => `<li><strong>${i}</strong></li>`).join('\n      ');
   const nearbyHtml = nearby.map(n => {
     const [href, label] = n.split('|');
@@ -208,7 +208,7 @@ ${CSS}
 <meta property="og:url" content="${canonical}">
 <meta property="og:site_name" content="Appliance Repair Near You — Calgary">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${canonical}#business","name":"${serviceType} ${display} — Calgary Appliance Repair","description":"Same-day ${serviceType} in ${display}, Calgary. Flat $65 diagnostic, 90-day warranty.","url":"${canonical}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${display}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"${serviceType}"}
+{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${canonical}#business","name":"${serviceType} ${display} — Calgary Appliance Repair","description":"Same-day ${serviceType} in ${display}, Calgary. Flat $89 diagnostic, 90-day warranty.","url":"${canonical}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${display}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"${serviceType}"}
 </script>
 </head>
 <body>
@@ -234,7 +234,7 @@ ${CSS}
 </section>
 <div class="answer-capsule" style="background:#eff6ff;border-left:4px solid #2563eb;padding:1rem 1.25rem;margin:1rem auto;max-width:900px;border-radius:0 8px 8px 0">
   <div style="font-size:.7rem;font-weight:700;letter-spacing:.08em;color:#2563eb;text-transform:uppercase;margin-bottom:.4rem">Quick Answer</div>
-  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6">Need ${serviceShort} repair in ${display}? Same-day available, flat $65 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. 7 days a week.</p>
+  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6">Need ${serviceShort} repair in ${display}? Same-day available, flat $89 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. 7 days a week.</p>
 </div>
 <div class="trust-bar"><div class="trust-bar-inner"><div class="trust-item">&#128205; Local Technicians</div><div class="trust-item">&#11088; 4.9/5 Rating</div><div class="trust-item">&#9873; Same-Day Available</div><div class="trust-item">&#10003; 90-Day Warranty</div></div></div>
 <main class="page-main container" id="main-content">
@@ -246,14 +246,14 @@ ${CSS}
       ${issuesHtml}
     </ul>
     <h2>Repair Cost in ${display}</h2>
-    <p>Flat $65 diagnostic fee, waived when repair proceeds. Most ${serviceShort} repairs in ${display}: $120–$380 parts and labour. Written quote before any work begins. All repairs include a 90-day parts and labour warranty.</p>
+    <p>Flat $89 diagnostic fee, waived when repair proceeds. Most ${serviceShort} repairs in ${display}: $120–$380 parts and labour. Written quote before any work begins. All repairs include a 90-day parts and labour warranty.</p>
   </div>
   <section class="service-details fade-in">
     <div class="section-label">Pricing</div>
     <h2 class="section-title">${serviceName} Cost in ${display}</h2>
     <table class="pricing-table"><thead><tr><th>Repair Type</th><th>Typical Cost (CAD)</th></tr></thead>
     <tbody>
-      <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$65</td></tr>
+      <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$89</td></tr>
       <tr><td>Standard repair — common component failures</td><td>$120 – $240</td></tr>
       <tr><td>Complex repair — control board, motor, sealed system</td><td>$240 – $380</td></tr>
     </tbody></table>
@@ -272,7 +272,7 @@ ${CSS}
       <h2>FAQ — ${serviceName} in ${display}</h2>
       <div class="faq-list">
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">Do you offer same-day ${serviceShort} repair in ${display}?</span><span class="faq-icon">+</span></summary><div class="faq-answer"><p>Yes — we offer same-day ${serviceShort} repair throughout ${display}, Calgary. Book before noon on weekdays for same-day service. We dispatch from 700 6th Ave SW, Calgary.</p></div></details>
-        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">What does ${serviceShort} repair cost in ${display}?</span><span class="faq-icon">+</span></summary><div class="faq-answer"><p>Most repairs run $120–$380 CAD parts and labour. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
+        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">What does ${serviceShort} repair cost in ${display}?</span><span class="faq-icon">+</span></summary><div class="faq-answer"><p>Most repairs run $120–$380 CAD parts and labour. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">Which brands do you repair in ${display}?</span><span class="faq-icon">+</span></summary><div class="faq-answer"><p>We repair Samsung, LG, Whirlpool, Bosch, GE, Frigidaire, Maytag, Electrolux, KitchenAid, Kenmore, Miele, and most other brands found in ${display} homes.</p></div></details>${hwFaq}
       </div>
     </div>
@@ -297,7 +297,7 @@ ${CSS}
 <div class="sticky-cta"><a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="sticky-btn sticky-book">Book Online &rarr;</a></div>
 <script>document.addEventListener('DOMContentLoaded',function(){var els=document.querySelectorAll('.fade-in');if('IntersectionObserver' in window){var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target)}})},{threshold:.1});els.forEach(function(el){io.observe(el)})}else{els.forEach(function(el){el.classList.add('visible')})}});<\/script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you offer same-day ${serviceShort} repair in ${display}?","acceptedAnswer":{"@type":"Answer","text":"Yes — we offer same-day ${serviceShort} repair throughout ${display}, Calgary. Book before noon on weekdays for same-day service."}},{"@type":"Question","name":"What does ${serviceShort} repair cost in ${display}?","acceptedAnswer":{"@type":"Answer","text":"Most repairs run $120–$380 CAD parts and labour. The flat $65 diagnostic fee is waived when you proceed with the repair. Written quote before any work begins."}},{"@type":"Question","name":"Which brands do you repair in ${display}?","acceptedAnswer":{"@type":"Answer","text":"We repair Samsung, LG, Whirlpool, Bosch, GE, Frigidaire, Maytag, Electrolux, KitchenAid, Kenmore, Miele, and most other brands found in ${display} homes."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you offer same-day ${serviceShort} repair in ${display}?","acceptedAnswer":{"@type":"Answer","text":"Yes — we offer same-day ${serviceShort} repair throughout ${display}, Calgary. Book before noon on weekdays for same-day service."}},{"@type":"Question","name":"What does ${serviceShort} repair cost in ${display}?","acceptedAnswer":{"@type":"Answer","text":"Most repairs run $120–$380 CAD parts and labour. The flat $89 diagnostic fee is waived when you proceed with the repair. Written quote before any work begins."}},{"@type":"Question","name":"Which brands do you repair in ${display}?","acceptedAnswer":{"@type":"Answer","text":"We repair Samsung, LG, Whirlpool, Bosch, GE, Frigidaire, Maytag, Electrolux, KitchenAid, Kenmore, Miele, and most other brands found in ${display} homes."}}]}
 </script>
 </body>
 </html>`;

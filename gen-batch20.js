@@ -80,10 +80,10 @@ function buildPage(nbKey, service) {
   const serviceType = service === 'dishwasher' ? 'Dishwasher Repair' : service === 'washer' ? 'Washer Repair' : 'Refrigerator Repair';
 
   const answerBox = service === 'dishwasher'
-    ? `Same-day dishwasher repair in ${d.name}, Calgary. All major brands serviced. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty. Calgary 150&ndash;200 ppm hard water specialists.`
+    ? `Same-day dishwasher repair in ${d.name}, Calgary. All major brands serviced. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty. Calgary 150&ndash;200 ppm hard water specialists.`
     : service === 'washer'
-    ? `Same-day washing machine repair in ${d.name}, Calgary. All major brands fixed. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty.`
-    : `Same-day refrigerator repair in ${d.name}, Calgary. All major brands fixed. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty.`;
+    ? `Same-day washing machine repair in ${d.name}, Calgary. All major brands fixed. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty.`
+    : `Same-day refrigerator repair in ${d.name}, Calgary. All major brands fixed. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty.`;
 
   const faq1a = `${d.name} is approximately ${d.dist} minutes from our 700 6th Ave SW location. We typically dispatch within 2-3 hours of booking. Book before noon on weekdays for same-day service.`;
   const faq2q = service === 'dishwasher' ? `How does Calgary hard water affect dishwashers in ${d.name}?`
@@ -94,7 +94,7 @@ function buildPage(nbKey, service) {
     : service === 'washer'
     ? `Yes — we service all washer types in ${d.name}. Brands include Samsung, LG, Whirlpool, Maytag, Kenmore, Miele, and Electrolux. Both top-load agitator and front-load high-efficiency models repaired.`
     : `We repair all major brands in ${d.name} including Samsung, LG, Whirlpool, GE, Frigidaire, KitchenAid, Kenmore, Maytag, Bosch, and Miele. All configurations serviced.`;
-  const faq3a = `Most ${svcLabel.toLowerCase()} repairs in ${d.name} run ${stdPrice.replace(' - ',' to ')} to ${maxRange} CAD. The flat $65 diagnostic fee is waived when you proceed with the repair. Written quote before any work begins.`;
+  const faq3a = `Most ${svcLabel.toLowerCase()} repairs in ${d.name} run ${stdPrice.replace(' - ',' to ')} to ${maxRange} CAD. The flat $89 diagnostic fee is waived when you proceed with the repair. Written quote before any work begins.`;
 
   const faqJSON = [
     `{"@type":"Question","name":"How quickly can you reach ${d.name} for ${svcLabel.toLowerCase()} repair?","acceptedAnswer":{"@type":"Answer","text":"${faq1a}"}}`,
@@ -127,7 +127,7 @@ function buildPage(nbKey, service) {
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>${svcFull} ${d.name} Calgary | Neary Appliance</title>
-<meta name="description" content="${svcFull} in ${d.name}, Calgary - same-day service, flat $65 diagnostic. Serving ${d.area} homes. 90-day warranty. Book online.">
+<meta name="description" content="${svcFull} in ${d.name}, Calgary - same-day service, flat $89 diagnostic. Serving ${d.area} homes. 90-day warranty. Book online.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://appliancerepairneary.com/${urlSlug}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -142,7 +142,7 @@ ${CSS}
 <meta property="og:url" content="https://appliancerepairneary.com/${urlSlug}">
 <meta property="og:site_name" content="Appliance Repair Near You - Calgary">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ProfessionalService","@id":"https://appliancerepairneary.com/${urlSlug}#business","name":"${svcFull} ${d.name} - Calgary Appliance Repair","description":"Same-day ${service} repair in ${d.name}, Calgary. Flat $65 diagnostic, 90-day warranty.","url":"https://appliancerepairneary.com/${urlSlug}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":${d.lat},"longitude":${d.lng}},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${d.name}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"${serviceType}"}
+{"@context":"https://schema.org","@type":"ProfessionalService","@id":"https://appliancerepairneary.com/${urlSlug}#business","name":"${svcFull} ${d.name} - Calgary Appliance Repair","description":"Same-day ${service} repair in ${d.name}, Calgary. Flat $89 diagnostic, 90-day warranty.","url":"https://appliancerepairneary.com/${urlSlug}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":${d.lat},"longitude":${d.lng}},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${d.name}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"${serviceType}"}
 </script>
 </head>
 <body>
@@ -168,7 +168,7 @@ ${CSS}
 </section>
 <div class="answer-capsule" style="background:#eff6ff;border-left:4px solid #2563eb;padding:1rem 1.25rem;margin:1rem auto;max-width:900px;border-radius:0 8px 8px 0" itemscope itemtype="https://schema.org/Service">
   <div style="font-size:.7rem;font-weight:700;letter-spacing:.08em;color:#2563eb;text-transform:uppercase;margin-bottom:.4rem">Quick Answer</div>
-  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6" itemprop="description">Need ${service} repair in ${d.name}? Same-day, flat $65 diagnostic. <a href="${BOOK_URL}" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. Available 7 days a week.</p>
+  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6" itemprop="description">Need ${service} repair in ${d.name}? Same-day, flat $89 diagnostic. <a href="${BOOK_URL}" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. Available 7 days a week.</p>
 </div>
 <div class="trust-bar" role="complementary" aria-label="Trust signals">
   <div class="trust-bar-inner">
@@ -187,7 +187,7 @@ ${CSS}
       ${issueList}
     </ul>
     <h2>Repair Cost in ${d.name}</h2>
-    <p>Flat $65 diagnostic fee, waived when repair proceeds. Most ${service} repairs in ${d.name}: ${stdPrice} to ${maxRange} parts and labour. Written quote before any work begins. All repairs include a 90-day parts and labour warranty.</p>
+    <p>Flat $89 diagnostic fee, waived when repair proceeds. Most ${service} repairs in ${d.name}: ${stdPrice} to ${maxRange} parts and labour. Written quote before any work begins. All repairs include a 90-day parts and labour warranty.</p>
   </div>
   <section class="service-details fade-in" aria-label="Common problems and pricing">
     <div class="section-label">Common issues</div>
@@ -200,7 +200,7 @@ ${CSS}
     <table class="pricing-table" aria-label="Repair pricing">
       <thead><tr><th>Repair Type</th><th>Typical Cost (CAD)</th></tr></thead>
       <tbody>
-        <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$65</td></tr>
+        <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$89</td></tr>
         ${stdRow}
       </tbody>
     </table>

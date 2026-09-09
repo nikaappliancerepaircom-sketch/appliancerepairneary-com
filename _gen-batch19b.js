@@ -45,7 +45,7 @@ function buildPage(p) {
   const idSuffix = `${slug.replace(/-/g,'_')}-${serviceSlug.charAt(0)}`;
   const canonical = `https://appliancerepairneary.com/${serviceSlug}-repair-${slug}`;
   const title = `${serviceName} ${display} Calgary | Neary Appliance`;
-  const metaDesc = `${serviceName} in ${display}, Calgary — same-day, flat $65 diagnostic, 90-day warranty. Book online or email calgary@appliancerepairneary.com.`;
+  const metaDesc = `${serviceName} in ${display}, Calgary — same-day, flat $89 diagnostic, 90-day warranty. Book online or email calgary@appliancerepairneary.com.`;
   const issuesHtml = issues.map(i => `<li><strong>${i}</strong></li>`).join('\n      ');
   const nearbyHtml = nearby.map(n => {
     const [href, label] = n.split('|');
@@ -69,7 +69,7 @@ function buildPage(p) {
 <link rel="stylesheet" href="/tokens.css">
 <style>${CSS}</style>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${canonical}#business","name":"${serviceType} ${display} — Calgary Appliance Repair","description":"Same-day ${serviceType} in ${display}, Calgary. Flat $65 diagnostic, 90-day warranty.","url":"${canonical}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${display}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"${serviceType}"}
+{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${canonical}#business","name":"${serviceType} ${display} — Calgary Appliance Repair","description":"Same-day ${serviceType} in ${display}, Calgary. Flat $89 diagnostic, 90-day warranty.","url":"${canonical}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${display}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"${serviceType}"}
 </script>
 </head>
 <body>
@@ -79,7 +79,7 @@ function buildPage(p) {
 <section class="page-hero"><div class="container">
   <div class="page-hero-eyebrow">${eyebrow}</div>
   <h1 class="page-h1">${serviceName} in ${display}, Calgary</h1>
-  <div class="answer-box">Same-day ${serviceShort} repair in ${display}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Kenmore, KitchenAid, Miele, GE &amp; more. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty.</div>
+  <div class="answer-box">Same-day ${serviceShort} repair in ${display}, Calgary. We fix all major brands — Samsung, LG, Whirlpool, Bosch, Kenmore, KitchenAid, Miele, GE &amp; more. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty.</div>
   <div class="page-hero-ctas">
     <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="btn-primary">Book Online</a>
     <a href="mailto:calgary@appliancerepairneary.com" class="btn-secondary">Email Us</a>
@@ -87,7 +87,7 @@ function buildPage(p) {
 </div></section>
 <div class="answer-capsule" style="background:#eff6ff;border-left:4px solid #2563eb;padding:1rem 1.25rem;margin:1rem auto;max-width:900px;border-radius:0 8px 8px 0">
   <div style="font-size:.7rem;font-weight:700;letter-spacing:.08em;color:#2563eb;text-transform:uppercase;margin-bottom:.4rem">Quick Answer</div>
-  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6">Need ${serviceShort} repair in ${display}? Same-day available, flat $65 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. 7 days a week.</p>
+  <p style="margin:0;color:#1e3a5f;font-size:.9rem;line-height:1.6">Need ${serviceShort} repair in ${display}? Same-day available, flat $89 diagnostic. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#2563eb;font-weight:600">calgary@appliancerepairneary.com</a>. 7 days a week.</p>
 </div>
 <div class="trust-bar"><div class="trust-bar-inner"><div class="trust-item">&#128205; Local Technicians</div><div class="trust-item">&#11088; 4.9/5 Rating</div><div class="trust-item">&#9873; Same-Day Available</div><div class="trust-item">&#10003; 90-Day Warranty</div></div></div>
 <main class="page-main container" id="main-content">
@@ -99,14 +99,14 @@ function buildPage(p) {
       ${issuesHtml}
     </ul>
     <h2>Repair Cost in ${display}</h2>
-    <p>Flat $65 diagnostic fee, waived when repair proceeds. Most ${serviceShort} repairs in ${display}: $120–$380 parts and labour. Written quote before any work. 90-day parts and labour warranty on all repairs.</p>
+    <p>Flat $89 diagnostic fee, waived when repair proceeds. Most ${serviceShort} repairs in ${display}: $120–$380 parts and labour. Written quote before any work. 90-day parts and labour warranty on all repairs.</p>
   </div>
   <section class="service-details fade-in">
     <div class="section-label">Pricing</div>
     <h2 class="section-title">${serviceName} Cost in ${display}</h2>
     <table class="pricing-table"><thead><tr><th>Repair Type</th><th>Typical Cost (CAD)</th></tr></thead>
     <tbody>
-      <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$65</td></tr>
+      <tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$89</td></tr>
       <tr><td>Standard repair — common component failures</td><td>$120 – $240</td></tr>
       <tr><td>Complex repair — control board, motor, sealed system</td><td>$240 – $380</td></tr>
     </tbody></table>
@@ -123,7 +123,7 @@ function buildPage(p) {
     <h2>FAQ — ${serviceName} in ${display}</h2>
     <div class="faq-list">
       <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">Do you offer same-day ${serviceShort} repair in ${display}?</span><span class="faq-icon">+</span></summary><div class="faq-answer"><p>Yes — same-day ${serviceShort} repair in ${display}, Calgary. Book before noon on weekdays. We dispatch from 700 6th Ave SW.</p></div></details>
-      <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">What does ${serviceShort} repair cost in ${display}?</span><span class="faq-icon">+</span></summary><div class="faq-answer"><p>Most repairs run $120–$380 CAD. The $65 diagnostic fee is waived when you proceed. Written quote before any work.</p></div></details>
+      <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">What does ${serviceShort} repair cost in ${display}?</span><span class="faq-icon">+</span></summary><div class="faq-answer"><p>Most repairs run $120–$380 CAD. The $89 diagnostic fee is waived when you proceed. Written quote before any work.</p></div></details>
       <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">Which brands do you repair in ${display}?</span><span class="faq-icon">+</span></summary><div class="faq-answer"><p>We repair Samsung, LG, Whirlpool, Bosch, GE, Frigidaire, Maytag, Electrolux, KitchenAid, Kenmore, Miele, and most other brands found in ${display} homes.</p></div></details>
     </div>
   </div></section>
@@ -147,7 +147,7 @@ function buildPage(p) {
 <div class="sticky-cta"><a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="sticky-btn sticky-book">Book Online &rarr;</a></div>
 <script>document.addEventListener('DOMContentLoaded',function(){var els=document.querySelectorAll('.fade-in');if('IntersectionObserver' in window){var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target)}})},{threshold:.1});els.forEach(function(el){io.observe(el)})}else{els.forEach(function(el){el.classList.add('visible')})}});<\/script>
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you offer same-day ${serviceShort} repair in ${display}?","acceptedAnswer":{"@type":"Answer","text":"Yes — same-day ${serviceShort} repair in ${display}, Calgary. Book before noon on weekdays."}},{"@type":"Question","name":"What does ${serviceShort} repair cost in ${display}?","acceptedAnswer":{"@type":"Answer","text":"Most repairs run $120–$380 CAD. The $65 diagnostic fee is waived when you proceed. Written quote before any work."}},{"@type":"Question","name":"Which brands do you repair in ${display}?","acceptedAnswer":{"@type":"Answer","text":"We repair Samsung, LG, Whirlpool, Bosch, GE, Frigidaire, Maytag, Electrolux, KitchenAid, Kenmore, Miele, and most other brands."}}]}
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Do you offer same-day ${serviceShort} repair in ${display}?","acceptedAnswer":{"@type":"Answer","text":"Yes — same-day ${serviceShort} repair in ${display}, Calgary. Book before noon on weekdays."}},{"@type":"Question","name":"What does ${serviceShort} repair cost in ${display}?","acceptedAnswer":{"@type":"Answer","text":"Most repairs run $120–$380 CAD. The $89 diagnostic fee is waived when you proceed. Written quote before any work."}},{"@type":"Question","name":"Which brands do you repair in ${display}?","acceptedAnswer":{"@type":"Answer","text":"We repair Samsung, LG, Whirlpool, Bosch, GE, Frigidaire, Maytag, Electrolux, KitchenAid, Kenmore, Miele, and most other brands."}}]}
 </script>
 </body>
 </html>`;

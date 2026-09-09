@@ -274,10 +274,10 @@ function generatePage(neighborhood, service) {
   const slug = `${service.slug}-${neighborhood.slug}`;
   const url = `${BASE_URL}/${slug}`;
   const pageTitle = `${service.title} ${neighborhood.name} Calgary | Same-Day Appliance Repair`;
-  const metaDesc = `${service.title} in ${neighborhood.name}, Calgary — same-day service, flat $65 diagnostic. Book online or email ${EMAIL}.`;
+  const metaDesc = `${service.title} in ${neighborhood.name}, Calgary — same-day service, flat $89 diagnostic. Book online or email ${EMAIL}.`;
   const h1 = `${service.title} in ${neighborhood.name}, Calgary`;
-  const answerBox = `Same-day ${service.appliance} repair in ${neighborhood.name}, ${neighborhood.area}, Calgary. We fix all major brands — ${service.commonBrandsLine}. Flat $65 diagnostic, waived when repair proceeds. 90-day warranty.`;
-  const quickAnswer = `Need ${service.appliance} repair in ${neighborhood.name}? We serve all Calgary neighbourhoods — same-day, flat $65 diagnostic. <a href="${BOOKING_URL}" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:${EMAIL}" style="color:#2563eb;font-weight:600">${EMAIL}</a>. Available 7 days a week.`;
+  const answerBox = `Same-day ${service.appliance} repair in ${neighborhood.name}, ${neighborhood.area}, Calgary. We fix all major brands — ${service.commonBrandsLine}. Flat $89 diagnostic, waived when repair proceeds. 90-day warranty.`;
+  const quickAnswer = `Need ${service.appliance} repair in ${neighborhood.name}? We serve all Calgary neighbourhoods — same-day, flat $89 diagnostic. <a href="${BOOKING_URL}" style="color:#2563eb;font-weight:600">Book online</a> or email <a href="mailto:${EMAIL}" style="color:#2563eb;font-weight:600">${EMAIL}</a>. Available 7 days a week.`;
 
   const uniquePara = neighborhood.uniquePara[service.key];
   const issues = neighborhood.issues[service.key];
@@ -290,7 +290,7 @@ function generatePage(neighborhood, service) {
   }).join('\n      ');
 
   const priceRows = [
-    `<tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$65</td></tr>`,
+    `<tr><td>Diagnostic visit (waived when repair proceeds)</td><td>$89</td></tr>`,
     ...service.repairRows.map(([label, price]) => `<tr><td>${label}</td><td>${price}</td></tr>`)
   ].join('\n        ');
 
@@ -313,7 +313,7 @@ function generatePage(neighborhood, service) {
       {
         "@type": "Question",
         "name": `How much does ${service.appliance} repair cost in ${neighborhood.name}?`,
-        "acceptedAnswer": {"@type": "Answer", "text": `Most ${service.appliance} repairs in ${neighborhood.name} cost ${service.priceRange} CAD. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.`}
+        "acceptedAnswer": {"@type": "Answer", "text": `Most ${service.appliance} repairs in ${neighborhood.name} cost ${service.priceRange} CAD. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.`}
       }
     ]
   });
@@ -341,7 +341,7 @@ function generatePage(neighborhood, service) {
 <meta property="og:url" content="${url}">
 <meta property="og:site_name" content="Appliance Repair Near You — Calgary">
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${url}#business","name":"${service.title} ${neighborhood.name} — Calgary Appliance Repair","description":"Same-day ${service.appliance} repair in ${neighborhood.name}, Calgary. Flat $65 diagnostic, 90-day warranty.","url":"${url}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":${neighborhood.lat},"longitude":${neighborhood.lng}},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${neighborhood.name}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"${service.title}"}
+{"@context":"https://schema.org","@type":"ProfessionalService","@id":"${url}#business","name":"${service.title} ${neighborhood.name} — Calgary Appliance Repair","description":"Same-day ${service.appliance} repair in ${neighborhood.name}, Calgary. Flat $89 diagnostic, 90-day warranty.","url":"${url}","priceRange":"$$","address":{"@type":"PostalAddress","streetAddress":"700 6th Avenue SW Suite 1700","addressLocality":"Calgary","addressRegion":"AB","postalCode":"T2P 0T8","addressCountry":"CA"},"geo":{"@type":"GeoCoordinates","latitude":${neighborhood.lat},"longitude":${neighborhood.lng}},"areaServed":[{"@type":"City","name":"Calgary"},{"@type":"Neighborhood","name":"${neighborhood.name}"}],"openingHoursSpecification":[{"@type":"OpeningHoursSpecification","dayOfWeek":["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"opens":"08:00","closes":"20:00"},{"@type":"OpeningHoursSpecification","dayOfWeek":"Sunday","opens":"10:00","closes":"18:00"}],"serviceType":"${service.title}"}
 </script>
 </head>
 <body>
@@ -393,7 +393,7 @@ function generatePage(neighborhood, service) {
     </ul>
 
     <h2>Repair Cost in ${neighborhood.name}</h2>
-    <p>Flat $65 diagnostic fee, waived when repair proceeds. Most ${service.appliance} repairs in ${neighborhood.name}: ${service.priceRange} parts and labour. Written quote before any work begins — no surprises. All repairs include a 90-day parts and labour warranty.</p>
+    <p>Flat $89 diagnostic fee, waived when repair proceeds. Most ${service.appliance} repairs in ${neighborhood.name}: ${service.priceRange} parts and labour. Written quote before any work begins — no surprises. All repairs include a 90-day parts and labour warranty.</p>
   </div>
 
   <section class="service-details fade-in" aria-label="Common problems and pricing">
@@ -429,7 +429,7 @@ function generatePage(neighborhood, service) {
       <div class="faq-list">
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How quickly can you reach ${neighborhood.name}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>${neighborhood.name} is approximately ${neighborhood.driveTime} from our 700 6th Ave SW location. We typically dispatch within 2–3 hours of booking. Book before noon on weekdays for same-day service.</p></div></details>
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">Do you repair ${neighborhood.primaryBrands[service.key]} ${service.appliancePlural} in ${neighborhood.name}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Yes — ${neighborhood.primaryBrands[service.key]} are among the most common brands we service in ${neighborhood.name}. We carry parts on every dispatch and typically complete repairs on the first visit.</p></div></details>
-        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How much does ${service.appliance} repair cost in ${neighborhood.name}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Most ${service.appliance} repairs in ${neighborhood.name} run ${service.priceRange} CAD depending on the part and brand. The flat $65 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
+        <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">How much does ${service.appliance} repair cost in ${neighborhood.name}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Most ${service.appliance} repairs in ${neighborhood.name} run ${service.priceRange} CAD depending on the part and brand. The flat $89 diagnostic fee is waived when you proceed with the repair. You receive a written quote before any work begins.</p></div></details>
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">Does Calgary hard water affect my ${service.appliance} in ${neighborhood.name}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Yes. Calgary's water hardness of 150–200 ppm causes calcium scale to accumulate on water-contact components within 3–5 years. We account for local water conditions on every ${neighborhood.name} service call and advise on preventive measures.</p></div></details>
         <details class="faq-item"><summary class="faq-question"><span class="faq-q-text">Do you service all appliance brands in ${neighborhood.name}?</span><span class="faq-icon" aria-hidden="true">+</span></summary><div class="faq-answer"><p>Yes. We repair Samsung, LG, Whirlpool, Bosch, GE, Frigidaire, Maytag, Electrolux, KitchenAid, Kenmore, Miele, and most other brands found in ${neighborhood.name} homes.</p></div></details>
       </div>

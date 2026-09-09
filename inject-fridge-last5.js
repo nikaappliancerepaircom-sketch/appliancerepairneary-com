@@ -57,7 +57,7 @@ Requirements:
 - hero_p: 20-30 words, unique angle, do NOT start with "${city}"
 - h2: 8-12 words, include "${city}" and fridge/refrigerator
 - intro_p: 150-200 words. Mention 2-3 real local neighborhoods in ${city}. Discuss climate impact on fridges, housing age/type, common brands (Samsung/LG/Whirlpool/GE/Frigidaire), typical failure modes.
-- faq: 4 items. Mention "${city}" in at least 2 questions. Each answer 2-3 sentences. Cover: cost ($65 diagnostic, $120-$350 range), response time, brands, 90-day warranty.
+- faq: 4 items. Mention "${city}" in at least 2 questions. Each answer 2-3 sentences. Cover: cost ($89 diagnostic, $120-$350 range), response time, brands, 90-day warranty.
 
 JSON (start immediately with {):
 {"${slug}": {"hero_p": "...", "h2": "...", "intro_p": "...", "faq": [{"q": "...", "a": "..."}, {"q": "...", "a": "..."}, {"q": "...", "a": "..."}, {"q": "...", "a": "..."}]}}`;

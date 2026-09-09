@@ -40,7 +40,7 @@ const SERVICES = [
     appliance: 'dryer',
     h1: 'Dryer Repair Calgary',
     title: 'Dryer Repair Calgary | Same-Day Service | From $65',
-    metaDesc: 'Calgary dryer repair — gas and electric. Heating elements, igniters, drum belts, blocked vents. Same-day Calgary CMA. From $65 diagnostic.',
+    metaDesc: 'Calgary dryer repair — gas and electric. Heating elements, igniters, drum belts, blocked vents. Same-day Calgary CMA. From $89 diagnostic.',
     keyword: 'dryer repair calgary',
     serviceLong: 'Dryer Repair'
   },
@@ -49,7 +49,7 @@ const SERVICES = [
     appliance: 'fridge',
     h1: 'Fridge Repair Calgary',
     title: 'Fridge Repair Calgary | Same-Day Service | From $65',
-    metaDesc: 'Calgary fridge repair: not cooling, leaking, ice maker, compressor. Same-day across Calgary, Airdrie, Cochrane, Okotoks. From $65 diagnostic.',
+    metaDesc: 'Calgary fridge repair: not cooling, leaking, ice maker, compressor. Same-day across Calgary, Airdrie, Cochrane, Okotoks. From $89 diagnostic.',
     keyword: 'fridge repair calgary',
     serviceLong: 'Fridge Repair'
   },
@@ -67,7 +67,7 @@ const SERVICES = [
     appliance: 'stove',
     h1: 'Stove Repair Calgary',
     title: 'Stove Repair Calgary | Same-Day Service | From $65',
-    metaDesc: 'Calgary stove repair induction, electric coil, smoothtop. Burner failure, control board, switches. Same-day Calgary CMA. From $65 diagnostic.',
+    metaDesc: 'Calgary stove repair induction, electric coil, smoothtop. Burner failure, control board, switches. Same-day Calgary CMA. From $89 diagnostic.',
     keyword: 'stove repair calgary',
     serviceLong: 'Stove Repair'
   },
@@ -76,7 +76,7 @@ const SERVICES = [
     appliance: 'freezer',
     h1: 'Freezer Repair Calgary',
     title: 'Freezer Repair Calgary | Same-Day Service | From $65',
-    metaDesc: 'Calgary freezer repair chest, upright, garage. Not freezing, frost build-up, compressor failure. Cold-climate specialists. From $65 diagnostic.',
+    metaDesc: 'Calgary freezer repair chest, upright, garage. Not freezing, frost build-up, compressor failure. Cold-climate specialists. From $89 diagnostic.',
     keyword: 'freezer repair calgary',
     serviceLong: 'Freezer Repair'
   },
@@ -85,7 +85,7 @@ const SERVICES = [
     appliance: 'gas stove',
     h1: 'Gas Stove Repair Calgary',
     title: 'Gas Stove Repair Calgary | Licensed | Same-Day',
-    metaDesc: 'Licensed Calgary gas stove repair pilot light, igniter, regulator, gas line. ATCO-aware technicians. Same-day Calgary CMA. From $65 diagnostic.',
+    metaDesc: 'Licensed Calgary gas stove repair pilot light, igniter, regulator, gas line. ATCO-aware technicians. Same-day Calgary CMA. From $89 diagnostic.',
     keyword: 'gas stove repair calgary',
     serviceLong: 'Gas Stove Repair'
   }
@@ -179,7 +179,7 @@ function buildBodyContent(svc) {
 <p class="hero-subline" style="font-size:1.15rem;color:#374151;margin-bottom:24px;line-height:1.65;">Same-day ${svc.appliance} service across Calgary, Airdrie, Cochrane, and Okotoks. Book online diagnostic from $65.</p>
 
 <div class="quick-answer" style="background:#eff6ff;border-left:4px solid #2563eb;padding:18px 22px;margin:0 0 32px;border-radius:0 8px 8px 0;font-size:1rem;line-height:1.7;color:#1e40af">
-  <strong>Who repairs ${svc.appliance}s in Calgary?</strong> Appliance Repair Near You Calgary handles ${svc.appliance} repair across Calgary, Airdrie, Cochrane, Okotoks, Chestermere, and Strathmore. Book online or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#1d4ed8;font-weight:600">calgary@appliancerepairneary.com</a>. Service from $65 diagnostic, available Mon-Sat 8AM-8PM and Sun 10AM-6PM Mountain Time.
+  <strong>Who repairs ${svc.appliance}s in Calgary?</strong> Appliance Repair Near You Calgary handles ${svc.appliance} repair across Calgary, Airdrie, Cochrane, Okotoks, Chestermere, and Strathmore. Book online or email <a href="mailto:calgary@appliancerepairneary.com" style="color:#1d4ed8;font-weight:600">calgary@appliancerepairneary.com</a>. Service from $89 diagnostic, available Mon-Sat 8AM-8PM and Sun 10AM-6PM Mountain Time.
 </div>
 
 <div class="page-hero-ctas" style="margin-bottom:32px">
@@ -213,7 +213,7 @@ ${brandsHtml}
 <section class="pricing-section fade-in" style="padding:48px 0;border-top:1px solid #e5e7eb">
   <div class="section-label">Pricing</div>
   <h2 class="section-title">${applianceTitle} Repair Pricing in Calgary</h2>
-  <p style="max-width:760px;margin-bottom:16px;color:#374151;line-height:1.7">Honest, transparent pricing for the most common ${svc.appliance} repairs in Calgary. We provide a firm written quote before any work begins. The $65 diagnostic fee is waived when you proceed with the repair, and OEM parts come with a 90-day parts and labour warranty.</p>
+  <p style="max-width:760px;margin-bottom:16px;color:#374151;line-height:1.7">Honest, transparent pricing for the most common ${svc.appliance} repairs in Calgary. We provide a firm written quote before any work begins. The $89 diagnostic fee is waived when you proceed with the repair, and OEM parts come with a 90-day parts and labour warranty.</p>
   <table class="pricing-table" aria-label="${applianceTitle} repair pricing in Calgary">
     <thead><tr><th>Repair Type</th><th>Typical Cost (CAD)</th></tr></thead>
     <tbody>
