@@ -190,11 +190,6 @@
       "permanent": true
     },
     {
-      "source": "/dishwasher-installation-etobicoke",
-      "destination": "https://nappliancerepair.com/dishwasher-installation-etobicoke",
-      "permanent": true
-    },
-    {
       "source": "/dishwasher-installation-forest-hill",
       "destination": "https://nappliancerepair.com/dishwasher-installation-forest-hill",
       "permanent": true
@@ -230,11 +225,6 @@
       "permanent": true
     },
     {
-      "source": "/dishwasher-installation-markham",
-      "destination": "https://nappliancerepair.com/dishwasher-installation-markham",
-      "permanent": true
-    },
-    {
       "source": "/dishwasher-installation-mississauga",
       "destination": "https://nappliancerepair.com/dishwasher-installation-mississauga",
       "permanent": true
@@ -245,18 +235,8 @@
       "permanent": true
     },
     {
-      "source": "/dishwasher-installation-oakville",
-      "destination": "https://nappliancerepair.com/dishwasher-installation-oakville",
-      "permanent": true
-    },
-    {
       "source": "/dishwasher-installation-parkdale",
       "destination": "https://nappliancerepair.com/dishwasher-installation-parkdale",
-      "permanent": true
-    },
-    {
-      "source": "/dishwasher-installation-richmond-hill",
-      "destination": "https://nappliancerepair.com/dishwasher-installation-richmond-hill",
       "permanent": true
     },
     {
@@ -295,18 +275,8 @@
       "permanent": true
     },
     {
-      "source": "/dishwasher-installation-vaughan",
-      "destination": "https://nappliancerepair.com/dishwasher-installation-vaughan",
-      "permanent": true
-    },
-    {
       "source": "/dishwasher-installation-willowdale",
       "destination": "https://nappliancerepair.com/dishwasher-installation-willowdale",
-      "permanent": true
-    },
-    {
-      "source": "/dishwasher-repair-ajax",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-ajax",
       "permanent": true
     },
     {
@@ -331,12 +301,7 @@
     },
     {
       "source": "/dishwasher-repair-brampton",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-brampton",
-      "permanent": true
-    },
-    {
-      "source": "/dishwasher-repair-burlington",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/locations/services/dishwasher-repair-brampton",
       "permanent": true
     },
     {
@@ -382,11 +347,6 @@
     {
       "source": "/dishwasher-repair-etobicoke-village",
       "destination": "https://nappliancerepair.com/dishwasher-repair-etobicoke-village",
-      "permanent": true
-    },
-    {
-      "source": "/dishwasher-repair-etobicoke",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-etobicoke",
       "permanent": true
     },
     {
@@ -451,7 +411,7 @@
     },
     {
       "source": "/dishwasher-repair-markham",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-markham",
+      "destination": "https://nikaappliancerepair.com/locations/services/dishwasher-repair-markham",
       "permanent": true
     },
     {
@@ -475,16 +435,6 @@
       "permanent": true
     },
     {
-      "source": "/dishwasher-repair-oakville",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-oakville",
-      "permanent": true
-    },
-    {
-      "source": "/dishwasher-repair-oshawa",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-oshawa",
-      "permanent": true
-    },
-    {
       "source": "/dishwasher-repair-ossington",
       "destination": "https://nappliancerepair.com/dishwasher-repair-ossington",
       "permanent": true
@@ -492,11 +442,6 @@
     {
       "source": "/dishwasher-repair-parkdale",
       "destination": "https://nappliancerepair.com/dishwasher-repair-parkdale",
-      "permanent": true
-    },
-    {
-      "source": "/dishwasher-repair-pickering",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-pickering",
       "permanent": true
     },
     {
@@ -575,11 +520,6 @@
       "permanent": true
     },
     {
-      "source": "/dishwasher-repair-whitby",
-      "destination": "https://nappliancerepair.com/dishwasher-repair-whitby",
-      "permanent": true
-    },
-    {
       "source": "/dishwasher-repair-willowdale",
       "destination": "https://nappliancerepair.com/dishwasher-repair-willowdale",
       "permanent": true
@@ -587,11 +527,6 @@
     {
       "source": "/dishwasher-repair-wychwood",
       "destination": "https://nappliancerepair.com/dishwasher-repair-wychwood",
-      "permanent": true
-    },
-    {
-      "source": "/dryer-repair-ajax",
-      "destination": "https://nappliancerepair.com/dryer-repair-ajax",
       "permanent": true
     },
     {
@@ -617,11 +552,6 @@
     {
       "source": "/dryer-repair-brampton",
       "destination": "https://nappliancerepair.com/dryer-repair-brampton",
-      "permanent": true
-    },
-    {
-      "source": "/dryer-repair-burlington",
-      "destination": "https://nappliancerepair.com/dryer-repair-burlington",
       "permanent": true
     },
     {
@@ -667,11 +597,6 @@
     {
       "source": "/dryer-repair-etobicoke-village",
       "destination": "https://nappliancerepair.com/dryer-repair-etobicoke-village",
-      "permanent": true
-    },
-    {
-      "source": "/dryer-repair-etobicoke",
-      "destination": "https://nappliancerepair.com/dryer-repair-etobicoke",
       "permanent": true
     },
     {
@@ -760,16 +685,6 @@
       "permanent": true
     },
     {
-      "source": "/dryer-repair-oakville",
-      "destination": "https://nappliancerepair.com/dryer-repair-oakville",
-      "permanent": true
-    },
-    {
-      "source": "/dryer-repair-oshawa",
-      "destination": "https://nappliancerepair.com/dryer-repair-oshawa",
-      "permanent": true
-    },
-    {
       "source": "/dryer-repair-ossington",
       "destination": "https://nappliancerepair.com/dryer-repair-ossington",
       "permanent": true
@@ -777,11 +692,6 @@
     {
       "source": "/dryer-repair-parkdale",
       "destination": "https://nappliancerepair.com/dryer-repair-parkdale",
-      "permanent": true
-    },
-    {
-      "source": "/dryer-repair-pickering",
-      "destination": "https://nappliancerepair.com/dryer-repair-pickering",
       "permanent": true
     },
     {
@@ -807,11 +717,6 @@
     {
       "source": "/dryer-repair-scarborough-village",
       "destination": "https://nappliancerepair.com/dryer-repair-scarborough-village",
-      "permanent": true
-    },
-    {
-      "source": "/dryer-repair-scarborough",
-      "destination": "https://nappliancerepair.com/dryer-repair-scarborough",
       "permanent": true
     },
     {
@@ -860,11 +765,6 @@
       "permanent": true
     },
     {
-      "source": "/dryer-repair-whitby",
-      "destination": "https://nappliancerepair.com/dryer-repair-whitby",
-      "permanent": true
-    },
-    {
       "source": "/dryer-repair-willowdale",
       "destination": "https://nappliancerepair.com/dryer-repair-willowdale",
       "permanent": true
@@ -872,11 +772,6 @@
     {
       "source": "/dryer-repair-wychwood",
       "destination": "https://nappliancerepair.com/dryer-repair-wychwood",
-      "permanent": true
-    },
-    {
-      "source": "/fridge-repair-ajax",
-      "destination": "https://nappliancerepair.com/fridge-repair-ajax",
       "permanent": true
     },
     {
@@ -901,12 +796,7 @@
     },
     {
       "source": "/fridge-repair-brampton",
-      "destination": "https://nappliancerepair.com/fridge-repair-brampton",
-      "permanent": true
-    },
-    {
-      "source": "/fridge-repair-burlington",
-      "destination": "https://nappliancerepair.com/fridge-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/locations/services/refrigerator-repair-brampton",
       "permanent": true
     },
     {
@@ -952,11 +842,6 @@
     {
       "source": "/fridge-repair-etobicoke-village",
       "destination": "https://nappliancerepair.com/fridge-repair-etobicoke-village",
-      "permanent": true
-    },
-    {
-      "source": "/fridge-repair-etobicoke",
-      "destination": "https://nappliancerepair.com/fridge-repair-etobicoke",
       "permanent": true
     },
     {
@@ -1021,7 +906,7 @@
     },
     {
       "source": "/fridge-repair-markham",
-      "destination": "https://nappliancerepair.com/fridge-repair-markham",
+      "destination": "https://nikaappliancerepair.com/locations/services/refrigerator-repair-markham",
       "permanent": true
     },
     {
@@ -1045,16 +930,6 @@
       "permanent": true
     },
     {
-      "source": "/fridge-repair-oakville",
-      "destination": "https://nappliancerepair.com/fridge-repair-oakville",
-      "permanent": true
-    },
-    {
-      "source": "/fridge-repair-oshawa",
-      "destination": "https://nappliancerepair.com/fridge-repair-oshawa",
-      "permanent": true
-    },
-    {
       "source": "/fridge-repair-ossington",
       "destination": "https://nappliancerepair.com/fridge-repair-ossington",
       "permanent": true
@@ -1062,11 +937,6 @@
     {
       "source": "/fridge-repair-parkdale",
       "destination": "https://nappliancerepair.com/fridge-repair-parkdale",
-      "permanent": true
-    },
-    {
-      "source": "/fridge-repair-pickering",
-      "destination": "https://nappliancerepair.com/fridge-repair-pickering",
       "permanent": true
     },
     {
@@ -1145,11 +1015,6 @@
       "permanent": true
     },
     {
-      "source": "/fridge-repair-whitby",
-      "destination": "https://nappliancerepair.com/fridge-repair-whitby",
-      "permanent": true
-    },
-    {
       "source": "/fridge-repair-willowdale",
       "destination": "https://nappliancerepair.com/fridge-repair-willowdale",
       "permanent": true
@@ -1180,11 +1045,6 @@
       "permanent": true
     },
     {
-      "source": "/gas-appliance-repair-scarborough-village",
-      "destination": "https://nappliancerepair.com/gas-appliance-repair-scarborough-village",
-      "permanent": true
-    },
-    {
       "source": "/gas-appliance-repair-scarborough",
       "destination": "https://nappliancerepair.com/gas-appliance-repair-scarborough",
       "permanent": true
@@ -1210,43 +1070,13 @@
       "permanent": true
     },
     {
-      "source": "/gas-dryer-repair-willowdale",
-      "destination": "https://nappliancerepair.com/gas-dryer-repair-willowdale",
-      "permanent": true
-    },
-    {
-      "source": "/gas-oven-repair-forest-hill",
-      "destination": "https://nappliancerepair.com/gas-oven-repair-forest-hill",
-      "permanent": true
-    },
-    {
       "source": "/gas-oven-repair-mississauga",
       "destination": "https://nappliancerepair.com/gas-oven-repair-mississauga",
       "permanent": true
     },
     {
-      "source": "/gas-oven-repair-rosedale",
-      "destination": "https://nappliancerepair.com/gas-oven-repair-rosedale",
-      "permanent": true
-    },
-    {
       "source": "/gas-oven-repair-toronto",
       "destination": "https://nappliancerepair.com/gas-oven-repair-toronto",
-      "permanent": true
-    },
-    {
-      "source": "/gas-stove-repair-danforth-village",
-      "destination": "https://nappliancerepair.com/gas-stove-repair-danforth-village",
-      "permanent": true
-    },
-    {
-      "source": "/gas-stove-repair-forest-hill",
-      "destination": "https://nappliancerepair.com/gas-stove-repair-forest-hill",
-      "permanent": true
-    },
-    {
-      "source": "/gas-stove-repair-leaside",
-      "destination": "https://nappliancerepair.com/gas-stove-repair-leaside",
       "permanent": true
     },
     {
@@ -1260,18 +1090,8 @@
       "permanent": true
     },
     {
-      "source": "/gas-stove-repair-rosedale",
-      "destination": "https://nappliancerepair.com/gas-stove-repair-rosedale",
-      "permanent": true
-    },
-    {
       "source": "/gas-stove-repair-toronto",
       "destination": "https://nappliancerepair.com/gas-stove-repair-toronto",
-      "permanent": true
-    },
-    {
-      "source": "/gas-stove-repair-willowdale",
-      "destination": "https://nappliancerepair.com/gas-stove-repair-willowdale",
       "permanent": true
     },
     {
@@ -1300,11 +1120,6 @@
       "permanent": true
     },
     {
-      "source": "/oven-repair-ajax",
-      "destination": "https://nappliancerepair.com/oven-repair-ajax",
-      "permanent": true
-    },
-    {
       "source": "/oven-repair-bayview-village",
       "destination": "https://nappliancerepair.com/oven-repair-bayview-village",
       "permanent": true
@@ -1326,12 +1141,7 @@
     },
     {
       "source": "/oven-repair-brampton",
-      "destination": "https://nappliancerepair.com/oven-repair-brampton",
-      "permanent": true
-    },
-    {
-      "source": "/oven-repair-burlington",
-      "destination": "https://nappliancerepair.com/oven-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/locations/services/oven-repair-brampton",
       "permanent": true
     },
     {
@@ -1377,11 +1187,6 @@
     {
       "source": "/oven-repair-etobicoke-village",
       "destination": "https://nappliancerepair.com/oven-repair-etobicoke-village",
-      "permanent": true
-    },
-    {
-      "source": "/oven-repair-etobicoke",
-      "destination": "https://nappliancerepair.com/oven-repair-etobicoke",
       "permanent": true
     },
     {
@@ -1446,7 +1251,7 @@
     },
     {
       "source": "/oven-repair-markham",
-      "destination": "https://nappliancerepair.com/oven-repair-markham",
+      "destination": "https://nikaappliancerepair.com/locations/services/oven-repair-markham",
       "permanent": true
     },
     {
@@ -1470,16 +1275,6 @@
       "permanent": true
     },
     {
-      "source": "/oven-repair-oakville",
-      "destination": "https://nappliancerepair.com/oven-repair-oakville",
-      "permanent": true
-    },
-    {
-      "source": "/oven-repair-oshawa",
-      "destination": "https://nappliancerepair.com/oven-repair-oshawa",
-      "permanent": true
-    },
-    {
       "source": "/oven-repair-ossington",
       "destination": "https://nappliancerepair.com/oven-repair-ossington",
       "permanent": true
@@ -1487,11 +1282,6 @@
     {
       "source": "/oven-repair-parkdale",
       "destination": "https://nappliancerepair.com/oven-repair-parkdale",
-      "permanent": true
-    },
-    {
-      "source": "/oven-repair-pickering",
-      "destination": "https://nappliancerepair.com/oven-repair-pickering",
       "permanent": true
     },
     {
@@ -1517,11 +1307,6 @@
     {
       "source": "/oven-repair-scarborough-village",
       "destination": "https://nappliancerepair.com/oven-repair-scarborough-village",
-      "permanent": true
-    },
-    {
-      "source": "/oven-repair-scarborough",
-      "destination": "https://nappliancerepair.com/oven-repair-scarborough",
       "permanent": true
     },
     {
@@ -1570,11 +1355,6 @@
       "permanent": true
     },
     {
-      "source": "/oven-repair-whitby",
-      "destination": "https://nappliancerepair.com/oven-repair-whitby",
-      "permanent": true
-    },
-    {
       "source": "/oven-repair-willowdale",
       "destination": "https://nappliancerepair.com/oven-repair-willowdale",
       "permanent": true
@@ -1587,11 +1367,6 @@
     {
       "source": "/samsung-repair-toronto",
       "destination": "https://nappliancerepair.com/samsung-repair-toronto",
-      "permanent": true
-    },
-    {
-      "source": "/stove-repair-ajax",
-      "destination": "https://nappliancerepair.com/stove-repair-ajax",
       "permanent": true
     },
     {
@@ -1612,16 +1387,6 @@
     {
       "source": "/stove-repair-bradford",
       "destination": "https://nappliancerepair.com/stove-repair-bradford",
-      "permanent": true
-    },
-    {
-      "source": "/stove-repair-brampton",
-      "destination": "https://nappliancerepair.com/stove-repair-brampton",
-      "permanent": true
-    },
-    {
-      "source": "/stove-repair-burlington",
-      "destination": "https://nappliancerepair.com/stove-repair-burlington",
       "permanent": true
     },
     {
@@ -1667,11 +1432,6 @@
     {
       "source": "/stove-repair-etobicoke-village",
       "destination": "https://nappliancerepair.com/stove-repair-etobicoke-village",
-      "permanent": true
-    },
-    {
-      "source": "/stove-repair-etobicoke",
-      "destination": "https://nappliancerepair.com/stove-repair-etobicoke",
       "permanent": true
     },
     {
@@ -1735,18 +1495,8 @@
       "permanent": true
     },
     {
-      "source": "/stove-repair-markham",
-      "destination": "https://nappliancerepair.com/stove-repair-markham",
-      "permanent": true
-    },
-    {
       "source": "/stove-repair-midtown",
       "destination": "https://nappliancerepair.com/stove-repair-midtown",
-      "permanent": true
-    },
-    {
-      "source": "/stove-repair-mississauga",
-      "destination": "https://nappliancerepair.com/stove-repair-mississauga",
       "permanent": true
     },
     {
@@ -1760,16 +1510,6 @@
       "permanent": true
     },
     {
-      "source": "/stove-repair-oakville",
-      "destination": "https://nappliancerepair.com/stove-repair-oakville",
-      "permanent": true
-    },
-    {
-      "source": "/stove-repair-oshawa",
-      "destination": "https://nappliancerepair.com/stove-repair-oshawa",
-      "permanent": true
-    },
-    {
       "source": "/stove-repair-ossington",
       "destination": "https://nappliancerepair.com/stove-repair-ossington",
       "permanent": true
@@ -1777,11 +1517,6 @@
     {
       "source": "/stove-repair-parkdale",
       "destination": "https://nappliancerepair.com/stove-repair-parkdale",
-      "permanent": true
-    },
-    {
-      "source": "/stove-repair-pickering",
-      "destination": "https://nappliancerepair.com/stove-repair-pickering",
       "permanent": true
     },
     {
@@ -1855,16 +1590,6 @@
       "permanent": true
     },
     {
-      "source": "/stove-repair-vaughan",
-      "destination": "https://nappliancerepair.com/stove-repair-vaughan",
-      "permanent": true
-    },
-    {
-      "source": "/stove-repair-whitby",
-      "destination": "https://nappliancerepair.com/stove-repair-whitby",
-      "permanent": true
-    },
-    {
       "source": "/stove-repair-willowdale",
       "destination": "https://nappliancerepair.com/stove-repair-willowdale",
       "permanent": true
@@ -1877,11 +1602,6 @@
     {
       "source": "/toronto",
       "destination": "https://nappliancerepair.com/toronto",
-      "permanent": true
-    },
-    {
-      "source": "/washer-repair-ajax",
-      "destination": "https://nappliancerepair.com/washer-repair-ajax",
       "permanent": true
     },
     {
@@ -1907,11 +1627,6 @@
     {
       "source": "/washer-repair-brampton",
       "destination": "https://nappliancerepair.com/washer-repair-brampton",
-      "permanent": true
-    },
-    {
-      "source": "/washer-repair-burlington",
-      "destination": "https://nappliancerepair.com/washer-repair-burlington",
       "permanent": true
     },
     {
@@ -2050,16 +1765,6 @@
       "permanent": true
     },
     {
-      "source": "/washer-repair-oakville",
-      "destination": "https://nappliancerepair.com/washer-repair-oakville",
-      "permanent": true
-    },
-    {
-      "source": "/washer-repair-oshawa",
-      "destination": "https://nappliancerepair.com/washer-repair-oshawa",
-      "permanent": true
-    },
-    {
       "source": "/washer-repair-ossington",
       "destination": "https://nappliancerepair.com/washer-repair-ossington",
       "permanent": true
@@ -2067,11 +1772,6 @@
     {
       "source": "/washer-repair-parkdale",
       "destination": "https://nappliancerepair.com/washer-repair-parkdale",
-      "permanent": true
-    },
-    {
-      "source": "/washer-repair-pickering",
-      "destination": "https://nappliancerepair.com/washer-repair-pickering",
       "permanent": true
     },
     {
@@ -2135,11 +1835,6 @@
       "permanent": true
     },
     {
-      "source": "/washer-repair-toronto",
-      "destination": "https://nappliancerepair.com/washer-repair-toronto",
-      "permanent": true
-    },
-    {
       "source": "/washer-repair-trinity-bellwoods",
       "destination": "https://nappliancerepair.com/washer-repair-trinity-bellwoods",
       "permanent": true
@@ -2147,11 +1842,6 @@
     {
       "source": "/washer-repair-vaughan",
       "destination": "https://nappliancerepair.com/washer-repair-vaughan",
-      "permanent": true
-    },
-    {
-      "source": "/washer-repair-whitby",
-      "destination": "https://nappliancerepair.com/washer-repair-whitby",
       "permanent": true
     },
     {
