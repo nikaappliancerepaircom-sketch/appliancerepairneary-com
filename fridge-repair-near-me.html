@@ -336,6 +336,8 @@
   ]
 }
 </script>
+<link rel="stylesheet" href="/css/site-booking.css">
+<script src="/js/site-booking.js" defer></script>
 </head>
 <body>
 
@@ -395,7 +397,7 @@
     <button type="submit" disabled class="lz-quick-submit">Request a callback</button>
   <label hidden aria-hidden="true">Website<input name="website" tabindex="-1" autocomplete="off"></label>
   <p data-callback-status role="status" aria-live="polite"></p>
-  <noscript><p>JavaScript is required for this form. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce">Open online booking</a> or call the number on this page.</p></noscript>
+  <noscript><p>JavaScript is required for this form. <a href="/book">Open online booking</a> or call the number on this page.</p></noscript>
 </form>
 <script src="/js/callback-form.js" defer></script>
 </section>
@@ -428,7 +430,7 @@
 
         <div class="page-hero-cta">
           <a href="tel:+14375241053" class="btn-green">&#128222;&nbsp; Call (437) 524-1053</a>
-          <a href="#booking" class="btn-ghost">Book Online &rarr;</a>
+          <a href="/book" class="btn-ghost">Book Online &rarr;</a>
         </div>
       </div>
 
@@ -495,7 +497,7 @@
         <h3>Book Refrigerator Near You</h3>
         <p>Available today in Toronto & GTA — typically arrive within 2–4 hours.</p>
         <a href="tel:+14375241053" class="side-phone">(437) 524-1053</a>
-        <a href="#booking" class="btn-primary" style="width:100%;justify-content:center;margin-bottom:10px;">&#128197; Book Online</a>
+        <a href="/book" class="btn-primary" style="width:100%;justify-content:center;margin-bottom:10px;">&#128197; Book Online</a>
         <a href="tel:+14375241053" class="btn-green" style="width:100%;justify-content:center;">&#128222; Call Now</a>
         <ul class="side-trust-list">
           <li>Same-day availability</li>
@@ -614,10 +616,8 @@
       <span class="section-label">Online Booking</span>
       <h2 class="section-title" style="text-align:center;">Book Refrigerator Near You</h2>
       <p style="color:var(--gray-600);margin-bottom:28px;font-size:15px;text-align:center;">Select a time that works — a certified technician near you will arrive and fix it right the first time.</p>
-      <iframe id="fixlify-booking-nicks-appliance-repair-b8c8ce" src="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce?embed=true" style="width:100%;height:600px;border:none;display:block;" title="Book a Service" loading="lazy" allowtransparency="true"></iframe>
-<script>
-window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-resize'){var el=document.getElementById('fixlify-booking-nicks-appliance-repair-b8c8ce');if(el)el.style.height=e.data.height+'px';}});
-</script>
+      <div class="site-booking-card" data-booking-card><h2>Book your appliance repair</h2><p>Complete your booking on our secure booking page. Diagnostic visit: $89, waived when we carry out the repair.</p><a class="site-booking-button" href="/book">Book repair online</a></div>
+
       <p style="margin-top:14px;font-size:14px;color:var(--gray-400);text-align:center;">
         Prefer to call? <a href="tel:+14375241053" style="color:var(--blue-mid);font-weight:600;">(437) 524-1053</a> &mdash; Mon&ndash;Sat 8am&ndash;8pm &middot; Sun 9am&ndash;6pm
       </p>
@@ -726,7 +726,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
     </div>
     <div class="faq-list">
       <!-- FAQ_ITEMS are injected by the page generator -->
-      
+
 <div class="faq-item">
   <button class="faq-question" aria-expanded="false">
     <span class="faq-question-text">Where can I find fridge / refrigerator repair near me in the GTA?</span>
@@ -1118,7 +1118,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
 <p>We repair the full range of fridge / refrigerator issues including: not cooling, leaking water, ice maker not working, making noise, freezer not freezing. Most repairs are completed on the first visit. If we can't fix it, you don't pay a repair fee.</p>    — HTML content block: 3-4 paragraphs about this service in this city
   Refrigerator     — Display name, e.g. "Washer Repair"
   Toronto & GTA        — City display name, e.g. "Ajax"
-  
+
 <div class="faq-item">
   <button class="faq-question" aria-expanded="false">
     <span class="faq-question-text">Where can I find fridge / refrigerator repair near me in the GTA?</span>

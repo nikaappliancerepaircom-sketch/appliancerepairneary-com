@@ -25,13 +25,13 @@
   <link rel="stylesheet" href="/tokens.css">
 
   <!-- Schema: LocalBusiness -->
-  
+
 
   <!-- Schema: FAQPage -->
-  
+
 
   <!-- Schema: BreadcrumbList -->
-  
+
 
   <style>
     :root {
@@ -376,6 +376,8 @@
 }
 
 </script>
+<link rel="stylesheet" href="/css/site-booking.css">
+<script src="/js/site-booking.js" defer></script>
 </head>
 <body>
 
@@ -420,7 +422,7 @@
     <button type="submit" disabled class="lz-quick-submit">Request a callback</button>
   <label hidden aria-hidden="true">Website<input name="website" tabindex="-1" autocomplete="off"></label>
   <p data-callback-status role="status" aria-live="polite"></p>
-  <noscript><p>JavaScript is required for this form. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce">Open online booking</a> or call the number on this page.</p></noscript>
+  <noscript><p>JavaScript is required for this form. <a href="/book">Open online booking</a> or call the number on this page.</p></noscript>
 </form>
 <script src="/js/callback-form.js" defer></script>
 </section>
@@ -452,8 +454,8 @@
           We dispatch from the neighbourhood closest to your address — not from a central warehouse across the city. Our GPS-tracked technicians are stationed throughout Toronto, Scarborough, North York, Mississauga, Brampton, and every corner of the GTA. When you call, our system finds the closest available tech to your street and sends them your way, typically arriving within 2&#8211;4 hours. Fridge, washer, dryer, dishwasher, oven &amp; stove — <strong>we know your streets, and we come to you.</strong>
         </p>
         <div class="hero-cta">
-          <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce">Book Online</a>
-          <a href="#booking" class="btn-ghost">Book Near Me &rarr;</a>
+          <a href="/book">Book Online</a>
+          <a href="/book" class="btn-ghost">Book Near Me &rarr;</a>
         </div>
         <p class="urgency-text">&#9679; <strong>Today's availability:</strong> Same-day slots open across Toronto and GTA — call before noon for fastest dispatch</p>
         <div class="trust-pills">
@@ -862,10 +864,8 @@
       <h2 class="section-title" style="text-align:center;">Book Appliance Repair Near You</h2>
       <p style="color:var(--gray-600);margin-bottom:16px;font-size:16px;text-align:center;">Choose a convenient time slot — a certified technician near you will arrive and fix it right the first time.</p>
       <p class="urgency-text" style="text-align:center;">&#9679; <strong>Today's availability:</strong> Same-day slots open across Toronto and GTA — call before noon for fastest dispatch</p>
-      <iframe id="fixlify-booking-nicks-appliance-repair-b8c8ce" src="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce?embed=true" style="width:100%;height:600px;border:none;display:block;" title="Book a Service" loading="lazy" allowtransparency="true"></iframe>
-<script>
-window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-resize'){var el=document.getElementById('fixlify-booking-nicks-appliance-repair-b8c8ce');if(el)el.style.height=e.data.height+'px';}});
-</script>
+      <div class="site-booking-card" data-booking-card><h2>Book your appliance repair</h2><p>Complete your booking on our secure booking page. Diagnostic visit: $89, waived when we carry out the repair.</p><a class="site-booking-button" href="/book">Book repair online</a></div>
+
       <p style="margin-top:16px;font-size:14px;color:var(--gray-400);text-align:center;">
         Mon&ndash;Sat 8am&ndash;8pm &middot; Sun 9am&ndash;6pm
       </p>
@@ -998,10 +998,10 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
       <div class="final-cta-label">Your Nearest Technician Is Standing By</div>
       <h2 class="final-cta-title">Get the Closest Tech to Your Door — Today</h2>
       <p class="final-cta-subtitle">One call and our system locates the certified technician who is nearest to your address right now. Same-day dispatch across every Toronto and GTA neighbourhood — no call centres, no long waits.</p>
-      <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce">Book Online</a>
+      <a href="/book">Book Online</a>
       <div class="final-cta-btns">
-        <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce">Book Online</a>
-        <a href="#booking" class="btn-ghost">&#128205;&nbsp; Book Near Me Online</a>
+        <a href="/book">Book Online</a>
+        <a href="/book" class="btn-ghost">&#128205;&nbsp; Book Near Me Online</a>
       </div>
       <p class="final-cta-availability">Mon&ndash;Sat 8am&ndash;8pm &nbsp;&middot;&nbsp; Sun 9am&ndash;6pm &nbsp;&middot;&nbsp; Same-day slots available</p>
     </div>
@@ -1018,7 +1018,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
     </div>
   </div>
   <div class="sticky-bar-right">
-    <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce">Book Online</a>
+    <a href="/book">Book Online</a>
   </div>
 </div>
 
@@ -1093,7 +1093,7 @@ window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-
 
         <div class="footer-contact">
           <p><strong>Book Online:</strong><br>
-            <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce" class="footer-phone" rel="noopener">Schedule Service</a>
+            <a href="/book" class="footer-phone" rel="noopener">Schedule Service</a>
           </p>
 
           <p><strong>Email:</strong><br>

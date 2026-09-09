@@ -123,6 +123,8 @@
     }
   </style>
 <!-- SCHEMA-ENRICH-v1 -->
+<link rel="stylesheet" href="/css/site-booking.css">
+<script src="/js/site-booking.js" defer></script>
 </head>
 <body>
 
@@ -170,7 +172,7 @@
     <button type="submit" disabled class="lz-quick-submit">Request a callback</button>
   <label hidden aria-hidden="true">Website<input name="website" tabindex="-1" autocomplete="off"></label>
   <p data-callback-status role="status" aria-live="polite"></p>
-  <noscript><p>JavaScript is required for this form. <a href="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce">Open online booking</a> or call the number on this page.</p></noscript>
+  <noscript><p>JavaScript is required for this form. <a href="/book">Open online booking</a> or call the number on this page.</p></noscript>
 </form>
 <script src="/js/callback-form.js" defer></script>
 </section>
@@ -344,13 +346,9 @@
     <span class="section-label">Book Online</span>
     <h2 style="font-size:clamp(22px,3vw,32px);color:var(--navy);margin-bottom:12px;">Book Appliance Repair in Your Area</h2>
     <p style="font-size:16px;color:var(--gray-600);margin-bottom:28px;">Select your preferred time — a local technician near you will be dispatched. Same-day slots available when you call before noon.</p>
-    <iframe id="fixlify-booking-nicks-appliance-repair-b8c8ce" src="https://hub.fixlify.app/book/nicks-appliance-repair-b8c8ce?embed=true" style="width:100%;height:600px;border:none;display:block;" title="Book a Service" loading="lazy" allowtransparency="true"></iframe>
-<script>
-window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-resize'){var el=document.getElementById('fixlify-booking-nicks-appliance-repair-b8c8ce');if(el)el.style.height=e.data.height+'px';}});
-</script>
-<script>
-window.addEventListener('message',function(e){if(e.data&&e.data.type==='fixlify-resize'){var el=document.getElementById('fixlify-booking-nicks-appliance-repair-b8c8ce');if(el)el.style.height=e.data.height+'px';}});
-</script>
+    <div class="site-booking-card" data-booking-card><h2>Book your appliance repair</h2><p>Complete your booking on our secure booking page. Diagnostic visit: $89, waived when we carry out the repair.</p><a class="site-booking-button" href="/book">Book repair online</a></div>
+
+
     <p style="font-size:13px;color:var(--gray-400);margin-top:14px;">Prefer to call? <a href="tel:+14375241053" style="color:var(--blue-mid);font-weight:600;">(437) 524-1053</a> &mdash; Mon&ndash;Sat 8am&ndash;8pm &middot; Sun 9am&ndash;6pm</p>
   </div>
 </section>
