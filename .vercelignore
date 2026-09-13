@@ -1,0 +1,10 @@
+# Historical page generators are not public site assets. Do not rerun them until
+# their old office and travel-time assumptions have been removed.
+_gen-*.js
+_gen-*.ps1
+_gen_*.py
+_gen_*.js
+service-template.html
+gen-*.js
+gen-*.ps1
+lazy-config.json

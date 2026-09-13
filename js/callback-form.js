@@ -4,6 +4,11 @@
   var endpoint = 'https://mqppvcrlvsgrsqelglod.supabase.co/functions/v1/booking-widget-submit';
   var slug = 'nicks-appliance-repair-b8c8ce';
 
+  function createRequestKey() {
+    if (window.crypto && typeof window.crypto.randomUUID === 'function') return window.crypto.randomUUID();
+    return Date.now().toString(36) + '-' + Math.random().toString(36).slice(2);
+  }
+
   document.querySelectorAll('form.lz-quick-form').forEach(function (form) {
     var button = form.querySelector('button[type="submit"]');
     var status = form.querySelector('[data-callback-status]');
@@ -41,7 +46,7 @@
       var serialized = JSON.stringify(payload);
       // Keep the same key after an uncertain response so a retry cannot duplicate the lead.
       if (serialized !== previousPayload) {
-        requestKey = crypto.randomUUID();
+        requestKey = createRequestKey();
         previousPayload = serialized;
       }
       payload.idempotency_key = requestKey;
@@ -68,8 +73,8 @@
         form.querySelectorAll('input, textarea').forEach(function (field) { field.disabled = true; });
       } catch (error) {
         status.textContent = error.message === 'rate_limit'
-          ? 'Too many requests. Please try again later or use the phone number on this page.'
-          : 'We could not confirm your request. Your details are still here. Please retry or use the phone number on this page.';
+          ? 'Too many requests. Please try again later or use online booking.'
+          : 'We could not confirm your request. Your details are still here. Please retry or use online booking.';
         button.textContent = 'Retry callback request';
       } finally {
         clearTimeout(timeout);

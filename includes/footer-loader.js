@@ -1,4 +1,5 @@
-fetch('/includes/footer.html')
+var existingFooter = document.querySelector('#footer-placeholder footer');
+if (!existingFooter) fetch('/includes/footer.html')
   .then(function(r) { return r.text(); })
   .then(function(html) {
     var placeholder = document.getElementById('footer-placeholder');

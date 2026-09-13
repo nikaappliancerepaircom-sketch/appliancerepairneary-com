@@ -150,6 +150,1841 @@
       "permanent": true
     },
     {
+      "source": "/bosch-dishwasher-repair",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-repair-airdrie",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-repair-chestermere",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-repair-cochrane",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-repair-langdon",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-repair-okotoks",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-washer-repair",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/calgary-appliance-repair.html",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-bragg-creek",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-bragg-creek",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/electrolux-repair",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair",
+      "destination": "/freezer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-bragg-creek",
+      "destination": "/freezer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair",
+      "destination": "/fridge-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-bragg-creek",
+      "destination": "/fridge-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-glenbrook",
+      "destination": "/fridge-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/frigidaire-dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-airdrie",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-bragg-creek",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-chestermere",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-cochrane",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-high-river",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-langdon",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-okotoks",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-strathmore",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/ge-dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/kenmore-dishwasher-repair",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/kenmore-dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/kenmore-washer-repair",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/lg-dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/maytag-dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair",
+      "destination": "/oven-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-bragg-creek",
+      "destination": "/oven-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/problems",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/resources",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-repair-airdrie",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-repair-chestermere",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-repair-cochrane",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-repair-langdon",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-repair-okotoks",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/service-areas",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/services/dishwasher-repair-calgary",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/services/dryer-repair-calgary",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/services/freezer-repair-calgary",
+      "destination": "/freezer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/services/oven-repair-calgary",
+      "destination": "/oven-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/services/refrigerator-repair-calgary",
+      "destination": "/fridge-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/services/washer-repair-calgary",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-bragg-creek",
+      "destination": "/stove-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-bragg-creek",
+      "destination": "/washer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-dryer-repair",
+      "destination": "/dryer-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-repair-airdrie",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-repair-chestermere",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-repair-cochrane",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-repair-langdon",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-repair-okotoks",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/same-day-appliance-repair-calgary",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/on-site-appliance-repair-calgary",
+      "destination": "/appliance-repair-calgary",
+      "permanent": true
+    },
+    {
+      "source": "/404",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/accessibility",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-5-star-reviews-guide",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-ajax-whitby-oshawa",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-busy-season-management",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-mobile-job-management",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-richmond-hill",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dishwasher-leaking-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dishwasher-not-cleaning-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/find-appliance-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/freezer-not-freezing-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fridge-making-noise-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-choose-repair-technician",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/index",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/local-appliance-repair-business-software-2026",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/local-vs-chain-appliance-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/microwave-not-heating-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/online-booking-appliance-repair-guide",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/same-day-repair-worth-it",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/stove-burner-not-working-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/washer-not-draining-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/washer-not-spinning-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/bosch",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/frigidaire",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/ge",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/kenmore",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/kitchenaid",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/lg",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/maytag",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/samsung",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands/whirlpool",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-richmond-hill",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-not-draining-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-ajax",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-oshawa",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-pickering",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-whitby",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-not-heating-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-ajax",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-oshawa",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-pickering",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-whitby",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/for-businesses",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-not-working-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-leaking-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-not-cooling-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-ajax",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-oshawa",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-pickering",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-whitby",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/frigidaire-dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/frigidaire-fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/frigidaire-washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-dryer-repair-willowdale",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-oven-repair-forest-hill",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-oven-repair-rosedale",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-danforth-village",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-forest-hill",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-leaside",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-rosedale",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair-willowdale",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/ge-dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/ge-fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/ge-washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/kitchenaid-dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/kitchenaid-fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/kitchenaid-washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/lg-dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/lg-fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/lg-washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/maytag-dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/maytag-fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/maytag-washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/miele-dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/miele-fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/miele-washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-not-heating-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-ajax",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-oshawa",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-pickering",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-whitby",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/pricing",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/privacy",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/service-template",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/dryer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/freezer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/microwave-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/oven-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/refrigerator-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/stove-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services/washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-ajax",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-oshawa",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-pickering",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-whitby",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/terms",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-making-noise-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-not-draining-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-ajax",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-burlington",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-devon",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-oshawa",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-pickering",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-whitby",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-dishwasher-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-fridge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-washer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/areas",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/beaumont",
+      "destination": "https://fixlifyservices.com/beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-brampton",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-cost-gta-2026",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-etobicoke",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-markham",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-mississauga",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-north-york",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-oakville",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-scarborough",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/appliance-repair-vaughan",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bosch-washing-machine-repair-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/certified-appliance-technician-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dishwasher-repair-cost-toronto-2026",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dishwasher-repair-near-me-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dryer-not-drying-clothes-properly-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dryer-not-heating-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dryer-not-heating-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dryer-repair-cost-toronto-2026",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/dryer-repair-near-me-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/emergency-appliance-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/emergency-appliance-repair-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fridge-not-cooling-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fridge-repair-cost-toronto-2026",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/fridge-repair-near-me-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-long-does-appliance-repair-take",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-find-good-appliance-repair-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lg-washer-repair-near-me-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oven-not-heating-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/oven-repair-near-me-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/same-day-appliance-repair-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/samsung-fridge-not-cooling-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/samsung-washer-error-codes-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/washer-making-noise-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/washer-repair-cost-toronto-2026",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/washer-repair-near-me-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/whirlpool-dryer-not-spinning-near-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/whirlpool-fridge-repair-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/brands",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-etobicoke",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-markham",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-oakville",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-installation-vaughan",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-beaumont",
+      "destination": "https://fixlifyservices.com/dishwasher-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-etobicoke",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/dishwasher-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-leduc",
+      "destination": "https://fixlifyservices.com/dishwasher-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-oakville",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/dishwasher-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/dishwasher-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-st-albert",
+      "destination": "https://fixlifyservices.com/dishwasher-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/dishwasher-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-beaumont",
+      "destination": "https://fixlifyservices.com/dryer-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-etobicoke",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/dryer-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-leduc",
+      "destination": "https://fixlifyservices.com/dryer-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-oakville",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-scarborough",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/dryer-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/dryer-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-st-albert",
+      "destination": "https://fixlifyservices.com/dryer-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/dryer-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-beaumont",
+      "destination": "https://fixlifyservices.com/freezer-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/freezer-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-leduc",
+      "destination": "https://fixlifyservices.com/freezer-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/freezer-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/freezer-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-st-albert",
+      "destination": "https://fixlifyservices.com/freezer-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/freezer-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-beaumont",
+      "destination": "https://fixlifyservices.com/fridge-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-etobicoke",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/fridge-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-leduc",
+      "destination": "https://fixlifyservices.com/fridge-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-oakville",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/fridge-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/fridge-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-st-albert",
+      "destination": "https://fixlifyservices.com/fridge-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/fridge-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/frigidaire-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-appliance-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-appliance-repair-scarborough-village",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-dryer-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-oven-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/gas-stove-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/ge-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/kenmore-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/kitchenaid-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/leduc",
+      "destination": "https://fixlifyservices.com/leduc",
+      "permanent": true
+    },
+    {
+      "source": "/lg-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/maytag-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-beaumont",
+      "destination": "https://fixlifyservices.com/microwave-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/microwave-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-leduc",
+      "destination": "https://fixlifyservices.com/microwave-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/microwave-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/microwave-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-st-albert",
+      "destination": "https://fixlifyservices.com/microwave-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/microwave-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/miele-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-beaumont",
+      "destination": "https://fixlifyservices.com/oven-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-etobicoke",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/oven-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-leduc",
+      "destination": "https://fixlifyservices.com/oven-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-oakville",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-scarborough",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/oven-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/oven-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-st-albert",
+      "destination": "https://fixlifyservices.com/oven-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/oven-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-beaumont",
+      "destination": "https://fixlifyservices.com/range-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/range-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-leduc",
+      "destination": "https://fixlifyservices.com/range-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/range-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/range-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-st-albert",
+      "destination": "https://fixlifyservices.com/range-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/range-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/services",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/sherwood-park",
+      "destination": "https://fixlifyservices.com/sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/spruce-grove",
+      "destination": "https://fixlifyservices.com/spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/st-albert",
+      "destination": "https://fixlifyservices.com/st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/stony-plain",
+      "destination": "https://fixlifyservices.com/stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-beaumont",
+      "destination": "https://fixlifyservices.com/stove-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-brampton",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-etobicoke",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/stove-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-leduc",
+      "destination": "https://fixlifyservices.com/stove-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-markham",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-mississauga",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-oakville",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/stove-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/stove-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-st-albert",
+      "destination": "https://fixlifyservices.com/stove-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/stove-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-vaughan",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-dryer-repair-near-me",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-beaumont",
+      "destination": "https://fixlifyservices.com/washer-repair-beaumont",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-fort-saskatchewan",
+      "destination": "https://fixlifyservices.com/washer-repair-fort-saskatchewan",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-leduc",
+      "destination": "https://fixlifyservices.com/washer-repair-leduc",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-oakville",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-sherwood-park",
+      "destination": "https://fixlifyservices.com/washer-repair-sherwood-park",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-spruce-grove",
+      "destination": "https://fixlifyservices.com/washer-repair-spruce-grove",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-st-albert",
+      "destination": "https://fixlifyservices.com/washer-repair-st-albert",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-stony-plain",
+      "destination": "https://fixlifyservices.com/washer-repair-stony-plain",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-toronto",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-repair",
+      "destination": "https://nikaappliancerepair.com/",
+      "permanent": true
+    },
+    {
+      "source": "/bosch-repair-edmonton",
+      "destination": "https://fixlifyservices.com/bosch-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/dishwasher-repair-edmonton",
+      "destination": "https://fixlifyservices.com/dishwasher-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/dryer-repair-edmonton",
+      "destination": "https://fixlifyservices.com/dryer-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/edmonton",
+      "destination": "https://fixlifyservices.com/edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/electrolux-repair-edmonton",
+      "destination": "https://fixlifyservices.com/electrolux-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/freezer-repair-edmonton",
+      "destination": "https://fixlifyservices.com/freezer-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-edmonton",
+      "destination": "https://fixlifyservices.com/fridge-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/frigidaire-repair-edmonton",
+      "destination": "https://fixlifyservices.com/frigidaire-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/ge-repair-edmonton",
+      "destination": "https://fixlifyservices.com/ge-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/kenmore-repair-edmonton",
+      "destination": "https://fixlifyservices.com/kenmore-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/kitchenaid-repair-edmonton",
+      "destination": "https://fixlifyservices.com/kitchenaid-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/lg-repair-edmonton",
+      "destination": "https://fixlifyservices.com/lg-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/maytag-repair-edmonton",
+      "destination": "https://fixlifyservices.com/maytag-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/microwave-repair-edmonton",
+      "destination": "https://fixlifyservices.com/microwave-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/oven-repair-edmonton",
+      "destination": "https://fixlifyservices.com/oven-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/range-repair-edmonton",
+      "destination": "https://fixlifyservices.com/range-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/samsung-repair-edmonton",
+      "destination": "https://fixlifyservices.com/samsung-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/stove-repair-edmonton",
+      "destination": "https://fixlifyservices.com/stove-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/washer-repair-edmonton",
+      "destination": "https://fixlifyservices.com/washer-repair-edmonton",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-repair-edmonton",
+      "destination": "https://fixlifyservices.com/whirlpool-repair-edmonton",
+      "permanent": true
+    },
+    {
       "source": "/home",
       "destination": "/",
       "permanent": true
@@ -1857,6 +3692,11 @@
     {
       "source": "/whirlpool-repair-toronto",
       "destination": "https://nappliancerepair.com/whirlpool-repair-toronto",
+      "permanent": true
+    },
+    {
+      "source": "/fridge-repair-somerset-calgary",
+      "destination": "/fridge-repair-calgary",
       "permanent": true
     }
   ]
