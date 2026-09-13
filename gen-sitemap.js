@@ -8,7 +8,8 @@ const path = require('path');
 const PUBLISHED_FILE = path.join(__dirname, 'sitemap-published.json');
 const SITEMAP_FILE = path.join(__dirname, 'sitemap.xml');
 
-const published = JSON.parse(fs.readFileSync(PUBLISHED_FILE, 'utf8'));
+const published = JSON.parse(fs.readFileSync(PUBLISHED_FILE, 'utf8'))
+  .filter(u => !new URL(u.url).pathname.split('/').some(segment => segment.startsWith('gas-')));
 
 const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">

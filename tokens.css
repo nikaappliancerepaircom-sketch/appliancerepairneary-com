@@ -118,3 +118,8 @@ p a, li a {
   padding-bottom: 6px;
   display: inline-block;
 }
+
+/* Gas service is temporarily unavailable. Keep its URLs, but do not expose navigation to them. */
+a[href*="/gas-"] {
+  display: none !important;
+}
